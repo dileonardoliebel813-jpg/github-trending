@@ -10,9 +10,7 @@
 
 ## 预览截图
 
-> 部署后将截图放置于此，命名为 `screenshot.png` 并提交到仓库根目录。
-
-<!-- ![预览截图](screenshot.png) -->
+![项目预览](./assets/preview.png)
 
 ---
 
