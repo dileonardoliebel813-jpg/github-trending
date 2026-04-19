@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# 本地生成的数据（可选：如果想让 Actions 提交则不要忽略）
+# data.json
+
+# 系统文件
+.DS_Store
+Thumbs.db

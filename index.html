@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub 热门项目推荐</title>
+  <meta name="description" content="自动抓取 GitHub 热门开源项目，每 6 小时更新，支持 Python / JavaScript / TypeScript 筛选" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="header-top">
+      <div>
+        <h1>🔥 GitHub 热门项目推荐</h1>
+        <p class="subtitle">自动追踪 Python / JavaScript / TypeScript 热门开源项目，每 6 小时更新</p>
+      </div>
+      <a id="github-link" href="#" target="_blank" rel="noopener" class="gh-btn">在 GitHub 查看源码</a>
+    </div>
+    <p id="meta">加载中...</p>
+    <div id="filters">
+      <button class="filter-btn active" data-lang="all">全部</button>
+      <button class="filter-btn" data-lang="Python">Python</button>
+      <button class="filter-btn" data-lang="JavaScript">JavaScript</button>
+      <button class="filter-btn" data-lang="TypeScript">TypeScript</button>
+    </div>
+  </header>
+
+  <main id="cards"></main>
+
+  <script>
+    const LANG_COLORS = {
+      Python: "#3572A5",
+      JavaScript: "#f1e05a",
+      TypeScript: "#3178c6",
+    };
+
+    let allProjects = [];
+
+    function formatDate(iso) {
+      return new Date(iso).toLocaleDateString("zh-CN");
+    }
+
+    function renderCards(projects) {
+      const container = document.getElementById("cards");
+      if (!projects.length) {
+        container.innerHTML = "<p class='empty'>暂无数据</p>";
+        return;
+      }
+      container.innerHTML = projects.map((p, i) => `
+        <a class="card" href="${p.html_url}" target="_blank" rel="noopener">
+          <div class="card-rank">#${i + 1}</div>
+          <div class="card-body">
+            <div class="card-title">${p.full_name}</div>
+            <div class="card-desc">${p.description || "暂无描述"}</div>
+            <div class="card-meta">
+              <span class="lang-dot" style="background:${LANG_COLORS[p.language] || '#888'}"></span>
+              <span>${p.language}</span>
+              <span>⭐ ${p.stargazers_count.toLocaleString()}</span>
+              <span>🍴 ${p.forks_count.toLocaleString()}</span>
+              <span>🕒 ${formatDate(p.pushed_at)}</span>
+              <span class="score">分数 ${p.score}</span>
+            </div>
+          </div>
+        </a>
+      `).join("");
+    }
+
+    function setFilter(lang) {
+      document.querySelectorAll(".filter-btn").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.lang === lang);
+      });
+      const filtered = lang === "all"
+        ? allProjects
+        : allProjects.filter(p => p.language === lang);
+      renderCards(filtered);
+    }
+
+    document.getElementById("filters").addEventListener("click", e => {
+      if (e.target.classList.contains("filter-btn")) {
+        setFilter(e.target.dataset.lang);
+      }
+    });
+
+    fetch("data.json")
+      .then(r => {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(data => {
+        allProjects = data.projects || [];
+        const updated = new Date(data.generated_at);
+        const diff = Math.round((Date.now() - updated) / 60000);
+        const ago = diff < 60 ? `${diff} 分钟前` : `${Math.round(diff/60)} 小时前`;
+        document.getElementById("meta").textContent =
+          `共 ${data.total_count} 个项目 · 更新于 ${formatDate(data.generated_at)}（${ago}）`;
+        const repoUrl = window.location.href.includes("github.io")
+          ? "https://github.com/" + window.location.hostname.split(".")[0] + "/" + window.location.pathname.split("/")[1]
+          : "https://github.com";
+        document.getElementById("github-link").href = repoUrl;
+        renderCards(allProjects);
+      })
+      .catch(err => {
+        document.getElementById("meta").textContent = "⚠️ 数据加载失败，请用本地服务器打开（python -m http.server 8000）";
+        document.getElementById("cards").innerHTML = "<p class='empty'>无法读取 data.json，请确认文件存在且通过 HTTP 服务访问。</p>";
+      });
+  </script>
+</body>
+</html>
