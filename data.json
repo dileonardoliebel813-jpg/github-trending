@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T12:56:26Z",
+  "generated_at": "2026-04-26T18:43:31Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,300 +7,300 @@
       "html_url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stargazers_count": 49730,
-      "forks_count": 6520,
+      "stargazers_count": 49775,
+      "forks_count": 6523,
       "pushed_at": "2026-04-26T08:10:38Z",
-      "score": 25.2058
+      "score": 25.2069
     },
     {
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stargazers_count": 39839,
-      "forks_count": 8182,
-      "pushed_at": "2026-04-26T02:23:01Z",
-      "score": 25.0975
+      "stargazers_count": 39941,
+      "forks_count": 8217,
+      "pushed_at": "2026-04-26T17:51:11Z",
+      "score": 25.1022
     },
     {
       "full_name": "Gitlawb/openclaude",
       "html_url": "https://github.com/Gitlawb/openclaude",
       "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
       "language": "TypeScript",
-      "stargazers_count": 24461,
-      "forks_count": 8035,
-      "pushed_at": "2026-04-26T12:25:19Z",
-      "score": 24.6007
-    },
-    {
-      "full_name": "safishamsi/graphify",
-      "html_url": "https://github.com/safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
-      "language": "Python",
-      "stargazers_count": 35099,
-      "forks_count": 3895,
-      "pushed_at": "2026-04-25T14:56:59Z",
-      "score": 24.5998
+      "stargazers_count": 24510,
+      "forks_count": 8038,
+      "pushed_at": "2026-04-26T15:11:55Z",
+      "score": 24.6029
     },
     {
       "full_name": "claude-code-best/claude-code",
       "html_url": "https://github.com/claude-code-best/claude-code",
       "description": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动",
       "language": "TypeScript",
-      "stargazers_count": 16947,
-      "forks_count": 15445,
-      "pushed_at": "2026-04-26T11:49:55Z",
-      "score": 24.5605
+      "stargazers_count": 16965,
+      "forks_count": 15447,
+      "pushed_at": "2026-04-26T15:39:21Z",
+      "score": 24.5616
+    },
+    {
+      "full_name": "safishamsi/graphify",
+      "html_url": "https://github.com/safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
+      "language": "Python",
+      "stargazers_count": 35326,
+      "forks_count": 3925,
+      "pushed_at": "2026-04-25T14:56:59Z",
+      "score": 24.2823
     },
     {
       "full_name": "NanmiCoder/cc-haha",
       "html_url": "https://github.com/NanmiCoder/cc-haha",
       "description": "Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析）",
       "language": "TypeScript",
-      "stargazers_count": 8685,
-      "forks_count": 7281,
+      "stargazers_count": 8714,
+      "forks_count": 7288,
       "pushed_at": "2026-04-25T14:00:13Z",
-      "score": 23.516
+      "score": 23.192
     },
     {
       "full_name": "garrytan/gbrain",
       "html_url": "https://github.com/garrytan/gbrain",
       "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "language": "TypeScript",
-      "stargazers_count": 11476,
-      "forks_count": 1375,
+      "stargazers_count": 11531,
+      "forks_count": 1383,
       "pushed_at": "2026-04-26T12:26:51Z",
-      "score": 22.9616
+      "score": 22.9692
     },
     {
       "full_name": "HKUDS/OpenHarness",
       "html_url": "https://github.com/HKUDS/OpenHarness",
       "description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
       "language": "Python",
-      "stargazers_count": 11254,
-      "forks_count": 1903,
+      "stargazers_count": 11286,
+      "forks_count": 1905,
       "pushed_at": "2026-04-25T06:10:51Z",
-      "score": 22.7766
+      "score": 22.7799
     },
     {
       "full_name": "emdash-cms/emdash",
       "html_url": "https://github.com/emdash-cms/emdash",
       "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
       "language": "TypeScript",
-      "stargazers_count": 10050,
+      "stargazers_count": 10056,
       "forks_count": 848,
-      "pushed_at": "2026-04-26T06:01:05Z",
-      "score": 22.5875
+      "pushed_at": "2026-04-26T18:33:25Z",
+      "score": 22.5881
     },
     {
       "full_name": "JackChen-me/open-multi-agent",
       "html_url": "https://github.com/JackChen-me/open-multi-agent",
       "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with multi-model teams and parallel execution. Three runtime dependencies.",
       "language": "TypeScript",
-      "stargazers_count": 5913,
-      "forks_count": 2310,
-      "pushed_at": "2026-04-26T06:40:01Z",
-      "score": 22.5578
+      "stargazers_count": 5916,
+      "forks_count": 2312,
+      "pushed_at": "2026-04-26T18:24:41Z",
+      "score": 22.5587
     },
     {
       "full_name": "alchaincyf/nuwa-skill",
       "html_url": "https://github.com/alchaincyf/nuwa-skill",
       "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
       "language": "Python",
-      "stargazers_count": 14719,
-      "forks_count": 2415,
+      "stargazers_count": 14874,
+      "forks_count": 2433,
       "pushed_at": "2026-04-23T12:04:08Z",
-      "score": 22.5403
+      "score": 22.5545
     },
     {
       "full_name": "JuliusBrussee/caveman",
       "html_url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Python",
-      "stargazers_count": 46804,
-      "forks_count": 2466,
+      "stargazers_count": 47023,
+      "forks_count": 2475,
       "pushed_at": "2026-04-18T10:11:39Z",
-      "score": 22.3184
-    },
-    {
-      "full_name": "kyegomez/OpenMythos",
-      "html_url": "https://github.com/kyegomez/OpenMythos",
-      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "language": "Python",
-      "stargazers_count": 10537,
-      "forks_count": 2351,
-      "pushed_at": "2026-04-22T17:01:02Z",
-      "score": 22.1926
+      "score": 22.3249
     },
     {
       "full_name": "titanwings/colleague-skill",
       "html_url": "https://github.com/titanwings/colleague-skill",
       "description": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶",
       "language": "Python",
-      "stargazers_count": 16624,
-      "forks_count": 1690,
+      "stargazers_count": 16648,
+      "forks_count": 1692,
       "pushed_at": "2026-04-22T06:05:55Z",
-      "score": 22.1869
+      "score": 22.189
     },
     {
       "full_name": "browser-use/browser-harness",
       "html_url": "https://github.com/browser-use/browser-harness",
       "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "language": "Python",
-      "stargazers_count": 7032,
-      "forks_count": 627,
+      "stargazers_count": 7113,
+      "forks_count": 637,
       "pushed_at": "2026-04-26T02:28:28Z",
-      "score": 22.0796
+      "score": 22.099
     },
     {
-      "full_name": "google-labs-code/design.md",
-      "html_url": "https://github.com/google-labs-code/design.md",
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "language": "TypeScript",
-      "stargazers_count": 8426,
-      "forks_count": 692,
-      "pushed_at": "2026-04-22T18:22:35Z",
-      "score": 21.3581
+      "full_name": "kyegomez/OpenMythos",
+      "html_url": "https://github.com/kyegomez/OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "language": "Python",
+      "stargazers_count": 10608,
+      "forks_count": 2371,
+      "pushed_at": "2026-04-22T17:01:02Z",
+      "score": 21.9069
     },
     {
       "full_name": "KKKKhazix/khazix-skills",
       "html_url": "https://github.com/KKKKhazix/khazix-skills",
       "description": "数字生命卡兹克开源的 AI Skills 合集",
       "language": "Python",
-      "stargazers_count": 6109,
-      "forks_count": 1027,
+      "stargazers_count": 6126,
+      "forks_count": 1033,
       "pushed_at": "2026-04-23T08:52:06Z",
-      "score": 21.2337
+      "score": 21.2394
+    },
+    {
+      "full_name": "google-labs-code/design.md",
+      "html_url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stargazers_count": 8532,
+      "forks_count": 703,
+      "pushed_at": "2026-04-22T18:22:35Z",
+      "score": 21.0818
     },
     {
       "full_name": "openai/codex-plugin-cc",
       "html_url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stargazers_count": 16147,
-      "forks_count": 910,
+      "stargazers_count": 16172,
+      "forks_count": 912,
       "pushed_at": "2026-04-18T20:42:15Z",
-      "score": 21.0157
+      "score": 21.0184
     },
     {
       "full_name": "QLHazyCoder/codex-oauth-automation-extension",
       "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复",
       "language": "JavaScript",
-      "stargazers_count": 2523,
-      "forks_count": 518,
+      "stargazers_count": 2542,
+      "forks_count": 528,
       "pushed_at": "2026-04-26T12:43:25Z",
-      "score": 20.9596
-    },
-    {
-      "full_name": "0xGF/boneyard",
-      "html_url": "https://github.com/0xGF/boneyard",
-      "description": "Auto generated skeleton loading framework",
-      "language": "TypeScript",
-      "stargazers_count": 5232,
-      "forks_count": 201,
-      "pushed_at": "2026-04-23T16:03:26Z",
-      "score": 20.5719
+      "score": 20.9766
     },
     {
       "full_name": "xixu-me/awesome-persona-distill-skills",
       "html_url": "https://github.com/xixu-me/awesome-persona-distill-skills",
       "description": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
       "language": "JavaScript",
-      "stargazers_count": 4043,
+      "stargazers_count": 4046,
       "forks_count": 453,
       "pushed_at": "2026-04-23T10:03:28Z",
-      "score": 20.4124
+      "score": 20.4132
     },
     {
-      "full_name": "ConardLi/garden-skills",
-      "html_url": "https://github.com/ConardLi/garden-skills",
-      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "language": "JavaScript",
-      "stargazers_count": 1320,
-      "forks_count": 246,
-      "pushed_at": "2026-04-25T14:54:03Z",
-      "score": 19.9408
+      "full_name": "0xGF/boneyard",
+      "html_url": "https://github.com/0xGF/boneyard",
+      "description": "Auto generated skeleton loading framework",
+      "language": "TypeScript",
+      "stargazers_count": 5240,
+      "forks_count": 201,
+      "pushed_at": "2026-04-23T16:03:26Z",
+      "score": 20.2668
     },
     {
       "full_name": "Manavarya09/design-extract",
       "html_url": "https://github.com/Manavarya09/design-extract",
       "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
       "language": "JavaScript",
-      "stargazers_count": 1607,
+      "stargazers_count": 1624,
       "forks_count": 151,
-      "pushed_at": "2026-04-26T08:28:11Z",
-      "score": 19.8947
+      "pushed_at": "2026-04-26T18:34:46Z",
+      "score": 19.9052
     },
     {
-      "full_name": "bergside/design-md-chrome",
-      "html_url": "https://github.com/bergside/design-md-chrome",
-      "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+      "full_name": "ConardLi/garden-skills",
+      "html_url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
-      "stargazers_count": 1197,
-      "forks_count": 162,
-      "pushed_at": "2026-04-24T10:19:54Z",
-      "score": 18.9904
+      "stargazers_count": 1360,
+      "forks_count": 253,
+      "pushed_at": "2026-04-25T14:54:03Z",
+      "score": 19.6568
     },
     {
       "full_name": "openclaw/clawsweeper",
       "html_url": "https://github.com/openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "language": "JavaScript",
-      "stargazers_count": 846,
-      "forks_count": 84,
-      "pushed_at": "2026-04-26T12:55:21Z",
-      "score": 18.963
+      "stargazers_count": 930,
+      "forks_count": 95,
+      "pushed_at": "2026-04-26T18:38:52Z",
+      "score": 19.1184
+    },
+    {
+      "full_name": "bergside/design-md-chrome",
+      "html_url": "https://github.com/bergside/design-md-chrome",
+      "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+      "language": "JavaScript",
+      "stargazers_count": 1205,
+      "forks_count": 165,
+      "pushed_at": "2026-04-24T10:19:54Z",
+      "score": 19.0061
     },
     {
       "full_name": "tvytlx/ai-agent-deep-dive",
       "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
       "description": "AI Agent 源码深度研究报告",
       "language": "Python",
-      "stargazers_count": 5608,
+      "stargazers_count": 5611,
       "forks_count": 1636,
       "pushed_at": "2026-04-12T15:01:19Z",
-      "score": 18.8159
+      "score": 18.6039
     },
     {
       "full_name": "ChinaSiro/claude-code-sourcemap",
       "html_url": "https://github.com/ChinaSiro/claude-code-sourcemap",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 9021,
-      "forks_count": 14563,
+      "stargazers_count": 9025,
+      "forks_count": 14562,
       "pushed_at": "2026-03-31T08:30:55Z",
-      "score": 18.1041
+      "score": 18.1045
     },
     {
       "full_name": "paoloanzn/free-code",
       "html_url": "https://github.com/paoloanzn/free-code",
       "description": "The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.",
       "language": "TypeScript",
-      "stargazers_count": 8116,
-      "forks_count": 1880,
+      "stargazers_count": 8119,
+      "forks_count": 1883,
       "pushed_at": "2026-04-01T16:24:23Z",
-      "score": 17.2648
+      "score": 17.1186
     },
     {
       "full_name": "zarazhangrui/tab-out",
       "html_url": "https://github.com/zarazhangrui/tab-out",
       "description": "Keep tabs on your tabs. Turn your \"New tabs\" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them. ",
       "language": "JavaScript",
-      "stargazers_count": 1008,
-      "forks_count": 281,
+      "stargazers_count": 1011,
+      "forks_count": 282,
       "pushed_at": "2026-04-14T22:27:23Z",
-      "score": 16.6681
+      "score": 16.6728
     },
     {
       "full_name": "tradesdontlie/tradingview-mcp",
       "html_url": "https://github.com/tradesdontlie/tradingview-mcp",
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "language": "JavaScript",
-      "stargazers_count": 2344,
-      "forks_count": 1218,
+      "stargazers_count": 2353,
+      "forks_count": 1224,
       "pushed_at": "2026-04-04T00:27:04Z",
-      "score": 16.116
+      "score": 16.1223
     }
   ]
 }
