@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T08:16:37Z",
+  "generated_at": "2026-05-06T13:56:26Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,190 +7,190 @@
       "html_url": "https://github.com/nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
       "language": "TypeScript",
-      "stargazers_count": 28899,
-      "forks_count": 3153,
-      "pushed_at": "2026-05-06T08:13:52Z",
-      "score": 24.2998
+      "stargazers_count": 29630,
+      "forks_count": 3227,
+      "pushed_at": "2026-05-06T13:53:40Z",
+      "score": 24.3364
     },
     {
       "full_name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
       "html_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
       "description": "GPT-Image-2 API and Prompts",
       "language": "Python",
-      "stargazers_count": 12482,
-      "forks_count": 1262,
+      "stargazers_count": 12563,
+      "forks_count": 1264,
       "pushed_at": "2026-05-06T04:38:50Z",
-      "score": 23.0027
+      "score": 23.01
     },
     {
       "full_name": "google-labs-code/design.md",
       "html_url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stargazers_count": 11747,
-      "forks_count": 1043,
+      "stargazers_count": 11788,
+      "forks_count": 1044,
       "pushed_at": "2026-05-05T20:31:13Z",
-      "score": 22.8468
+      "score": 22.8508
     },
     {
       "full_name": "browser-use/browser-harness",
       "html_url": "https://github.com/browser-use/browser-harness",
       "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "language": "Python",
-      "stargazers_count": 10812,
-      "forks_count": 976,
-      "pushed_at": "2026-05-06T06:54:48Z",
-      "score": 22.7307
+      "stargazers_count": 10911,
+      "forks_count": 986,
+      "pushed_at": "2026-05-06T08:31:35Z",
+      "score": 22.745
     },
     {
       "full_name": "nashsu/llm_wiki",
       "html_url": "https://github.com/nashsu/llm_wiki",
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
-      "stargazers_count": 5953,
-      "forks_count": 728,
+      "stargazers_count": 6004,
+      "forks_count": 734,
       "pushed_at": "2026-05-06T06:22:04Z",
-      "score": 21.9877
+      "score": 22.0003
     },
     {
       "full_name": "getagentseal/codeburn",
       "html_url": "https://github.com/getagentseal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
       "language": "TypeScript",
-      "stargazers_count": 5540,
-      "forks_count": 419,
+      "stargazers_count": 5576,
+      "forks_count": 422,
       "pushed_at": "2026-05-06T07:35:43Z",
-      "score": 21.6401
+      "score": 21.6501
     },
     {
       "full_name": "OpenCoworkAI/open-codesign",
       "html_url": "https://github.com/OpenCoworkAI/open-codesign",
       "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
       "language": "TypeScript",
-      "stargazers_count": 4883,
-      "forks_count": 513,
+      "stargazers_count": 4929,
+      "forks_count": 514,
       "pushed_at": "2026-05-05T16:20:01Z",
-      "score": 21.6148
+      "score": 21.6252
     },
     {
       "full_name": "browser-use/video-use",
       "html_url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stargazers_count": 6443,
-      "forks_count": 904,
+      "stargazers_count": 6473,
+      "forks_count": 910,
       "pushed_at": "2026-05-03T22:08:26Z",
-      "score": 21.5299
+      "score": 21.5379
     },
     {
       "full_name": "freestylefly/awesome-gpt-image-2",
       "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中",
       "language": "JavaScript",
-      "stargazers_count": 4045,
-      "forks_count": 559,
+      "stargazers_count": 4105,
+      "forks_count": 567,
       "pushed_at": "2026-05-06T05:18:27Z",
-      "score": 21.4695
+      "score": 21.4913
     },
     {
       "full_name": "YouMind-OpenLab/awesome-gpt-image-2",
       "html_url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
       "description": "🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.",
       "language": "TypeScript",
-      "stargazers_count": 4593,
-      "forks_count": 421,
-      "pushed_at": "2026-05-06T01:50:27Z",
-      "score": 21.455
-    },
-    {
-      "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
-      "language": "Python",
-      "stargazers_count": 5553,
-      "forks_count": 501,
-      "pushed_at": "2026-05-04T10:39:22Z",
-      "score": 21.4037
+      "stargazers_count": 4718,
+      "forks_count": 428,
+      "pushed_at": "2026-05-06T13:29:20Z",
+      "score": 21.4901
     },
     {
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
       "language": "TypeScript",
-      "stargazers_count": 3659,
-      "forks_count": 452,
-      "pushed_at": "2026-05-06T08:15:43Z",
-      "score": 21.2632
+      "stargazers_count": 3710,
+      "forks_count": 460,
+      "pushed_at": "2026-05-06T13:37:13Z",
+      "score": 21.2858
     },
     {
       "full_name": "QLHazyCoder/codex-oauth-automation-extension",
       "html_url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
       "description": "Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复",
       "language": "JavaScript",
-      "stargazers_count": 2983,
-      "forks_count": 616,
-      "pushed_at": "2026-05-06T07:07:51Z",
-      "score": 21.2135
+      "stargazers_count": 2996,
+      "forks_count": 622,
+      "pushed_at": "2026-05-06T11:39:06Z",
+      "score": 21.2226
     },
     {
-      "full_name": "kyegomez/OpenMythos",
-      "html_url": "https://github.com/kyegomez/OpenMythos",
-      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
+      "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
       "language": "Python",
-      "stargazers_count": 12001,
-      "forks_count": 2720,
-      "pushed_at": "2026-04-27T08:58:47Z",
-      "score": 21.0065
+      "stargazers_count": 5580,
+      "forks_count": 504,
+      "pushed_at": "2026-05-04T10:39:22Z",
+      "score": 21.0945
     },
     {
       "full_name": "cursor/cookbook",
       "html_url": "https://github.com/cursor/cookbook",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 3579,
-      "forks_count": 409,
+      "stargazers_count": 3614,
+      "forks_count": 412,
       "pushed_at": "2026-05-05T00:54:15Z",
-      "score": 20.8634
+      "score": 20.8767
     },
     {
       "full_name": "OpenMOSS/MOSS-TTS-Nano",
       "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
       "language": "Python",
-      "stargazers_count": 2737,
-      "forks_count": 350,
+      "stargazers_count": 2744,
+      "forks_count": 352,
       "pushed_at": "2026-05-06T06:28:21Z",
-      "score": 20.8454
+      "score": 20.8508
     },
     {
-      "full_name": "Manavarya09/design-extract",
-      "html_url": "https://github.com/Manavarya09/design-extract",
-      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
-      "language": "JavaScript",
-      "stargazers_count": 2187,
-      "forks_count": 196,
-      "pushed_at": "2026-05-06T04:26:16Z",
-      "score": 20.3323
+      "full_name": "kyegomez/OpenMythos",
+      "html_url": "https://github.com/kyegomez/OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "language": "Python",
+      "stargazers_count": 12067,
+      "forks_count": 2734,
+      "pushed_at": "2026-04-27T08:58:47Z",
+      "score": 20.7634
     },
     {
       "full_name": "masterking32/MasterHttpRelayVPN",
       "html_url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "language": "Python",
-      "stargazers_count": 2455,
+      "stargazers_count": 2485,
       "forks_count": 243,
-      "pushed_at": "2026-05-04T19:46:39Z",
-      "score": 20.227
+      "pushed_at": "2026-05-06T12:48:57Z",
+      "score": 20.567
+    },
+    {
+      "full_name": "Manavarya09/design-extract",
+      "html_url": "https://github.com/Manavarya09/design-extract",
+      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+      "language": "JavaScript",
+      "stargazers_count": 2203,
+      "forks_count": 197,
+      "pushed_at": "2026-05-06T04:26:16Z",
+      "score": 20.3422
     },
     {
       "full_name": "Robbyant/lingbot-map",
       "html_url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stargazers_count": 5819,
-      "forks_count": 556,
+      "stargazers_count": 5844,
+      "forks_count": 561,
       "pushed_at": "2026-04-30T07:49:44Z",
-      "score": 20.0176
+      "score": 20.0264
     },
     {
       "full_name": "openclaw/clawsweeper",
@@ -198,109 +198,109 @@
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "language": "JavaScript",
       "stargazers_count": 1565,
-      "forks_count": 190,
+      "forks_count": 191,
       "pushed_at": "2026-05-06T07:05:41Z",
-      "score": 19.9824
+      "score": 19.985
     },
     {
       "full_name": "dwgx/WindsurfAPI",
       "html_url": "https://github.com/dwgx/WindsurfAPI",
       "description": "Windsurf-to-OpenAI compatible API proxy",
       "language": "JavaScript",
-      "stargazers_count": 1071,
-      "forks_count": 288,
+      "stargazers_count": 1081,
+      "forks_count": 289,
       "pushed_at": "2026-05-06T00:25:18Z",
-      "score": 19.8105
+      "score": 19.8215
     },
     {
       "full_name": "earthtojake/text-to-cad",
       "html_url": "https://github.com/earthtojake/text-to-cad",
       "description": "An open source harness for generating CAD models",
       "language": "JavaScript",
-      "stargazers_count": 1998,
-      "forks_count": 237,
+      "stargazers_count": 2017,
+      "forks_count": 239,
       "pushed_at": "2026-05-04T03:35:28Z",
-      "score": 19.6916
+      "score": 19.7053
     },
     {
       "full_name": "theori-io/copy-fail-CVE-2026-31431",
       "html_url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "language": "Python",
-      "stargazers_count": 3371,
-      "forks_count": 733,
+      "stargazers_count": 3398,
+      "forks_count": 738,
       "pushed_at": "2026-04-29T21:21:46Z",
-      "score": 19.6098
+      "score": 19.6212
     },
     {
       "full_name": "worldwonderer/oh-story-claudecode",
       "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
       "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
       "language": "JavaScript",
-      "stargazers_count": 795,
-      "forks_count": 210,
+      "stargazers_count": 804,
+      "forks_count": 211,
       "pushed_at": "2026-05-05T14:25:57Z",
-      "score": 19.3555
+      "score": 19.3691
     },
     {
       "full_name": "aattaran/deepclaude",
       "html_url": "https://github.com/aattaran/deepclaude",
       "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "language": "JavaScript",
-      "stargazers_count": 1382,
-      "forks_count": 67,
+      "stargazers_count": 1416,
+      "forks_count": 72,
       "pushed_at": "2026-05-05T03:48:14Z",
-      "score": 19.0139
+      "score": 19.0737
     },
     {
       "full_name": "vercel-labs/wterm",
       "html_url": "https://github.com/vercel-labs/wterm",
       "description": "A terminal emulator for the web",
       "language": "TypeScript",
-      "stargazers_count": 2857,
+      "stargazers_count": 2861,
       "forks_count": 115,
       "pushed_at": "2026-04-30T20:23:58Z",
-      "score": 18.7995
+      "score": 18.8009
     },
     {
       "full_name": "AgriciDaniel/claude-obsidian",
       "html_url": "https://github.com/AgriciDaniel/claude-obsidian",
       "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
       "language": "Python",
-      "stargazers_count": 4318,
-      "forks_count": 486,
+      "stargazers_count": 4366,
+      "forks_count": 493,
       "pushed_at": "2026-04-24T10:21:48Z",
-      "score": 18.3953
+      "score": 18.1863
     },
     {
       "full_name": "cloudflare/agentic-inbox",
       "html_url": "https://github.com/cloudflare/agentic-inbox",
       "description": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers",
       "language": "TypeScript",
-      "stargazers_count": 2570,
-      "forks_count": 338,
+      "stargazers_count": 2606,
+      "forks_count": 344,
       "pushed_at": "2026-04-23T21:04:17Z",
-      "score": 17.4683
+      "score": 17.4909
     },
     {
       "full_name": "bergside/design-md-chrome",
       "html_url": "https://github.com/bergside/design-md-chrome",
       "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
       "language": "JavaScript",
-      "stargazers_count": 1737,
-      "forks_count": 220,
+      "stargazers_count": 1763,
+      "forks_count": 221,
       "pushed_at": "2026-04-24T10:19:54Z",
-      "score": 17.09
+      "score": 16.8799
     },
     {
       "full_name": "andrewjiang/palantir-for-family-trips",
       "html_url": "https://github.com/andrewjiang/palantir-for-family-trips",
       "description": "A Palantir-ish dashboard for family trip planning.",
       "language": "JavaScript",
-      "stargazers_count": 805,
+      "stargazers_count": 807,
       "forks_count": 162,
       "pushed_at": "2026-04-13T07:46:07Z",
-      "score": 13.8845
+      "score": 13.887
     }
   ]
 }
