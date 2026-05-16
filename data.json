@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T07:57:06Z",
+  "generated_at": "2026-05-16T13:11:44Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,210 +7,210 @@
       "html_url": "https://github.com/nexu-io/open-design",
       "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
       "language": "TypeScript",
-      "stargazers_count": 41894,
-      "forks_count": 4784,
-      "pushed_at": "2026-05-16T07:51:19Z",
-      "score": 24.8795
-    },
-    {
-      "full_name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-      "html_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-      "description": "GPT-Image-2 API and Prompts",
-      "language": "Python",
-      "stargazers_count": 14578,
-      "forks_count": 1459,
-      "pushed_at": "2026-05-14T09:22:54Z",
-      "score": 22.9026
+      "stargazers_count": 42111,
+      "forks_count": 4805,
+      "pushed_at": "2026-05-16T12:41:05Z",
+      "score": 24.8869
     },
     {
       "full_name": "browser-use/browser-harness",
       "html_url": "https://github.com/browser-use/browser-harness",
       "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
       "language": "Python",
-      "stargazers_count": 12840,
-      "forks_count": 1180,
+      "stargazers_count": 12872,
+      "forks_count": 1182,
       "pushed_at": "2026-05-15T07:18:05Z",
-      "score": 22.6696
+      "score": 22.673
+    },
+    {
+      "full_name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "html_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "description": "GPT-Image-2 API and Prompts",
+      "language": "Python",
+      "stargazers_count": 14637,
+      "forks_count": 1470,
+      "pushed_at": "2026-05-14T09:22:54Z",
+      "score": 22.5933
     },
     {
       "full_name": "anthropics/claude-for-legal",
       "html_url": "https://github.com/anthropics/claude-for-legal",
       "description": "A suite of plugins for legal workflows",
       "language": "Python",
-      "stargazers_count": 5856,
-      "forks_count": 813,
+      "stargazers_count": 6063,
+      "forks_count": 843,
       "pushed_at": "2026-05-16T05:44:48Z",
-      "score": 22.0264
+      "score": 22.0792
     },
     {
       "full_name": "Yuan1z0825/nature-skills",
       "html_url": "https://github.com/Yuan1z0825/nature-skills",
       "description": "符合nature论文学术表达和科研绘图的Skill",
       "language": "Python",
-      "stargazers_count": 6812,
-      "forks_count": 468,
-      "pushed_at": "2026-05-16T06:34:37Z",
-      "score": 21.9019
+      "stargazers_count": 6951,
+      "forks_count": 474,
+      "pushed_at": "2026-05-16T12:06:20Z",
+      "score": 21.9284
     },
     {
       "full_name": "freestylefly/awesome-gpt-image-2",
       "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
-      "stargazers_count": 5399,
-      "forks_count": 739,
+      "stargazers_count": 5418,
+      "forks_count": 740,
       "pushed_at": "2026-05-16T03:55:54Z",
-      "score": 21.8975
+      "score": 21.9017
     },
     {
       "full_name": "willchen96/mike",
       "html_url": "https://github.com/willchen96/mike",
       "description": "OSS AI Legal Platform",
       "language": "TypeScript",
-      "stargazers_count": 3024,
-      "forks_count": 878,
+      "stargazers_count": 3037,
+      "forks_count": 881,
       "pushed_at": "2026-05-15T17:48:32Z",
-      "score": 21.4041
+      "score": 21.4101
     },
     {
       "full_name": "crynta/terax-ai",
       "html_url": "https://github.com/crynta/terax-ai",
       "description": "Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React",
       "language": "TypeScript",
-      "stargazers_count": 3104,
-      "forks_count": 313,
+      "stargazers_count": 3214,
+      "forks_count": 327,
       "pushed_at": "2026-05-16T02:25:13Z",
-      "score": 20.9155
+      "score": 20.9721
     },
     {
       "full_name": "1weiho/open-slide",
       "html_url": "https://github.com/1weiho/open-slide",
       "description": "A slide framework built for agents.",
       "language": "TypeScript",
-      "stargazers_count": 3300,
-      "forks_count": 217,
-      "pushed_at": "2026-05-16T07:20:34Z",
-      "score": 20.7942
+      "stargazers_count": 3317,
+      "forks_count": 218,
+      "pushed_at": "2026-05-16T13:01:02Z",
+      "score": 20.8017
     },
     {
       "full_name": "masterking32/MasterHttpRelayVPN",
       "html_url": "https://github.com/masterking32/MasterHttpRelayVPN",
       "description": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.",
       "language": "Python",
-      "stargazers_count": 3361,
-      "forks_count": 384,
+      "stargazers_count": 3370,
+      "forks_count": 389,
       "pushed_at": "2026-05-15T04:53:31Z",
-      "score": 20.7691
+      "score": 20.7782
     },
     {
       "full_name": "OpenCoworkAI/open-codesign",
       "html_url": "https://github.com/OpenCoworkAI/open-codesign",
       "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
       "language": "TypeScript",
-      "stargazers_count": 5956,
-      "forks_count": 630,
+      "stargazers_count": 5961,
+      "forks_count": 631,
       "pushed_at": "2026-05-12T04:37:51Z",
-      "score": 20.6677
+      "score": 20.6693
     },
     {
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
       "language": "TypeScript",
-      "stargazers_count": 3087,
-      "forks_count": 168,
-      "pushed_at": "2026-05-16T04:45:47Z",
-      "score": 20.6002
+      "stargazers_count": 3190,
+      "forks_count": 172,
+      "pushed_at": "2026-05-16T12:35:38Z",
+      "score": 20.6447
     },
     {
       "full_name": "huangserva/3DCellForge",
       "html_url": "https://github.com/huangserva/3DCellForge",
       "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
       "language": "JavaScript",
-      "stargazers_count": 2068,
-      "forks_count": 349,
+      "stargazers_count": 2079,
+      "forks_count": 350,
       "pushed_at": "2026-05-16T02:09:42Z",
-      "score": 20.5638
+      "score": 20.5705
     },
     {
       "full_name": "earthtojake/text-to-cad",
       "html_url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stargazers_count": 2876,
+      "stargazers_count": 2890,
       "forks_count": 344,
       "pushed_at": "2026-05-14T20:35:26Z",
-      "score": 20.5584
+      "score": 20.5633
     },
     {
       "full_name": "neilsonnn/image-blaster",
       "html_url": "https://github.com/neilsonnn/image-blaster",
       "description": "An image-to-world skillset for Claude.",
       "language": "TypeScript",
-      "stargazers_count": 2318,
-      "forks_count": 208,
+      "stargazers_count": 2502,
+      "forks_count": 228,
       "pushed_at": "2026-05-15T01:36:10Z",
-      "score": 20.0922
+      "score": 20.2143
     },
     {
       "full_name": "openclaw/clawsweeper",
       "html_url": "https://github.com/openclaw/clawsweeper",
       "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
       "language": "JavaScript",
-      "stargazers_count": 1638,
+      "stargazers_count": 1639,
       "forks_count": 210,
-      "pushed_at": "2026-05-15T16:42:27Z",
-      "score": 20.0778
+      "pushed_at": "2026-05-16T12:37:17Z",
+      "score": 20.0784
     },
     {
       "full_name": "worldwonderer/oh-story-claudecode",
       "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
       "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
       "language": "JavaScript",
-      "stargazers_count": 1133,
-      "forks_count": 265,
+      "stargazers_count": 1144,
+      "forks_count": 266,
       "pushed_at": "2026-05-16T06:10:19Z",
-      "score": 19.8253
-    },
-    {
-      "full_name": "cursor/cookbook",
-      "html_url": "https://github.com/cursor/cookbook",
-      "description": null,
-      "language": "TypeScript",
-      "stargazers_count": 3772,
-      "forks_count": 438,
-      "pushed_at": "2026-05-10T11:10:04Z",
-      "score": 19.7427
+      "score": 19.8368
     },
     {
       "full_name": "denuitt1/mhr-cfw",
       "html_url": "https://github.com/denuitt1/mhr-cfw",
       "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
       "language": "Python",
-      "stargazers_count": 3578,
-      "forks_count": 354,
+      "stargazers_count": 3589,
+      "forks_count": 357,
       "pushed_at": "2026-05-10T20:40:46Z",
-      "score": 19.5837
+      "score": 19.591
     },
     {
-      "full_name": "kyegomez/OpenMythos",
-      "html_url": "https://github.com/kyegomez/OpenMythos",
-      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
-      "language": "Python",
-      "stargazers_count": 13003,
-      "forks_count": 2960,
-      "pushed_at": "2026-04-27T08:58:47Z",
-      "score": 18.9578
+      "full_name": "cursor/cookbook",
+      "html_url": "https://github.com/cursor/cookbook",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 3773,
+      "forks_count": 438,
+      "pushed_at": "2026-05-10T11:10:04Z",
+      "score": 19.4654
     },
     {
       "full_name": "sandeco/reversa",
       "html_url": "https://github.com/sandeco/reversa",
       "description": "Transform legacy systems into executable specifications for AI coding agents",
       "language": "JavaScript",
-      "stargazers_count": 820,
+      "stargazers_count": 823,
       "forks_count": 279,
       "pushed_at": "2026-05-13T15:38:22Z",
-      "score": 18.883
+      "score": 18.8866
+    },
+    {
+      "full_name": "kyegomez/OpenMythos",
+      "html_url": "https://github.com/kyegomez/OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "language": "Python",
+      "stargazers_count": 13016,
+      "forks_count": 2967,
+      "pushed_at": "2026-04-27T08:58:47Z",
+      "score": 18.78
     },
     {
       "full_name": "Einsia/OpenChronicle",
@@ -227,80 +227,80 @@
       "html_url": "https://github.com/basketikun/chatgpt2api",
       "description": "ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件",
       "language": "TypeScript",
-      "stargazers_count": 2556,
-      "forks_count": 743,
+      "stargazers_count": 2563,
+      "forks_count": 752,
       "pushed_at": "2026-05-06T15:00:32Z",
-      "score": 18.5608
+      "score": 18.5695
     },
     {
       "full_name": "vercel-labs/deepsec",
       "html_url": "https://github.com/vercel-labs/deepsec",
       "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
       "language": "TypeScript",
-      "stargazers_count": 2625,
-      "forks_count": 175,
+      "stargazers_count": 2628,
+      "forks_count": 176,
       "pushed_at": "2026-05-07T16:38:21Z",
-      "score": 18.1177
+      "score": 18.1217
     },
     {
       "full_name": "aattaran/deepclaude",
       "html_url": "https://github.com/aattaran/deepclaude",
       "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "language": "JavaScript",
-      "stargazers_count": 1869,
+      "stargazers_count": 1872,
       "forks_count": 106,
       "pushed_at": "2026-05-09T23:32:30Z",
-      "score": 18.0574
+      "score": 18.059
     },
     {
       "full_name": "tolibear/goalbuddy",
       "html_url": "https://github.com/tolibear/goalbuddy",
       "description": "A better /goal for Codex and Claude Code",
       "language": "JavaScript",
-      "stargazers_count": 541,
+      "stargazers_count": 543,
       "forks_count": 35,
       "pushed_at": "2026-05-14T14:03:56Z",
-      "score": 17.7592
+      "score": 17.7629
     },
     {
       "full_name": "ZeroZ-lab/cc-design",
       "html_url": "https://github.com/ZeroZ-lab/cc-design",
       "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
       "language": "JavaScript",
-      "stargazers_count": 771,
+      "stargazers_count": 772,
       "forks_count": 78,
       "pushed_at": "2026-05-12T04:56:58Z",
-      "score": 17.5854
+      "score": 17.5867
     },
     {
       "full_name": "theori-io/copy-fail-CVE-2026-31431",
       "html_url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
       "description": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code",
       "language": "Python",
-      "stargazers_count": 3818,
+      "stargazers_count": 3817,
       "forks_count": 844,
       "pushed_at": "2026-04-29T21:21:46Z",
-      "score": 17.4839
+      "score": 17.4836
     },
     {
       "full_name": "Fokkyp/SoftwareCopyright-Skill",
       "html_url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
       "description": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务",
       "language": "Python",
-      "stargazers_count": 2991,
-      "forks_count": 451,
+      "stargazers_count": 3022,
+      "forks_count": 458,
       "pushed_at": "2026-04-29T12:24:59Z",
-      "score": 16.927
+      "score": 16.7527
     },
     {
       "full_name": "Kappaemme-git/codex-startup-pressure-test-skill",
       "html_url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 783,
+      "stargazers_count": 788,
       "forks_count": 73,
       "pushed_at": "2026-05-03T08:35:32Z",
-      "score": 15.5196
+      "score": 15.3062
     }
   ]
 }
