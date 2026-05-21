@@ -1,116 +1,203 @@
-# GitHub 热门项目推荐
+# GitHub Trending Radar
 
-自动追踪 GitHub 上 Python / JavaScript / TypeScript 热门开源项目，综合评分排序，每 6 小时自动更新，纯静态部署，零服务器成本。
+> 自动追踪 GitHub 热门开源项目，用可解释评分算法生成 Python / JavaScript / TypeScript 趋势看板。  
+> A static trend radar for discovering high-momentum open-source repositories with automated GitHub Actions updates.
 
-**[🌐 在线预览](https://dileonardoliebel813-jpg.github.io/ClaudeProjects)** · **[📊 数据文件](data.json)**
-
-![自动更新](https://github.com/dileonardoliebel813-jpg/ClaudeProjects/actions/workflows/update.yml/badge.svg)
-
----
-
-## 预览截图
-
-![项目预览](./assets/preview.png)
+[![Automation](https://github.com/dileonardoliebel813-jpg/github-trending/actions/workflows/update.yml/badge.svg)](https://github.com/dileonardoliebel813-jpg/github-trending/actions)
+[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-2ea44f?style=flat-square)](https://pages.github.com/)
+[![Python](https://img.shields.io/badge/Python-3.11-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
 
-## 功能特点
+## 项目定位 / Overview
 
-- **零服务器**：纯静态页面 + GitHub Actions + GitHub Pages，无需任何后端
-- **综合评分**：`log(stars) + 0.5×log(forks) + 时间衰减`，综合热度与活跃度
-- **多语言筛选**：支持 Python / JavaScript / TypeScript 一键切换
-- **自动更新**：每 6 小时由 GitHub Actions 自动抓取并提交最新数据
-- **精致 UI**：卡片式展示，悬停动效，前三名高亮，完整移动端适配
-- **快速加载**：无框架依赖，原生 HTML/CSS/JS，首屏极速
+GitHub Trending Radar 是一个零后端、可自动更新的开源项目趋势看板。它通过 GitHub REST API 抓取热门仓库数据，并使用 stars、forks 和更新时间衰减计算综合热度分数，帮助快速发现近期更值得关注的开源项目。
+
+This project demonstrates API integration, data ranking, scheduled automation, and static-site deployment. It is designed as a portfolio-ready data automation project rather than a simple static page.
 
 ---
 
-## 技术栈
+## 在线预览 / Live Demo
 
-| 层级 | 技术 |
-|---|---|
-| 数据抓取 | Python 3.11 · GitHub REST API (`/search/repositories`) |
-| 评分算法 | 对数缩放 stars/forks + 指数时间衰减（半衰期 30 天） |
-| 前端展示 | 原生 HTML5 · CSS 自定义属性 · Vanilla JS |
-| 自动化 | GitHub Actions（cron `0 */6 * * *` + 手动触发） |
-| 托管 | GitHub Pages（静态，免费） |
+> 如果 GitHub Pages 已启用，访问地址通常为：
 
----
-
-## 项目结构
-
+```text
+https://dileonardoliebel813-jpg.github.io/github-trending/
 ```
-├── fetch.py                  # 数据抓取脚本 + 综合评分
-├── data.json                 # 自动生成的推荐数据（不需手动编辑）
-├── index.html                # 前端展示页面
-├── styles.css                # 样式（CSS 自定义属性 + 响应式）
-├── requirements.txt          # Python 依赖（requests）
+
+数据文件：[`data.json`](./data.json)
+
+---
+
+## 核心功能 / Features
+
+- **自动数据抓取**：通过 GitHub REST API 获取 Python / JavaScript / TypeScript 热门仓库。
+- **可解释评分**：综合 stars、forks 与更新时间衰减，避免只看单一指标。
+- **定时刷新**：GitHub Actions 每 6 小时自动运行并更新 `data.json`。
+- **静态部署**：无后端服务，适合 GitHub Pages 低成本长期托管。
+- **前端筛选**：支持按语言切换趋势项目。
+- **响应式 UI**：卡片式展示、排名突出、移动端可读。
+
+---
+
+## 评分逻辑 / Ranking Logic
+
+项目不是简单按 star 数排序，而是使用综合评分衡量“热度 + 传播度 + 新鲜度”：
+
+```text
+score = log(stars) + 0.5 × log(forks) + time_decay
+```
+
+| 维度 | 作用 |
+|---|---|
+| `log(stars)` | 衡量项目关注度，同时用对数压缩超大仓库优势 |
+| `0.5 × log(forks)` | 衡量社区使用和二次开发意愿 |
+| `time_decay` | 给近期更新项目更高权重，降低长期静态项目占榜概率 |
+
+这种方式让榜单更适合发现“近期仍然活跃、值得继续观察”的项目。
+
+---
+
+## 技术栈 / Tech Stack
+
+| 模块 | 技术 |
+|---|---|
+| 数据抓取 | Python 3.11, GitHub REST API `/search/repositories` |
+| 数据处理 | requests, JSON, custom scoring formula |
+| 前端展示 | HTML5, CSS3, Vanilla JavaScript |
+| 自动化 | GitHub Actions cron workflow |
+| 部署 | GitHub Pages static hosting |
+
+---
+
+## 架构流程 / Architecture
+
+```text
+GitHub Actions Scheduler
+          │
+          ▼
+      fetch.py
+          │
+          ▼
+GitHub REST API Search
+          │
+          ▼
+ scoring + normalization
+          │
+          ▼
+      data.json
+          │
+          ▼
+  Static HTML/CSS/JS UI
+          │
+          ▼
+     GitHub Pages
+```
+
+---
+
+## 项目结构 / Project Structure
+
+```text
+├── fetch.py                  # 数据抓取脚本与综合评分逻辑
+├── data.json                 # 自动生成的趋势数据
+├── index.html                # 静态页面结构
+├── styles.css                # 响应式样式与视觉设计
+├── requirements.txt          # Python 依赖
 └── .github/
     └── workflows/
-        └── update.yml        # 定时自动更新工作流
+        └── update.yml        # 定时更新工作流
 ```
 
 ---
 
-## 自动更新说明
+## 本地运行 / Local Development
+
+```bash
+pip install -r requirements.txt
+```
+
+可选：设置 GitHub Token，提高 API 限额。
+
+```bash
+export GITHUB_TOKEN=your_token_here
+```
+
+Windows CMD：
+
+```bat
+set GITHUB_TOKEN=your_token_here
+```
+
+抓取数据并启动本地预览：
+
+```bash
+python fetch.py
+python -m http.server 8000
+```
+
+浏览器访问：
+
+```text
+http://localhost:8000
+```
+
+---
+
+## 自动化配置 / Automation
 
 工作流文件：`.github/workflows/update.yml`
 
-**触发方式**
-- 定时：每 6 小时自动运行（UTC `0 */6 * * *`）
-- 手动：在仓库 Actions 页面点击 `Run workflow`
-
-**运行流程**
-1. Checkout 代码
-2. 安装 Python 依赖
-3. 执行 `fetch.py`，调用 GitHub API 抓取各语言 Top 10
-4. 对结果评分、排序，写入 `data.json`
-5. 自动 `git commit` + `git push` 更新数据文件
-
-**所需配置**
-
-在仓库 `Settings → Secrets and variables → Actions` 中添加：
-
-| Secret 名 | 说明 |
+| 触发方式 | 说明 |
 |---|---|
-| `GH_PAT` | GitHub Personal Access Token，需要 `public_repo` 权限 |
+| `cron: 0 */6 * * *` | 每 6 小时自动刷新 |
+| `workflow_dispatch` | 支持手动触发 |
+
+推荐在仓库 `Settings → Secrets and variables → Actions` 添加：
+
+| Secret | 说明 |
+|---|---|
+| `GH_PAT` | GitHub Personal Access Token，建议具备 `public_repo` 权限 |
+
+如果没有 Token，匿名 GitHub API 请求会受到更严格的速率限制。
 
 ---
 
-## 本地运行
+## 部署到 GitHub Pages / Deployment
 
-```bash
-# 安装依赖
-pip install -r requirements.txt
+1. 推送代码到 GitHub 仓库。
+2. 打开 `Settings → Pages`。
+3. Source 选择 `Deploy from a branch`。
+4. Branch 选择 `main`，目录选择 `/ (root)`。
+5. 保存后访问：
 
-# 设置 Token（可选，无 Token 匿名请求每小时限 10 次）
-export GITHUB_TOKEN=your_token_here   # Windows: set GITHUB_TOKEN=your_token_here
-
-# 抓取数据
-python fetch.py
-
-# 启动本地预览
-python -m http.server 8000
-# 浏览器访问 http://localhost:8000
+```text
+https://<username>.github.io/<repository-name>/
 ```
 
 ---
 
-## 部署到 GitHub Pages
+## 作品集亮点 / Portfolio Highlights
 
-1. 将代码推送到 GitHub 仓库
-2. 仓库 `Settings → Pages → Source` 选择 `Deploy from a branch`
-3. Branch 选 `main`，目录选 `/ (root)`，保存
-4. 在 `Settings → Secrets` 中添加 `GH_PAT`
-5. 访问 `https://<用户名>.github.io/<仓库名>`
+- 将公开 API 数据转化为可浏览、可比较、可自动更新的产品化页面。
+- 用轻量评分算法解决“只按 star 排名不够准确”的问题。
+- 展示了从数据抓取、算法处理、自动化更新到静态部署的完整闭环。
+- 无需服务器即可长期运行，适合作为低成本数据产品 Demo。
+- 代码结构清晰，适合继续扩展语言维度、趋势图和订阅推送。
 
 ---
 
-## 后续计划
+## 后续计划 / Roadmap
 
-- [ ] 支持更多语言（Go、Rust、Java、C++ 等）
-- [ ] 加入 topics / 标签维度筛选
-- [ ] 评分引入 issue 活跃度、contributor 数量
-- [ ] 历史趋势图（记录每日 star 增量曲线）
-- [ ] 关键词搜索
-- [ ] RSS / 邮件订阅推送
+- [ ] 支持 Go、Rust、Java、C++ 等更多语言
+- [ ] 增加 topics / 标签筛选
+- [ ] 引入 issue 活跃度、贡献者数量等指标
+- [ ] 增加历史趋势图和 star 增长曲线
+- [ ] 增加关键词搜索
+- [ ] 支持 RSS 或邮件订阅
+
+---
+
+## Author
+
+GitHub: [@dileonardoliebel813-jpg](https://github.com/dileonardoliebel813-jpg)
