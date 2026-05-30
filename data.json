@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T20:13:22Z",
+  "generated_at": "2026-05-30T02:38:39Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,150 +7,160 @@
       "html_url": "https://github.com/simplifaisoul/osiris",
       "description": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
       "language": "TypeScript",
-      "stargazers_count": 3571,
-      "forks_count": 707,
-      "pushed_at": "2026-05-29T18:39:56Z",
-      "score": 21.4621
+      "stargazers_count": 3592,
+      "forks_count": 710,
+      "pushed_at": "2026-05-29T21:48:53Z",
+      "score": 21.4701
     },
     {
       "full_name": "FoundZiGu/GuJumpgate",
       "html_url": "https://github.com/FoundZiGu/GuJumpgate",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 3043,
-      "forks_count": 805,
+      "stargazers_count": 3050,
+      "forks_count": 806,
       "pushed_at": "2026-05-29T15:56:02Z",
-      "score": 21.367
+      "score": 21.3699
     },
     {
       "full_name": "XBuilderLAB/cheat-on-content",
       "html_url": "https://github.com/XBuilderLAB/cheat-on-content",
       "description": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.",
       "language": "Python",
-      "stargazers_count": 3018,
-      "forks_count": 520,
+      "stargazers_count": 3026,
+      "forks_count": 522,
       "pushed_at": "2026-05-28T23:19:28Z",
-      "score": 21.1406
-    },
-    {
-      "full_name": "microsoft/SkillOpt",
-      "html_url": "https://github.com/microsoft/SkillOpt",
-      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
-      "language": "Python",
-      "stargazers_count": 2751,
-      "forks_count": 271,
-      "pushed_at": "2026-05-29T02:14:32Z",
-      "score": 20.723
+      "score": 20.8173
     },
     {
       "full_name": "strukto-ai/mirage",
       "html_url": "https://github.com/strukto-ai/mirage",
       "description": "A Unified Virtual Filesystem For AI Agents",
       "language": "TypeScript",
-      "stargazers_count": 2781,
-      "forks_count": 187,
+      "stargazers_count": 2785,
+      "forks_count": 188,
       "pushed_at": "2026-05-29T08:20:07Z",
-      "score": 20.5491
+      "score": 20.5532
     },
     {
-      "full_name": "microsoft/AI-Engineering-Coach",
-      "html_url": "https://github.com/microsoft/AI-Engineering-Coach",
-      "description": "better agentic engineering",
-      "language": "TypeScript",
-      "stargazers_count": 1699,
-      "forks_count": 220,
-      "pushed_at": "2026-05-29T08:50:10Z",
-      "score": 20.1375
+      "full_name": "microsoft/SkillOpt",
+      "html_url": "https://github.com/microsoft/SkillOpt",
+      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "language": "Python",
+      "stargazers_count": 2867,
+      "forks_count": 282,
+      "pushed_at": "2026-05-29T02:14:32Z",
+      "score": 20.4563
     },
     {
       "full_name": "OpenBMB/PilotDeck",
       "html_url": "https://github.com/OpenBMB/PilotDeck",
       "description": "Task-oriented AI Agent productivity platform",
       "language": "TypeScript",
-      "stargazers_count": 1912,
-      "forks_count": 171,
+      "stargazers_count": 1994,
+      "forks_count": 179,
       "pushed_at": "2026-05-29T09:34:30Z",
-      "score": 20.1302
-    },
-    {
-      "full_name": "opensquilla/opensquilla",
-      "html_url": "https://github.com/opensquilla/opensquilla",
-      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
-      "language": "Python",
-      "stargazers_count": 2089,
-      "forks_count": 140,
-      "pushed_at": "2026-05-29T16:32:20Z",
-      "score": 20.1193
-    },
-    {
-      "full_name": "Doorman11991/smallcode",
-      "html_url": "https://github.com/Doorman11991/smallcode",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "language": "JavaScript",
-      "stargazers_count": 1618,
-      "forks_count": 121,
-      "pushed_at": "2026-05-29T19:08:27Z",
-      "score": 19.7916
-    },
-    {
-      "full_name": "open-gsd/gsd-core",
-      "html_url": "https://github.com/open-gsd/gsd-core",
-      "description": "Getting Shit Done, the Aftermath",
-      "language": "JavaScript",
-      "stargazers_count": 1722,
-      "forks_count": 96,
-      "pushed_at": "2026-05-29T19:53:23Z",
-      "score": 19.7392
-    },
-    {
-      "full_name": "MoonshotAI/kimi-code",
-      "html_url": "https://github.com/MoonshotAI/kimi-code",
-      "description": "The Starting Point for Next-Gen Agents",
-      "language": "TypeScript",
-      "stargazers_count": 1377,
-      "forks_count": 118,
-      "pushed_at": "2026-05-29T16:57:48Z",
-      "score": 19.618
-    },
-    {
-      "full_name": "Renhuai123/ziwei-doushu",
-      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
-      "description": "紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "language": "TypeScript",
-      "stargazers_count": 1197,
-      "forks_count": 301,
-      "pushed_at": "2026-05-28T01:50:50Z",
-      "score": 19.6158
+      "score": 20.1949
     },
     {
       "full_name": "WenyuChiou/awesome-agentic-ai-zh",
       "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
       "description": "A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。",
       "language": "Python",
-      "stargazers_count": 1803,
+      "stargazers_count": 1806,
       "forks_count": 206,
-      "pushed_at": "2026-05-27T00:17:15Z",
-      "score": 19.5192
+      "pushed_at": "2026-05-29T23:28:47Z",
+      "score": 20.1658
+    },
+    {
+      "full_name": "microsoft/AI-Engineering-Coach",
+      "html_url": "https://github.com/microsoft/AI-Engineering-Coach",
+      "description": "better agentic engineering",
+      "language": "TypeScript",
+      "stargazers_count": 1710,
+      "forks_count": 220,
+      "pushed_at": "2026-05-29T08:50:10Z",
+      "score": 20.1439
+    },
+    {
+      "full_name": "opensquilla/opensquilla",
+      "html_url": "https://github.com/opensquilla/opensquilla",
+      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "language": "Python",
+      "stargazers_count": 2096,
+      "forks_count": 140,
+      "pushed_at": "2026-05-29T16:32:20Z",
+      "score": 20.1226
+    },
+    {
+      "full_name": "Doorman11991/smallcode",
+      "html_url": "https://github.com/Doorman11991/smallcode",
+      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+      "language": "JavaScript",
+      "stargazers_count": 1635,
+      "forks_count": 124,
+      "pushed_at": "2026-05-30T02:28:07Z",
+      "score": 19.8142
+    },
+    {
+      "full_name": "open-gsd/gsd-core",
+      "html_url": "https://github.com/open-gsd/gsd-core",
+      "description": "Git. Ship. Done - Core",
+      "language": "JavaScript",
+      "stargazers_count": 1747,
+      "forks_count": 99,
+      "pushed_at": "2026-05-30T02:17:10Z",
+      "score": 19.7688
+    },
+    {
+      "full_name": "run-liyi/wechatpay",
+      "html_url": "https://github.com/run-liyi/wechatpay",
+      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
+      "language": "JavaScript",
+      "stargazers_count": 1356,
+      "forks_count": 145,
+      "pushed_at": "2026-05-29T22:56:08Z",
+      "score": 19.7048
+    },
+    {
+      "full_name": "MoonshotAI/kimi-code",
+      "html_url": "https://github.com/MoonshotAI/kimi-code",
+      "description": "The Starting Point for Next-Gen Agents",
+      "language": "TypeScript",
+      "stargazers_count": 1394,
+      "forks_count": 120,
+      "pushed_at": "2026-05-30T01:56:17Z",
+      "score": 19.6385
     },
     {
       "full_name": "jingyaogong/minimind-o",
       "html_url": "https://github.com/jingyaogong/minimind-o",
       "description": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!",
       "language": "Python",
-      "stargazers_count": 1636,
+      "stargazers_count": 1637,
       "forks_count": 197,
       "pushed_at": "2026-05-27T07:48:30Z",
-      "score": 19.3998
+      "score": 19.4004
+    },
+    {
+      "full_name": "Renhuai123/ziwei-doushu",
+      "html_url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海夏《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stargazers_count": 1198,
+      "forks_count": 301,
+      "pushed_at": "2026-05-28T01:50:50Z",
+      "score": 19.2995
     },
     {
       "full_name": "crafter-station/petdex",
       "html_url": "https://github.com/crafter-station/petdex",
       "description": "The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI",
       "language": "TypeScript",
-      "stargazers_count": 2565,
+      "stargazers_count": 2573,
       "forks_count": 106,
       "pushed_at": "2026-05-26T05:48:31Z",
-      "score": 19.2349
+      "score": 19.238
     },
     {
       "full_name": "jasonkneen/tiny-world-builder",
@@ -163,84 +173,64 @@
       "score": 18.9904
     },
     {
-      "full_name": "run-liyi/wechatpay",
-      "html_url": "https://github.com/run-liyi/wechatpay",
-      "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-      "language": "JavaScript",
-      "stargazers_count": 1320,
-      "forks_count": 114,
-      "pushed_at": "2026-05-27T06:18:18Z",
-      "score": 18.9137
-    },
-    {
-      "full_name": "vercel-labs/deepsec",
-      "html_url": "https://github.com/vercel-labs/deepsec",
-      "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
-      "language": "TypeScript",
-      "stargazers_count": 2972,
-      "forks_count": 199,
-      "pushed_at": "2026-05-23T03:17:10Z",
-      "score": 18.8338
-    },
-    {
       "full_name": "haydenbleasel/files-sdk",
       "html_url": "https://github.com/haydenbleasel/files-sdk",
       "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
       "language": "TypeScript",
-      "stargazers_count": 1074,
+      "stargazers_count": 1078,
       "forks_count": 32,
       "pushed_at": "2026-05-29T07:55:05Z",
-      "score": 18.7283
-    },
-    {
-      "full_name": "huangserva/3DCellForge",
-      "html_url": "https://github.com/huangserva/3DCellForge",
-      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
-      "language": "JavaScript",
-      "stargazers_count": 2387,
-      "forks_count": 399,
-      "pushed_at": "2026-05-22T01:55:40Z",
-      "score": 18.6928
-    },
-    {
-      "full_name": "anysearch-ai/anysearch-skill",
-      "html_url": "https://github.com/anysearch-ai/anysearch-skill",
-      "description": "Unified real-time search engine skill for AI agents. ",
-      "language": "Python",
-      "stargazers_count": 1712,
-      "forks_count": 129,
-      "pushed_at": "2026-05-25T06:37:37Z",
-      "score": 18.6315
+      "score": 18.732
     },
     {
       "full_name": "gtxx3600/GPTSession2CPAandSub2API",
       "html_url": "https://github.com/gtxx3600/GPTSession2CPAandSub2API",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 1023,
-      "forks_count": 279,
+      "stargazers_count": 1026,
+      "forks_count": 280,
       "pushed_at": "2026-05-25T09:30:20Z",
-      "score": 18.5006
+      "score": 18.5053
+    },
+    {
+      "full_name": "huangserva/3DCellForge",
+      "html_url": "https://github.com/huangserva/3DCellForge",
+      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
+      "language": "JavaScript",
+      "stargazers_count": 2388,
+      "forks_count": 399,
+      "pushed_at": "2026-05-22T01:55:40Z",
+      "score": 18.4336
+    },
+    {
+      "full_name": "TencentARC/Pixal3D",
+      "html_url": "https://github.com/TencentARC/Pixal3D",
+      "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+      "language": "Python",
+      "stargazers_count": 1564,
+      "forks_count": 137,
+      "pushed_at": "2026-05-24T03:10:45Z",
+      "score": 18.2841
     },
     {
       "full_name": "virgiliojr94/book-to-skill",
       "html_url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stargazers_count": 2383,
-      "forks_count": 299,
+      "stargazers_count": 2431,
+      "forks_count": 305,
       "pushed_at": "2026-05-20T20:31:30Z",
-      "score": 18.2877
+      "score": 18.0664
     },
     {
       "full_name": "Tong89/smartNode",
       "html_url": "https://github.com/Tong89/smartNode",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1921,
-      "forks_count": 162,
+      "stargazers_count": 1945,
+      "forks_count": 167,
       "pushed_at": "2026-05-22T02:32:47Z",
-      "score": 18.0269
+      "score": 17.7948
     },
     {
       "full_name": "yaojingang/yao-open-prompts",
@@ -253,14 +243,24 @@
       "score": 17.3962
     },
     {
+      "full_name": "laishiwen/sven-family",
+      "html_url": "https://github.com/laishiwen/sven-family",
+      "description": "Sven Family is an AI-native product suite that connects creation, collaboration, publishing, and operations into one integrated platform.",
+      "language": "TypeScript",
+      "stargazers_count": 1008,
+      "forks_count": 78,
+      "pushed_at": "2026-05-23T10:50:34Z",
+      "score": 17.2887
+    },
+    {
       "full_name": "facebookresearch/vggt-omega",
       "html_url": "https://github.com/facebookresearch/vggt-omega",
       "description": "[CVPR 2026 Oral] VGGT Omega",
       "language": "Python",
-      "stargazers_count": 2078,
-      "forks_count": 82,
+      "stargazers_count": 2084,
+      "forks_count": 83,
       "pushed_at": "2026-05-18T15:56:12Z",
-      "score": 16.7795
+      "score": 16.7883
     },
     {
       "full_name": "aattaran/deepclaude",
@@ -268,29 +268,29 @@
       "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
       "language": "JavaScript",
       "stargazers_count": 1993,
-      "forks_count": 120,
+      "forks_count": 121,
       "pushed_at": "2026-05-16T14:36:46Z",
-      "score": 16.4792
+      "score": 16.4834
     },
     {
       "full_name": "boona13/mykonos-island-voxels",
       "html_url": "https://github.com/boona13/mykonos-island-voxels",
       "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
       "language": "JavaScript",
-      "stargazers_count": 772,
-      "forks_count": 178,
+      "stargazers_count": 775,
+      "forks_count": 179,
       "pushed_at": "2026-05-14T05:39:00Z",
-      "score": 15.3093
+      "score": 15.3159
     },
     {
       "full_name": "mattpocock/dictionary-of-ai-coding",
       "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
       "description": "AI coding jargon, explained in plain English.",
       "language": "TypeScript",
-      "stargazers_count": 1919,
+      "stargazers_count": 1923,
       "forks_count": 226,
       "pushed_at": "2026-05-07T06:42:47Z",
-      "score": 15.0756
+      "score": 15.0777
     },
     {
       "full_name": "Kappaemme-git/codex-startup-pressure-test-skill",
