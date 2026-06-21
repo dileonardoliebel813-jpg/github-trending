@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:35:36Z",
+  "generated_at": "2026-06-21T09:41:58Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,280 +7,280 @@
       "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "description": "Self-hosted AI workspace. ",
       "language": "Python",
-      "stargazers_count": 75135,
-      "forks_count": 9744,
+      "stargazers_count": 75299,
+      "forks_count": 9769,
       "pushed_at": "2026-06-19T22:50:15Z",
-      "score": 25.4915
+      "score": 25.4949
     },
     {
       "full_name": "DietrichGebert/ponytail",
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stargazers_count": 43626,
-      "forks_count": 2125,
+      "stargazers_count": 44370,
+      "forks_count": 2167,
       "pushed_at": "2026-06-21T00:23:17Z",
-      "score": 24.5144
+      "score": 24.5411
     },
     {
       "full_name": "XiaomiMiMo/MiMo-Code",
       "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stargazers_count": 10095,
-      "forks_count": 931,
-      "pushed_at": "2026-06-21T03:09:24Z",
-      "score": 22.6386
+      "stargazers_count": 10130,
+      "forks_count": 938,
+      "pushed_at": "2026-06-21T04:39:57Z",
+      "score": 22.6458
     },
     {
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stargazers_count": 4209,
-      "forks_count": 473,
-      "pushed_at": "2026-06-21T03:32:43Z",
-      "score": 21.4258
+      "stargazers_count": 4239,
+      "forks_count": 476,
+      "pushed_at": "2026-06-21T03:54:21Z",
+      "score": 21.4361
     },
     {
       "full_name": "diffusionstudio/lottie",
       "html_url": "https://github.com/diffusionstudio/lottie",
       "description": "Generate production-ready Lottie animations with Claude Code or Codex",
       "language": "TypeScript",
-      "stargazers_count": 3517,
+      "stargazers_count": 3526,
       "forks_count": 188,
       "pushed_at": "2026-06-20T22:16:23Z",
-      "score": 20.7865
+      "score": 20.7891
     },
     {
       "full_name": "Gloridust/WechatOnCloud",
       "html_url": "https://github.com/Gloridust/WechatOnCloud",
       "description": "云微WOC，云微信，自由连接",
       "language": "TypeScript",
-      "stargazers_count": 3018,
+      "stargazers_count": 3025,
       "forks_count": 718,
       "pushed_at": "2026-06-18T18:12:42Z",
-      "score": 20.6567
-    },
-    {
-      "full_name": "vercel/eve",
-      "html_url": "https://github.com/vercel/eve",
-      "description": "The Framework for Building Agents",
-      "language": "TypeScript",
-      "stargazers_count": 1881,
-      "forks_count": 122,
-      "pushed_at": "2026-06-21T03:18:16Z",
-      "score": 19.9462
-    },
-    {
-      "full_name": "levy-street/world-of-claudecraft",
-      "html_url": "https://github.com/levy-street/world-of-claudecraft",
-      "description": null,
-      "language": "TypeScript",
-      "stargazers_count": 1052,
-      "forks_count": 298,
-      "pushed_at": "2026-06-21T02:31:54Z",
-      "score": 19.8096
+      "score": 20.659
     },
     {
       "full_name": "baoweise-bot/aimili-vpngate",
       "html_url": "https://github.com/baoweise-bot/aimili-vpngate",
       "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
       "language": "Python",
-      "stargazers_count": 1129,
+      "stargazers_count": 1130,
       "forks_count": 390,
-      "pushed_at": "2026-06-19T21:17:08Z",
-      "score": 19.6865
+      "pushed_at": "2026-06-21T09:00:16Z",
+      "score": 20.0152
     },
     {
-      "full_name": "code-yeongyu/lazycodex",
-      "html_url": "https://github.com/code-yeongyu/lazycodex",
-      "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
+      "full_name": "vercel/eve",
+      "html_url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stargazers_count": 1644,
-      "forks_count": 92,
-      "pushed_at": "2026-06-20T09:51:35Z",
-      "score": 19.6718
+      "stargazers_count": 1916,
+      "forks_count": 130,
+      "pushed_at": "2026-06-21T04:18:28Z",
+      "score": 19.9961
     },
     {
       "full_name": "StarTrail-org/PixelRAG",
       "html_url": "https://github.com/StarTrail-org/PixelRAG",
       "description": "The end of web parsing. The beginning of scalable pixel-native search.",
       "language": "Python",
-      "stargazers_count": 1374,
-      "forks_count": 125,
+      "stargazers_count": 1669,
+      "forks_count": 150,
       "pushed_at": "2026-06-20T18:15:46Z",
-      "score": 19.6443
+      "score": 19.9292
+    },
+    {
+      "full_name": "levy-street/world-of-claudecraft",
+      "html_url": "https://github.com/levy-street/world-of-claudecraft",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 1056,
+      "forks_count": 299,
+      "pushed_at": "2026-06-21T07:33:42Z",
+      "score": 19.8151
+    },
+    {
+      "full_name": "code-yeongyu/lazycodex",
+      "html_url": "https://github.com/code-yeongyu/lazycodex",
+      "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
+      "language": "TypeScript",
+      "stargazers_count": 1670,
+      "forks_count": 95,
+      "pushed_at": "2026-06-20T09:51:35Z",
+      "score": 19.7034
     },
     {
       "full_name": "V0id-v2/Void-Tools-v2.0",
       "html_url": "https://github.com/V0id-v2/Void-Tools-v2.0",
       "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
       "language": "Python",
-      "stargazers_count": 2480,
-      "forks_count": 30,
+      "stargazers_count": 2500,
+      "forks_count": 31,
       "pushed_at": "2026-06-20T22:51:37Z",
-      "score": 19.5334
+      "score": 19.5573
     },
     {
       "full_name": "JimLiu/baoyu-design",
       "html_url": "https://github.com/JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
       "language": "JavaScript",
-      "stargazers_count": 1679,
+      "stargazers_count": 1688,
       "forks_count": 128,
       "pushed_at": "2026-06-19T18:07:10Z",
-      "score": 19.5286
+      "score": 19.534
     },
     {
       "full_name": "withkynam/vibecode-pro-max-kit",
       "html_url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working with /goal, agent-team, & workflow on autopilot loops with 0 need for human gate. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack",
       "language": "JavaScript",
-      "stargazers_count": 954,
+      "stargazers_count": 956,
       "forks_count": 205,
-      "pushed_at": "2026-06-20T06:09:27Z",
-      "score": 19.5256
+      "pushed_at": "2026-06-21T08:31:44Z",
+      "score": 19.5277
     },
     {
       "full_name": "opengeos/GeoLibre",
       "html_url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens.",
       "language": "TypeScript",
-      "stargazers_count": 1016,
-      "forks_count": 140,
-      "pushed_at": "2026-06-21T03:23:31Z",
-      "score": 19.399
-    },
-    {
-      "full_name": "GordenSun/GordenPPTSkill",
-      "html_url": "https://github.com/GordenSun/GordenPPTSkill",
-      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "language": "Python",
-      "stargazers_count": 2154,
-      "forks_count": 202,
-      "pushed_at": "2026-06-17T09:29:11Z",
-      "score": 19.3805
+      "stargazers_count": 1029,
+      "forks_count": 142,
+      "pushed_at": "2026-06-21T06:42:08Z",
+      "score": 19.4187
     },
     {
       "full_name": "BuilderIO/skills",
       "html_url": "https://github.com/BuilderIO/skills",
       "description": "Skills for coding agents",
       "language": "JavaScript",
-      "stargazers_count": 2249,
-      "forks_count": 121,
+      "stargazers_count": 2270,
+      "forks_count": 123,
       "pushed_at": "2026-06-17T23:30:10Z",
-      "score": 19.1691
+      "score": 19.1865
+    },
+    {
+      "full_name": "GordenSun/GordenPPTSkill",
+      "html_url": "https://github.com/GordenSun/GordenPPTSkill",
+      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+      "language": "Python",
+      "stargazers_count": 2157,
+      "forks_count": 204,
+      "pushed_at": "2026-06-17T09:29:11Z",
+      "score": 19.0902
     },
     {
       "full_name": "Waishnav/devspace",
       "html_url": "https://github.com/Waishnav/devspace",
       "description": "Turn ChatGPT into Codex",
       "language": "TypeScript",
-      "stargazers_count": 1654,
-      "forks_count": 148,
+      "stargazers_count": 1719,
+      "forks_count": 153,
       "pushed_at": "2026-06-17T18:49:00Z",
-      "score": 18.9619
+      "score": 19.0169
     },
     {
-      "full_name": "jd-opensource/JoyAI-Echo",
-      "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "language": "Python",
-      "stargazers_count": 1614,
-      "forks_count": 145,
-      "pushed_at": "2026-06-16T07:39:38Z",
-      "score": 18.6306
-    },
-    {
-      "full_name": "alchaincyf/fanbox",
-      "html_url": "https://github.com/alchaincyf/fanbox",
-      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "full_name": "zhongerxin/cowart",
+      "html_url": "https://github.com/zhongerxin/cowart",
+      "description": null,
       "language": "JavaScript",
-      "stargazers_count": 748,
-      "forks_count": 103,
-      "pushed_at": "2026-06-18T11:27:38Z",
-      "score": 18.296
+      "stargazers_count": 645,
+      "forks_count": 60,
+      "pushed_at": "2026-06-21T06:36:27Z",
+      "score": 18.5262
+    },
+    {
+      "full_name": "kadevin/ilab-gpt-conjure",
+      "html_url": "https://github.com/kadevin/ilab-gpt-conjure",
+      "description": "面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.",
+      "language": "JavaScript",
+      "stargazers_count": 543,
+      "forks_count": 75,
+      "pushed_at": "2026-06-21T09:40:18Z",
+      "score": 18.4643
     },
     {
       "full_name": "rebel0789/codexpro",
       "html_url": "https://github.com/rebel0789/codexpro",
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "language": "JavaScript",
-      "stargazers_count": 558,
-      "forks_count": 50,
+      "stargazers_count": 587,
+      "forks_count": 54,
       "pushed_at": "2026-06-20T14:34:15Z",
-      "score": 18.2921
+      "score": 18.3804
+    },
+    {
+      "full_name": "jd-opensource/JoyAI-Echo",
+      "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "language": "Python",
+      "stargazers_count": 1616,
+      "forks_count": 145,
+      "pushed_at": "2026-06-16T07:39:38Z",
+      "score": 18.3449
+    },
+    {
+      "full_name": "alchaincyf/fanbox",
+      "html_url": "https://github.com/alchaincyf/fanbox",
+      "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "language": "JavaScript",
+      "stargazers_count": 752,
+      "forks_count": 103,
+      "pushed_at": "2026-06-18T11:27:38Z",
+      "score": 18.3013
     },
     {
       "full_name": "cpaczek/skylight",
       "html_url": "https://github.com/cpaczek/skylight",
       "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
       "language": "TypeScript",
-      "stargazers_count": 2818,
+      "stargazers_count": 2823,
       "forks_count": 320,
       "pushed_at": "2026-06-11T20:14:44Z",
-      "score": 18.238
-    },
-    {
-      "full_name": "cobusgreyling/loop-engineering",
-      "html_url": "https://github.com/cobusgreyling/loop-engineering",
-      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "language": "JavaScript",
-      "stargazers_count": 514,
-      "forks_count": 69,
-      "pushed_at": "2026-06-19T11:57:00Z",
-      "score": 18.0406
+      "score": 18.2398
     },
     {
       "full_name": "tejaswigowda/ffmpeg-webCLI",
       "html_url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
       "description": "A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly.",
       "language": "JavaScript",
-      "stargazers_count": 793,
+      "stargazers_count": 797,
       "forks_count": 68,
       "pushed_at": "2026-06-18T02:19:31Z",
-      "score": 17.8425
+      "score": 17.8475
     },
     {
       "full_name": "Sophomoresty/gemini-web2api",
       "html_url": "https://github.com/Sophomoresty/gemini-web2api",
       "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "language": "Python",
-      "stargazers_count": 1828,
+      "stargazers_count": 1830,
       "forks_count": 435,
       "pushed_at": "2026-06-06T11:33:43Z",
-      "score": 16.8212
+      "score": 16.8223
     },
     {
       "full_name": "ClaudioDrews/memory-os",
       "html_url": "https://github.com/ClaudioDrews/memory-os",
       "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
       "language": "Python",
-      "stargazers_count": 1172,
+      "stargazers_count": 1175,
       "forks_count": 111,
       "pushed_at": "2026-06-10T10:40:43Z",
-      "score": 16.5919
+      "score": 16.5944
     },
     {
       "full_name": "ideogram-oss/ideogram4",
       "html_url": "https://github.com/ideogram-oss/ideogram4",
       "description": "Ideogram 4: Open image model at the forefront of design",
       "language": "Python",
-      "stargazers_count": 2162,
+      "stargazers_count": 2167,
       "forks_count": 220,
       "pushed_at": "2026-06-04T15:44:03Z",
-      "score": 16.2448
-    },
-    {
-      "full_name": "Jane-xiaoer/xiaoer-videolab",
-      "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-      "language": "JavaScript",
-      "stargazers_count": 525,
-      "forks_count": 78,
-      "pushed_at": "2026-06-07T02:10:05Z",
-      "score": 14.7209
+      "score": 16.2471
     },
     {
       "full_name": "boona13/image-extender",
@@ -297,10 +297,10 @@
       "html_url": "https://github.com/ytnrvdf/wha-spell-simulator",
       "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
       "language": "JavaScript",
-      "stargazers_count": 700,
+      "stargazers_count": 701,
       "forks_count": 85,
       "pushed_at": "2026-05-31T12:16:42Z",
-      "score": 13.9139
+      "score": 13.9153
     }
   ]
 }
