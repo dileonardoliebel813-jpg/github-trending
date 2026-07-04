@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:11:15Z",
+  "generated_at": "2026-07-04T02:26:39Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,300 +7,300 @@
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stargazers_count": 72826,
-      "forks_count": 3793,
+      "stargazers_count": 73078,
+      "forks_count": 3811,
       "pushed_at": "2026-07-01T23:34:52Z",
-      "score": 24.9886
+      "score": 24.6773
     },
     {
       "full_name": "baidu/Unlimited-OCR",
       "html_url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
-      "stargazers_count": 13163,
-      "forks_count": 1067,
+      "stargazers_count": 13184,
+      "forks_count": 1068,
       "pushed_at": "2026-07-03T05:14:30Z",
-      "score": 22.972
+      "score": 22.9741
     },
     {
       "full_name": "XiaomiMiMo/MiMo-Code",
       "html_url": "https://github.com/XiaomiMiMo/MiMo-Code",
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
-      "stargazers_count": 11358,
-      "forks_count": 1111,
+      "stargazers_count": 11375,
+      "forks_count": 1113,
       "pushed_at": "2026-07-03T15:50:30Z",
-      "score": 22.8447
+      "score": 22.8471
     },
     {
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
       "language": "Python",
-      "stargazers_count": 6148,
-      "forks_count": 797,
+      "stargazers_count": 6168,
+      "forks_count": 800,
       "pushed_at": "2026-07-03T15:00:03Z",
-      "score": 22.0651
+      "score": 22.0702
     },
     {
       "full_name": "cobusgreyling/loop-engineering",
       "html_url": "https://github.com/cobusgreyling/loop-engineering",
       "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
       "language": "JavaScript",
-      "stargazers_count": 5265,
-      "forks_count": 671,
+      "stargazers_count": 5370,
+      "forks_count": 694,
       "pushed_at": "2026-07-03T19:05:48Z",
-      "score": 21.8242
+      "score": 21.8607
     },
     {
       "full_name": "bikini/exploitarium",
       "html_url": "https://github.com/bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
-      "stargazers_count": 3586,
-      "forks_count": 1043,
+      "stargazers_count": 3604,
+      "forks_count": 1049,
       "pushed_at": "2026-07-03T13:41:30Z",
-      "score": 21.6605
-    },
-    {
-      "full_name": "diffusionstudio/lottie",
-      "html_url": "https://github.com/diffusionstudio/lottie",
-      "description": "Generate production-ready Lottie animations with Claude Code or Codex",
-      "language": "TypeScript",
-      "stargazers_count": 4426,
-      "forks_count": 235,
-      "pushed_at": "2026-07-03T17:24:52Z",
-      "score": 21.1274
+      "score": 21.6683
     },
     {
       "full_name": "zhongerxin/Cowart",
       "html_url": "https://github.com/zhongerxin/Cowart",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 3724,
+      "stargazers_count": 3731,
       "forks_count": 289,
       "pushed_at": "2026-07-03T08:58:42Z",
-      "score": 21.0578
+      "score": 21.0596
     },
     {
       "full_name": "deepseek-ai/DeepSpec",
       "html_url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "language": "Python",
-      "stargazers_count": 6029,
-      "forks_count": 508,
+      "stargazers_count": 6059,
+      "forks_count": 509,
       "pushed_at": "2026-06-30T06:42:21Z",
-      "score": 20.8691
+      "score": 20.875
     },
     {
       "full_name": "vercel/eve",
       "html_url": "https://github.com/vercel/eve",
       "description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stargazers_count": 3146,
-      "forks_count": 250,
-      "pushed_at": "2026-07-03T18:29:14Z",
-      "score": 20.8169
+      "stargazers_count": 3157,
+      "forks_count": 252,
+      "pushed_at": "2026-07-04T00:10:43Z",
+      "score": 20.8244
     },
     {
       "full_name": "Waishnav/devspace",
       "html_url": "https://github.com/Waishnav/devspace",
       "description": "Turn ChatGPT into Codex!",
       "language": "TypeScript",
-      "stargazers_count": 2846,
+      "stargazers_count": 2850,
       "forks_count": 304,
-      "pushed_at": "2026-07-03T14:43:27Z",
-      "score": 20.8142
+      "pushed_at": "2026-07-03T20:59:13Z",
+      "score": 20.8156
     },
     {
       "full_name": "BuilderIO/skills",
       "html_url": "https://github.com/BuilderIO/skills",
       "description": "Skills for coding agents",
       "language": "JavaScript",
-      "stargazers_count": 3339,
-      "forks_count": 162,
+      "stargazers_count": 3367,
+      "forks_count": 163,
       "pushed_at": "2026-07-03T16:14:22Z",
-      "score": 20.6606
-    },
-    {
-      "full_name": "baairon/torlink",
-      "html_url": "https://github.com/baairon/torlink",
-      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
-      "language": "TypeScript",
-      "stargazers_count": 2799,
-      "forks_count": 183,
-      "pushed_at": "2026-07-03T01:04:16Z",
-      "score": 20.5448
+      "score": 20.672
     },
     {
       "full_name": "makerspet/oomwoo",
       "html_url": "https://github.com/makerspet/oomwoo",
       "description": "Open-source vacuum robot cleaner",
       "language": "Python",
-      "stargazers_count": 3237,
-      "forks_count": 131,
-      "pushed_at": "2026-07-03T19:05:33Z",
-      "score": 20.5241
+      "stargazers_count": 3305,
+      "forks_count": 139,
+      "pushed_at": "2026-07-03T19:47:20Z",
+      "score": 20.5743
     },
     {
       "full_name": "Forward-Future/loopy",
       "html_url": "https://github.com/Forward-Future/loopy",
       "description": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
       "language": "JavaScript",
-      "stargazers_count": 2340,
-      "forks_count": 205,
+      "stargazers_count": 2349,
+      "forks_count": 206,
       "pushed_at": "2026-07-03T16:15:29Z",
-      "score": 20.4223
+      "score": 20.4285
     },
     {
       "full_name": "levy-street/world-of-claudecraft",
       "html_url": "https://github.com/levy-street/world-of-claudecraft",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1435,
-      "forks_count": 443,
-      "pushed_at": "2026-07-03T17:29:48Z",
-      "score": 20.3175
-    },
-    {
-      "full_name": "JimLiu/baoyu-design",
-      "html_url": "https://github.com/JimLiu/baoyu-design",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "language": "JavaScript",
-      "stargazers_count": 2258,
-      "forks_count": 177,
-      "pushed_at": "2026-07-02T23:57:57Z",
-      "score": 20.3136
+      "stargazers_count": 1442,
+      "forks_count": 445,
+      "pushed_at": "2026-07-04T01:06:50Z",
+      "score": 20.3246
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stargazers_count": 2248,
-      "forks_count": 158,
+      "stargazers_count": 2254,
+      "forks_count": 159,
       "pushed_at": "2026-07-03T11:35:33Z",
-      "score": 20.2527
+      "score": 20.2585
+    },
+    {
+      "full_name": "baairon/torlink",
+      "html_url": "https://github.com/baairon/torlink",
+      "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
+      "language": "TypeScript",
+      "stargazers_count": 2841,
+      "forks_count": 186,
+      "pushed_at": "2026-07-03T01:04:16Z",
+      "score": 20.24
     },
     {
       "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "html_url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1282,
-      "forks_count": 371,
+      "stargazers_count": 1296,
+      "forks_count": 376,
       "pushed_at": "2026-07-03T11:25:35Z",
-      "score": 20.1164
-    },
-    {
-      "full_name": "shy3130/tickflow-stock-panel",
-      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
-      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据 | 个人开源 ,不属于tickflow官方项目",
-      "language": "TypeScript",
-      "stargazers_count": 1366,
-      "forks_count": 255,
-      "pushed_at": "2026-07-03T15:15:32Z",
-      "score": 19.993
+      "score": 20.1339
     },
     {
       "full_name": "langchain-ai/openwiki",
       "html_url": "https://github.com/langchain-ai/openwiki",
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
-      "stargazers_count": 1696,
-      "forks_count": 139,
-      "pushed_at": "2026-07-03T19:04:21Z",
-      "score": 19.9074
+      "stargazers_count": 1831,
+      "forks_count": 149,
+      "pushed_at": "2026-07-03T23:09:05Z",
+      "score": 20.0185
+    },
+    {
+      "full_name": "shy3130/tickflow-stock-panel",
+      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据 | 个人开源 ,不属于tickflow官方项目",
+      "language": "TypeScript",
+      "stargazers_count": 1384,
+      "forks_count": 260,
+      "pushed_at": "2026-07-03T15:15:32Z",
+      "score": 20.0157
+    },
+    {
+      "full_name": "JimLiu/baoyu-design",
+      "html_url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "language": "JavaScript",
+      "stargazers_count": 2260,
+      "forks_count": 177,
+      "pushed_at": "2026-07-02T23:57:57Z",
+      "score": 19.9866
     },
     {
       "full_name": "mekos2772/ios-location-spoofer",
       "html_url": "https://github.com/mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "language": "JavaScript",
-      "stargazers_count": 1240,
-      "forks_count": 181,
+      "stargazers_count": 1253,
+      "forks_count": 182,
       "pushed_at": "2026-07-03T17:02:20Z",
-      "score": 19.7257
+      "score": 19.7388
     },
     {
       "full_name": "TestSprite/testsprite-cli",
       "html_url": "https://github.com/TestSprite/testsprite-cli",
       "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
       "language": "TypeScript",
-      "stargazers_count": 1622,
+      "stargazers_count": 1645,
       "forks_count": 70,
       "pushed_at": "2026-07-02T20:48:32Z",
-      "score": 19.5234
+      "score": 19.2096
     },
     {
       "full_name": "Yu9191/wloc",
       "html_url": "https://github.com/Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "language": "JavaScript",
-      "stargazers_count": 2743,
-      "forks_count": 388,
+      "stargazers_count": 2802,
+      "forks_count": 393,
       "pushed_at": "2026-06-27T23:50:57Z",
-      "score": 19.3638
+      "score": 19.1139
     },
     {
       "full_name": "Forsy-AI/agent-apprenticeship",
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.",
       "language": "Python",
-      "stargazers_count": 1189,
-      "forks_count": 50,
+      "stargazers_count": 1192,
+      "forks_count": 51,
       "pushed_at": "2026-07-03T12:22:33Z",
-      "score": 19.0476
+      "score": 19.0598
     },
     {
       "full_name": "rebel0789/codexpro",
       "html_url": "https://github.com/rebel0789/codexpro",
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "language": "JavaScript",
-      "stargazers_count": 1134,
-      "forks_count": 99,
+      "stargazers_count": 1136,
+      "forks_count": 100,
       "pushed_at": "2026-06-30T06:09:43Z",
-      "score": 18.3853
+      "score": 18.3921
     },
     {
       "full_name": "tigicion/dao-code",
       "html_url": "https://github.com/tigicion/dao-code",
       "description": "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no token cost; 1M context, Skills/MCP/Hooks, Claude Code config compatible.",
       "language": "TypeScript",
-      "stargazers_count": 1364,
+      "stargazers_count": 1429,
       "forks_count": 32,
       "pushed_at": "2026-07-01T15:15:00Z",
-      "score": 18.3222
+      "score": 18.3688
     },
     {
       "full_name": "nolangz/pixel2motion",
       "html_url": "https://github.com/nolangz/pixel2motion",
       "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
       "language": "Python",
-      "stargazers_count": 1348,
+      "stargazers_count": 1352,
       "forks_count": 114,
       "pushed_at": "2026-06-28T05:39:25Z",
-      "score": 18.0444
+      "score": 18.0474
     },
     {
       "full_name": "lenucksi/aur-malware-check",
       "html_url": "https://github.com/lenucksi/aur-malware-check",
       "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "language": "Python",
-      "stargazers_count": 1937,
+      "stargazers_count": 1942,
       "forks_count": 44,
       "pushed_at": "2026-06-26T23:04:57Z",
-      "score": 17.6601
+      "score": 17.3942
+    },
+    {
+      "full_name": "aidenybai/cnfast",
+      "html_url": "https://github.com/aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "language": "TypeScript",
+      "stargazers_count": 1065,
+      "forks_count": 11,
+      "pushed_at": "2026-06-22T06:22:08Z",
+      "score": 15.1445
     },
     {
       "full_name": "GordenSun/GordenSuperPPTSkills",
       "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
       "language": "Python",
-      "stargazers_count": 1365,
-      "forks_count": 127,
+      "stargazers_count": 1367,
+      "forks_count": 128,
       "pushed_at": "2026-06-07T16:26:51Z",
-      "score": 13.8492
+      "score": 13.8545
     }
   ]
 }
