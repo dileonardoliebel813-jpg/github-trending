@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:17:33Z",
+  "generated_at": "2026-07-14T01:58:44Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,300 +7,300 @@
       "html_url": "https://github.com/langchain-ai/openwiki",
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
-      "stargazers_count": 10900,
-      "forks_count": 742,
-      "pushed_at": "2026-07-13T18:29:23Z",
-      "score": 22.602
+      "stargazers_count": 10936,
+      "forks_count": 746,
+      "pushed_at": "2026-07-14T01:57:48Z",
+      "score": 22.6079
     },
     {
       "full_name": "x4gKing/X4G",
       "html_url": "https://github.com/x4gKing/X4G",
       "description": null,
       "language": "Python",
-      "stargazers_count": 5021,
-      "forks_count": 9404,
+      "stargazers_count": 5045,
+      "forks_count": 9411,
       "pushed_at": "2026-07-10T08:14:32Z",
-      "score": 22.1445
+      "score": 22.1496
     },
     {
       "full_name": "zhongerxin/Cowart",
       "html_url": "https://github.com/zhongerxin/Cowart",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 4498,
+      "stargazers_count": 4502,
       "forks_count": 342,
       "pushed_at": "2026-07-13T05:06:38Z",
-      "score": 21.3305
+      "score": 21.3314
     },
     {
       "full_name": "bikini/exploitarium",
       "html_url": "https://github.com/bikini/exploitarium",
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
-      "stargazers_count": 3897,
-      "forks_count": 1120,
+      "stargazers_count": 3903,
+      "forks_count": 1122,
       "pushed_at": "2026-07-11T14:25:48Z",
-      "score": 21.1343
+      "score": 21.1367
     },
     {
       "full_name": "vercel/eve",
       "html_url": "https://github.com/vercel/eve",
       "description": "The Framework for Building Agents",
       "language": "TypeScript",
-      "stargazers_count": 3471,
+      "stargazers_count": 3477,
       "forks_count": 300,
-      "pushed_at": "2026-07-13T19:10:59Z",
-      "score": 21.006
-    },
-    {
-      "full_name": "Waishnav/devspace",
-      "html_url": "https://github.com/Waishnav/devspace",
-      "description": "Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code!",
-      "language": "TypeScript",
-      "stargazers_count": 3196,
-      "forks_count": 337,
-      "pushed_at": "2026-07-13T17:07:05Z",
-      "score": 20.9815
+      "pushed_at": "2026-07-14T01:13:45Z",
+      "score": 21.0078
     },
     {
       "full_name": "baairon/torlink",
       "html_url": "https://github.com/baairon/torlink",
       "description": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal.",
       "language": "TypeScript",
-      "stargazers_count": 3542,
+      "stargazers_count": 3551,
       "forks_count": 234,
-      "pushed_at": "2026-07-13T18:53:04Z",
-      "score": 20.9025
+      "pushed_at": "2026-07-14T01:21:53Z",
+      "score": 20.9051
     },
     {
       "full_name": "deepseek-ai/DeepSpec",
       "html_url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "language": "Python",
-      "stargazers_count": 6614,
-      "forks_count": 592,
+      "stargazers_count": 6619,
+      "forks_count": 593,
       "pushed_at": "2026-07-09T04:37:14Z",
-      "score": 20.7414
+      "score": 20.743
     },
     {
       "full_name": "shy3130/tickflow-stock-panel",
       "html_url": "https://github.com/shy3130/tickflow-stock-panel",
       "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
       "language": "TypeScript",
-      "stargazers_count": 2078,
-      "forks_count": 442,
+      "stargazers_count": 2080,
+      "forks_count": 443,
       "pushed_at": "2026-07-13T15:41:52Z",
-      "score": 20.6864
+      "score": 20.6885
     },
     {
       "full_name": "elder-plinius/T3MP3ST",
       "html_url": "https://github.com/elder-plinius/T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stargazers_count": 4616,
-      "forks_count": 979,
+      "stargazers_count": 4640,
+      "forks_count": 980,
       "pushed_at": "2026-07-09T12:51:34Z",
-      "score": 20.633
+      "score": 20.6387
     },
     {
       "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "html_url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1825,
-      "forks_count": 471,
+      "stargazers_count": 1831,
+      "forks_count": 473,
       "pushed_at": "2026-07-13T17:59:01Z",
-      "score": 20.5884
+      "score": 20.5938
     },
     {
       "full_name": "baidu/Unlimited-OCR",
       "html_url": "https://github.com/baidu/Unlimited-OCR",
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
-      "stargazers_count": 14173,
+      "stargazers_count": 14187,
       "forks_count": 1193,
       "pushed_at": "2026-07-03T05:14:30Z",
-      "score": 20.267
-    },
-    {
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "language": "TypeScript",
-      "stargazers_count": 2347,
-      "forks_count": 336,
-      "pushed_at": "2026-07-11T11:04:02Z",
-      "score": 20.0264
+      "score": 20.268
     },
     {
       "full_name": "oomol-lab/open-connector",
       "html_url": "https://github.com/oomol-lab/open-connector",
       "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
       "language": "TypeScript",
-      "stargazers_count": 1935,
-      "forks_count": 126,
-      "pushed_at": "2026-07-13T15:22:19Z",
-      "score": 19.9905
+      "stargazers_count": 2015,
+      "forks_count": 129,
+      "pushed_at": "2026-07-14T01:53:57Z",
+      "score": 20.0426
     },
     {
-      "full_name": "Younesfdj/gitfut",
-      "html_url": "https://github.com/Younesfdj/gitfut",
-      "description": "Your GitHub stats, turned into a World-Cup-style player card ",
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
       "language": "TypeScript",
-      "stargazers_count": 2046,
-      "forks_count": 101,
-      "pushed_at": "2026-07-13T13:17:05Z",
-      "score": 19.9366
-    },
-    {
-      "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "language": "Python",
-      "stargazers_count": 1577,
-      "forks_count": 121,
-      "pushed_at": "2026-07-13T07:18:53Z",
-      "score": 19.7659
-    },
-    {
-      "full_name": "IR-NETLIFY/zeus",
-      "html_url": "https://github.com/IR-NETLIFY/zeus",
-      "description": "⚡️ پنل کلودفلر زئوس (Zeus Panel) https://t.me/ZEUS_PANEL_BOT",
-      "language": "JavaScript",
-      "stargazers_count": 1194,
-      "forks_count": 191,
-      "pushed_at": "2026-07-13T18:37:05Z",
-      "score": 19.7146
-    },
-    {
-      "full_name": "Shpigford/knockoff",
-      "html_url": "https://github.com/Shpigford/knockoff",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "language": "JavaScript",
-      "stargazers_count": 1862,
-      "forks_count": 61,
-      "pushed_at": "2026-07-13T19:12:40Z",
-      "score": 19.5935
-    },
-    {
-      "full_name": "kui123456789/cdk-redeem-only-extension",
-      "html_url": "https://github.com/kui123456789/cdk-redeem-only-extension",
-      "description": "UPI redeem only extension",
-      "language": "JavaScript",
-      "stargazers_count": 1009,
-      "forks_count": 204,
-      "pushed_at": "2026-07-12T21:34:43Z",
-      "score": 19.5792
-    },
-    {
-      "full_name": "rebel0789/codexpro",
-      "html_url": "https://github.com/rebel0789/codexpro",
-      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "language": "JavaScript",
-      "stargazers_count": 1296,
-      "forks_count": 118,
-      "pushed_at": "2026-07-13T16:44:45Z",
-      "score": 19.5574
-    },
-    {
-      "full_name": "withmarbleapp/os-taxonomy",
-      "html_url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
-      "language": "JavaScript",
-      "stargazers_count": 2881,
-      "forks_count": 511,
-      "pushed_at": "2026-07-08T14:18:23Z",
-      "score": 19.5502
-    },
-    {
-      "full_name": "mekos2772/ios-location-spoofer",
-      "html_url": "https://github.com/mekos2772/ios-location-spoofer",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "language": "JavaScript",
-      "stargazers_count": 1968,
-      "forks_count": 296,
-      "pushed_at": "2026-07-10T06:28:32Z",
-      "score": 19.4805
-    },
-    {
-      "full_name": "amplifthq/opentag",
-      "html_url": "https://github.com/amplifthq/opentag",
-      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-      "language": "TypeScript",
-      "stargazers_count": 1212,
-      "forks_count": 69,
-      "pushed_at": "2026-07-13T17:44:33Z",
-      "score": 19.2251
-    },
-    {
-      "full_name": "oso95/scroll-world",
-      "html_url": "https://github.com/oso95/scroll-world",
-      "description": "A skill that turn any brand into a scrollable 3D world",
-      "language": "JavaScript",
-      "stargazers_count": 1553,
-      "forks_count": 204,
-      "pushed_at": "2026-07-10T01:30:54Z",
-      "score": 19.0585
+      "stargazers_count": 2365,
+      "forks_count": 340,
+      "pushed_at": "2026-07-11T11:04:02Z",
+      "score": 20.04
     },
     {
       "full_name": "google-research/tabfm",
       "html_url": "https://github.com/google-research/tabfm",
       "description": null,
       "language": "Python",
-      "stargazers_count": 1725,
+      "stargazers_count": 1728,
       "forks_count": 163,
-      "pushed_at": "2026-07-09T20:26:05Z",
-      "score": 19.0519
+      "pushed_at": "2026-07-13T23:22:19Z",
+      "score": 20.0052
+    },
+    {
+      "full_name": "Younesfdj/gitfut",
+      "html_url": "https://github.com/Younesfdj/gitfut",
+      "description": "Your GitHub stats, turned into a World-Cup-style player card ",
+      "language": "TypeScript",
+      "stargazers_count": 2063,
+      "forks_count": 102,
+      "pushed_at": "2026-07-13T13:17:05Z",
+      "score": 19.9498
+    },
+    {
+      "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "language": "Python",
+      "stargazers_count": 1582,
+      "forks_count": 122,
+      "pushed_at": "2026-07-13T07:18:53Z",
+      "score": 19.7732
+    },
+    {
+      "full_name": "IR-NETLIFY/zeus",
+      "html_url": "https://github.com/IR-NETLIFY/zeus",
+      "description": "⚡️ پنل کلودفلر زئوس (Zeus Panel) https://t.me/ZEUS_PANEL_BOT",
+      "language": "JavaScript",
+      "stargazers_count": 1209,
+      "forks_count": 191,
+      "pushed_at": "2026-07-14T01:41:14Z",
+      "score": 19.7271
+    },
+    {
+      "full_name": "Shpigford/knockoff",
+      "html_url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stargazers_count": 1871,
+      "forks_count": 61,
+      "pushed_at": "2026-07-13T20:14:22Z",
+      "score": 19.5983
+    },
+    {
+      "full_name": "withmarbleapp/os-taxonomy",
+      "html_url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 2927,
+      "forks_count": 521,
+      "pushed_at": "2026-07-08T14:18:23Z",
+      "score": 19.5757
+    },
+    {
+      "full_name": "rebel0789/codexpro",
+      "html_url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "language": "JavaScript",
+      "stargazers_count": 1298,
+      "forks_count": 118,
+      "pushed_at": "2026-07-13T16:44:45Z",
+      "score": 19.5589
+    },
+    {
+      "full_name": "mekos2772/ios-location-spoofer",
+      "html_url": "https://github.com/mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "language": "JavaScript",
+      "stargazers_count": 1973,
+      "forks_count": 296,
+      "pushed_at": "2026-07-10T06:28:32Z",
+      "score": 19.4831
+    },
+    {
+      "full_name": "kui123456789/cdk-redeem-only-extension",
+      "html_url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+      "description": "UPI redeem only extension",
+      "language": "JavaScript",
+      "stargazers_count": 1010,
+      "forks_count": 204,
+      "pushed_at": "2026-07-12T21:34:43Z",
+      "score": 19.2524
+    },
+    {
+      "full_name": "amplifthq/opentag",
+      "html_url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "language": "TypeScript",
+      "stargazers_count": 1223,
+      "forks_count": 69,
+      "pushed_at": "2026-07-13T20:51:25Z",
+      "score": 19.2341
+    },
+    {
+      "full_name": "oso95/scroll-world",
+      "html_url": "https://github.com/oso95/scroll-world",
+      "description": "A skill that turn any brand into a scrollable 3D world",
+      "language": "JavaScript",
+      "stargazers_count": 1624,
+      "forks_count": 212,
+      "pushed_at": "2026-07-10T01:30:54Z",
+      "score": 18.8256
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stargazers_count": 2473,
+      "stargazers_count": 2476,
       "forks_count": 182,
       "pushed_at": "2026-07-06T13:36:03Z",
-      "score": 18.3372
+      "score": 18.3384
     },
     {
       "full_name": "shepherd-agents/shepherd",
       "html_url": "https://github.com/shepherd-agents/shepherd",
       "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
       "language": "Python",
-      "stargazers_count": 1387,
+      "stargazers_count": 1392,
       "forks_count": 100,
       "pushed_at": "2026-07-09T02:11:19Z",
-      "score": 18.2949
+      "score": 18.2985
     },
     {
       "full_name": "Yu9191/wloc",
       "html_url": "https://github.com/Yu9191/wloc",
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "language": "JavaScript",
-      "stargazers_count": 4434,
-      "forks_count": 823,
+      "stargazers_count": 4460,
+      "forks_count": 831,
       "pushed_at": "2026-06-27T23:50:57Z",
-      "score": 17.8197
+      "score": 17.6315
     },
     {
       "full_name": "Forsy-AI/agent-apprenticeship",
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.",
       "language": "Python",
-      "stargazers_count": 1315,
+      "stargazers_count": 1314,
       "forks_count": 55,
       "pushed_at": "2026-07-06T15:17:36Z",
-      "score": 17.1139
+      "score": 17.1132
     },
     {
       "full_name": "lyra81604/zhengxi-views",
       "html_url": "https://github.com/lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "language": "Python",
-      "stargazers_count": 1261,
-      "forks_count": 137,
+      "stargazers_count": 1266,
+      "forks_count": 138,
       "pushed_at": "2026-06-30T09:59:37Z",
-      "score": 16.0875
+      "score": 16.0951
+    },
+    {
+      "full_name": "aidenybai/cnfast",
+      "html_url": "https://github.com/aidenybai/cnfast",
+      "description": "Fast drop in replacement for `cn`",
+      "language": "TypeScript",
+      "stargazers_count": 1104,
+      "forks_count": 11,
+      "pushed_at": "2026-06-22T06:22:08Z",
+      "score": 13.2159
     }
   ]
 }
