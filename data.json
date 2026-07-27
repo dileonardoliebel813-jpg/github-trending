@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:02:30Z",
+  "generated_at": "2026-07-27T02:27:12Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,300 +7,300 @@
       "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stargazers_count": 12351,
+      "stargazers_count": 12368,
       "forks_count": 1245,
       "pushed_at": "2026-07-26T16:03:55Z",
-      "score": 22.9854
+      "score": 22.9868
     },
     {
       "full_name": "elder-plinius/T3MP3ST",
       "html_url": "https://github.com/elder-plinius/T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
-      "stargazers_count": 5217,
-      "forks_count": 1082,
+      "stargazers_count": 5227,
+      "forks_count": 1084,
       "pushed_at": "2026-07-26T18:53:13Z",
-      "score": 22.0536
+      "score": 22.0565
     },
     {
       "full_name": "x4gKing/X4G",
       "html_url": "https://github.com/x4gKing/X4G",
       "description": null,
       "language": "Python",
-      "stargazers_count": 6788,
-      "forks_count": 12445,
+      "stargazers_count": 6818,
+      "forks_count": 12490,
       "pushed_at": "2026-07-21T12:47:04Z",
-      "score": 22.0025
+      "score": 22.0087
     },
     {
       "full_name": "andrewyng/openworker",
       "html_url": "https://github.com/andrewyng/openworker",
       "description": null,
       "language": "Python",
-      "stargazers_count": 6423,
-      "forks_count": 858,
+      "stargazers_count": 6881,
+      "forks_count": 918,
       "pushed_at": "2026-07-25T08:27:43Z",
-      "score": 21.8178
+      "score": 21.9205
     },
     {
       "full_name": "img2threejs/img2threejs",
       "html_url": "https://github.com/img2threejs/img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "language": "Python",
-      "stargazers_count": 5508,
-      "forks_count": 422,
+      "stargazers_count": 5818,
+      "forks_count": 451,
       "pushed_at": "2026-07-26T14:57:18Z",
-      "score": 21.6378
-    },
-    {
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "language": "TypeScript",
-      "stargazers_count": 2832,
-      "forks_count": 390,
-      "pushed_at": "2026-07-26T06:59:17Z",
-      "score": 20.9334
-    },
-    {
-      "full_name": "oomol-lab/open-connector",
-      "html_url": "https://github.com/oomol-lab/open-connector",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "language": "TypeScript",
-      "stargazers_count": 3355,
-      "forks_count": 261,
-      "pushed_at": "2026-07-25T15:39:19Z",
-      "score": 20.5748
+      "score": 21.7257
     },
     {
       "full_name": "MDX-Tom/gpt-5.6-instruct",
       "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "language": "Python",
-      "stargazers_count": 3057,
-      "forks_count": 513,
-      "pushed_at": "2026-07-24T15:43:30Z",
-      "score": 20.5017
+      "stargazers_count": 3084,
+      "forks_count": 518,
+      "pushed_at": "2026-07-27T01:03:12Z",
+      "score": 21.1603
+    },
+    {
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "language": "TypeScript",
+      "stargazers_count": 2844,
+      "forks_count": 393,
+      "pushed_at": "2026-07-26T06:59:17Z",
+      "score": 20.9415
+    },
+    {
+      "full_name": "petergyang/no-ai-slop",
+      "html_url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "stargazers_count": 2785,
+      "forks_count": 221,
+      "pushed_at": "2026-07-27T01:45:22Z",
+      "score": 20.6337
+    },
+    {
+      "full_name": "oomol-lab/open-connector",
+      "html_url": "https://github.com/oomol-lab/open-connector",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "language": "TypeScript",
+      "stargazers_count": 3365,
+      "forks_count": 261,
+      "pushed_at": "2026-07-25T15:39:19Z",
+      "score": 20.5778
     },
     {
       "full_name": "nyblnet/bento",
       "html_url": "https://github.com/nyblnet/bento",
       "description": "Bento, the office suite that fits in a file",
       "language": "TypeScript",
-      "stargazers_count": 2131,
-      "forks_count": 135,
-      "pushed_at": "2026-07-26T18:43:55Z",
-      "score": 20.1211
+      "stargazers_count": 2255,
+      "forks_count": 145,
+      "pushed_at": "2026-07-26T23:46:24Z",
+      "score": 20.2132
     },
     {
       "full_name": "Vincentwei1021/video-shotcraft",
       "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "language": "TypeScript",
-      "stargazers_count": 1883,
-      "forks_count": 164,
+      "stargazers_count": 1929,
+      "forks_count": 168,
       "pushed_at": "2026-07-26T16:41:33Z",
-      "score": 20.0941
+      "score": 20.1302
     },
     {
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "language": "Python",
-      "stargazers_count": 1859,
-      "forks_count": 151,
+      "stargazers_count": 1863,
+      "forks_count": 152,
       "pushed_at": "2026-07-26T08:45:44Z",
-      "score": 20.0403
-    },
-    {
-      "full_name": "penecho/penecho",
-      "html_url": "https://github.com/penecho/penecho",
-      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "language": "JavaScript",
-      "stargazers_count": 1669,
-      "forks_count": 180,
-      "pushed_at": "2026-07-25T20:22:28Z",
-      "score": 20.0198
+      "score": 20.0457
     },
     {
       "full_name": "Jia-Ethan/codex-keysmith",
       "html_url": "https://github.com/Jia-Ethan/codex-keysmith",
       "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
       "language": "Python",
-      "stargazers_count": 1768,
-      "forks_count": 304,
+      "stargazers_count": 1777,
+      "forks_count": 306,
       "pushed_at": "2026-07-25T14:30:59Z",
-      "score": 20.0105
+      "score": 20.0188
     },
     {
       "full_name": "DavidHDev/canvas-ui",
       "html_url": "https://github.com/DavidHDev/canvas-ui",
       "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
       "language": "TypeScript",
-      "stargazers_count": 2078,
-      "forks_count": 89,
-      "pushed_at": "2026-07-26T17:15:29Z",
-      "score": 19.8895
+      "stargazers_count": 2126,
+      "forks_count": 91,
+      "pushed_at": "2026-07-26T20:42:32Z",
+      "score": 19.9234
     },
     {
-      "full_name": "anthropics/jacobian-lens",
-      "html_url": "https://github.com/anthropics/jacobian-lens",
-      "description": " Companion code for the global workspace interpretability paper",
-      "language": "Python",
-      "stargazers_count": 1578,
-      "forks_count": 229,
-      "pushed_at": "2026-07-25T01:43:16Z",
-      "score": 19.7557
-    },
-    {
-      "full_name": "kui123456789/cdk-redeem-only-extension",
-      "html_url": "https://github.com/kui123456789/cdk-redeem-only-extension",
-      "description": "UPI redeem only extension",
+      "full_name": "penecho/penecho",
+      "html_url": "https://github.com/penecho/penecho",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stargazers_count": 1032,
-      "forks_count": 210,
-      "pushed_at": "2026-07-26T08:12:29Z",
-      "score": 19.6162
+      "stargazers_count": 1688,
+      "forks_count": 185,
+      "pushed_at": "2026-07-25T20:22:28Z",
+      "score": 19.7169
     },
     {
       "full_name": "deer-flow/llm-space",
       "html_url": "https://github.com/deer-flow/llm-space",
       "description": "A desktop app to prototype agent ideas, inspect every harness step, replay failures, and evaluate performance, all in one place. Local-first, cloud-ready for managed agents.",
       "language": "TypeScript",
-      "stargazers_count": 1261,
+      "stargazers_count": 1266,
       "forks_count": 136,
       "pushed_at": "2026-07-26T06:03:23Z",
-      "score": 19.6004
+      "score": 19.6044
     },
     {
       "full_name": "ion-design/ditto.site",
       "html_url": "https://github.com/ion-design/ditto.site",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 1080,
-      "forks_count": 144,
+      "stargazers_count": 1104,
+      "forks_count": 145,
       "pushed_at": "2026-07-26T05:05:32Z",
-      "score": 19.474
+      "score": 19.4994
     },
     {
       "full_name": "mekos2772/ios-location-spoofer",
       "html_url": "https://github.com/mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "language": "JavaScript",
-      "stargazers_count": 2623,
-      "forks_count": 459,
+      "stargazers_count": 2625,
+      "forks_count": 462,
       "pushed_at": "2026-07-20T14:30:04Z",
-      "score": 19.1254
+      "score": 19.1294
     },
     {
       "full_name": "oso95/scroll-world",
       "html_url": "https://github.com/oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "language": "JavaScript",
-      "stargazers_count": 5327,
-      "forks_count": 613,
+      "stargazers_count": 5368,
+      "forks_count": 621,
       "pushed_at": "2026-07-16T01:23:39Z",
-      "score": 18.956
+      "score": 18.7353
     },
     {
-      "full_name": "lopopolo/harness-engineering",
-      "html_url": "https://github.com/lopopolo/harness-engineering",
-      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "language": "Python",
-      "stargazers_count": 2361,
-      "forks_count": 240,
-      "pushed_at": "2026-07-18T21:55:49Z",
-      "score": 18.4286
+      "full_name": "mshumer/Claude-of-Duty",
+      "html_url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stargazers_count": 681,
+      "forks_count": 134,
+      "pushed_at": "2026-07-25T19:38:53Z",
+      "score": 18.6498
     },
     {
       "full_name": "pixel-point/aval",
       "html_url": "https://github.com/pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "language": "TypeScript",
-      "stargazers_count": 1305,
+      "stargazers_count": 1307,
       "forks_count": 73,
       "pushed_at": "2026-07-23T13:20:06Z",
-      "score": 18.3751
+      "score": 18.3767
+    },
+    {
+      "full_name": "lopopolo/harness-engineering",
+      "html_url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "language": "Python",
+      "stargazers_count": 2364,
+      "forks_count": 241,
+      "pushed_at": "2026-07-18T21:55:49Z",
+      "score": 18.1723
     },
     {
       "full_name": "Blueturboguy07/cue",
       "html_url": "https://github.com/Blueturboguy07/cue",
       "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
       "language": "JavaScript",
-      "stargazers_count": 807,
-      "forks_count": 171,
+      "stargazers_count": 810,
+      "forks_count": 174,
       "pushed_at": "2026-07-21T10:37:07Z",
-      "score": 17.7331
-    },
-    {
-      "full_name": "Shpigford/knockoff",
-      "html_url": "https://github.com/Shpigford/knockoff",
-      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-      "language": "JavaScript",
-      "stargazers_count": 1968,
-      "forks_count": 71,
-      "pushed_at": "2026-07-17T19:12:51Z",
-      "score": 17.3829
+      "score": 17.7455
     },
     {
       "full_name": "Sahir619/fable-method",
       "html_url": "https://github.com/Sahir619/fable-method",
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "Python",
-      "stargazers_count": 1921,
-      "forks_count": 287,
+      "stargazers_count": 1929,
+      "forks_count": 288,
       "pushed_at": "2026-07-15T15:11:12Z",
-      "score": 17.323
+      "score": 17.3289
     },
     {
       "full_name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "html_url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
       "description": null,
       "language": "Python",
-      "stargazers_count": 2023,
-      "forks_count": 497,
+      "stargazers_count": 2026,
+      "forks_count": 498,
       "pushed_at": "2026-07-13T17:59:01Z",
-      "score": 17.2016
+      "score": 17.2041
     },
     {
       "full_name": "tandpfun/wardrobe",
       "html_url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stargazers_count": 1468,
+      "stargazers_count": 1472,
       "forks_count": 212,
       "pushed_at": "2026-07-16T06:35:44Z",
-      "score": 17.1383
+      "score": 17.141
+    },
+    {
+      "full_name": "Shpigford/knockoff",
+      "html_url": "https://github.com/Shpigford/knockoff",
+      "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "language": "JavaScript",
+      "stargazers_count": 1967,
+      "forks_count": 71,
+      "pushed_at": "2026-07-17T19:12:51Z",
+      "score": 17.1313
     },
     {
       "full_name": "icebird1998/drawio-scientific-illustrator",
       "html_url": "https://github.com/icebird1998/drawio-scientific-illustrator",
       "description": "Live MCP control of the visible draw.io canvas for step-by-step scientific illustration in Codex.",
       "language": "JavaScript",
-      "stargazers_count": 702,
-      "forks_count": 48,
+      "stargazers_count": 715,
+      "forks_count": 49,
       "pushed_at": "2026-07-21T15:19:13Z",
-      "score": 16.9661
+      "score": 16.9945
     },
     {
       "full_name": "withmarbleapp/os-taxonomy",
       "html_url": "https://github.com/withmarbleapp/os-taxonomy",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 3680,
-      "forks_count": 637,
+      "stargazers_count": 3684,
+      "forks_count": 639,
       "pushed_at": "2026-07-08T14:18:23Z",
-      "score": 16.9282
+      "score": 16.9309
     },
     {
       "full_name": "pablostanley/yoinks",
       "html_url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stargazers_count": 1132,
+      "stargazers_count": 1136,
       "forks_count": 113,
       "pushed_at": "2026-07-17T06:40:05Z",
-      "score": 16.8089
+      "score": 16.8124
     }
   ]
 }
