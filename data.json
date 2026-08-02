@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:08:43Z",
+  "generated_at": "2026-08-02T19:01:39Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,220 +7,230 @@
       "html_url": "https://github.com/andrewyng/openworker",
       "description": null,
       "language": "Python",
-      "stargazers_count": 11786,
-      "forks_count": 1587,
+      "stargazers_count": 11924,
+      "forks_count": 1604,
       "pushed_at": "2026-08-01T18:51:09Z",
-      "score": 23.0599
+      "score": 22.749
     },
     {
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stargazers_count": 12963,
+      "stargazers_count": 12980,
       "forks_count": 1294,
       "pushed_at": "2026-07-31T17:07:33Z",
-      "score": 22.7252
+      "score": 22.4094
     },
     {
       "full_name": "img2threejs/img2threejs",
       "html_url": "https://github.com/img2threejs/img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "language": "Python",
-      "stargazers_count": 9030,
-      "forks_count": 688,
-      "pushed_at": "2026-08-02T07:07:38Z",
-      "score": 22.376
+      "stargazers_count": 9074,
+      "forks_count": 690,
+      "pushed_at": "2026-08-02T16:07:20Z",
+      "score": 22.3823
     },
     {
       "full_name": "openai/codex-security",
       "html_url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stargazers_count": 8081,
-      "forks_count": 542,
+      "stargazers_count": 8143,
+      "forks_count": 545,
       "pushed_at": "2026-08-01T21:41:15Z",
-      "score": 22.1459
+      "score": 22.1563
     },
     {
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "language": "TypeScript",
-      "stargazers_count": 6024,
-      "forks_count": 628,
+      "stargazers_count": 6725,
+      "forks_count": 707,
       "pushed_at": "2026-08-01T01:30:53Z",
-      "score": 21.5979
+      "score": 21.7671
     },
     {
       "full_name": "MDX-Tom/gpt-5.6-instruct",
       "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。",
       "language": "Python",
-      "stargazers_count": 4254,
-      "forks_count": 646,
+      "stargazers_count": 4289,
+      "forks_count": 649,
       "pushed_at": "2026-08-01T03:10:36Z",
-      "score": 21.2642
+      "score": 21.2747
     },
     {
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 3334,
-      "forks_count": 392,
+      "stargazers_count": 3537,
+      "forks_count": 408,
       "pushed_at": "2026-08-02T01:34:36Z",
-      "score": 21.0991
-    },
-    {
-      "full_name": "petergyang/no-ai-slop",
-      "html_url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "language": "Python",
-      "stargazers_count": 3778,
-      "forks_count": 292,
-      "pushed_at": "2026-08-01T16:08:29Z",
-      "score": 21.0773
+      "score": 21.1782
     },
     {
       "full_name": "oso95/scroll-world",
       "html_url": "https://github.com/oso95/scroll-world",
       "description": "A skill that turn any brand into a scrollable 3D world",
       "language": "JavaScript",
-      "stargazers_count": 7023,
-      "forks_count": 788,
+      "stargazers_count": 7126,
+      "forks_count": 795,
       "pushed_at": "2026-07-29T04:44:56Z",
-      "score": 20.9442
+      "score": 20.9632
     },
     {
       "full_name": "nyblnet/bento",
       "html_url": "https://github.com/nyblnet/bento",
       "description": "Bento, the office suite that fits in a file",
       "language": "TypeScript",
-      "stargazers_count": 3467,
+      "stargazers_count": 3481,
       "forks_count": 232,
-      "pushed_at": "2026-08-02T12:09:10Z",
-      "score": 20.8769
+      "pushed_at": "2026-08-02T18:17:19Z",
+      "score": 20.8809
+    },
+    {
+      "full_name": "petergyang/no-ai-slop",
+      "html_url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "stargazers_count": 3798,
+      "forks_count": 296,
+      "pushed_at": "2026-08-01T16:08:29Z",
+      "score": 20.7615
     },
     {
       "full_name": "x4gKing/X4G",
       "html_url": "https://github.com/x4gKing/X4G",
       "description": null,
       "language": "Python",
-      "stargazers_count": 7303,
-      "forks_count": 13382,
+      "stargazers_count": 7337,
+      "forks_count": 13433,
       "pushed_at": "2026-07-21T12:47:04Z",
-      "score": 20.3502
+      "score": 20.3568
+    },
+    {
+      "full_name": "trycompai/crm",
+      "html_url": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "language": "TypeScript",
+      "stargazers_count": 1617,
+      "forks_count": 193,
+      "pushed_at": "2026-08-02T18:49:07Z",
+      "score": 20.0229
     },
     {
       "full_name": "vercel-labs/scriptc",
       "html_url": "https://github.com/vercel-labs/scriptc",
       "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
-      "stargazers_count": 2704,
+      "stargazers_count": 2711,
       "forks_count": 58,
-      "pushed_at": "2026-08-02T06:22:51Z",
-      "score": 19.9416
-    },
-    {
-      "full_name": "penecho/penecho",
-      "html_url": "https://github.com/penecho/penecho",
-      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
-      "language": "JavaScript",
-      "stargazers_count": 1848,
-      "forks_count": 213,
-      "pushed_at": "2026-08-01T09:13:33Z",
-      "score": 19.8775
-    },
-    {
-      "full_name": "DavidHDev/canvas-ui",
-      "html_url": "https://github.com/DavidHDev/canvas-ui",
-      "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
-      "language": "TypeScript",
-      "stargazers_count": 3022,
-      "forks_count": 142,
-      "pushed_at": "2026-07-30T13:53:48Z",
-      "score": 19.8505
+      "pushed_at": "2026-08-02T18:59:18Z",
+      "score": 19.9442
     },
     {
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stargazers_count": 1391,
-      "forks_count": 176,
-      "pushed_at": "2026-08-02T13:03:58Z",
-      "score": 19.8266
+      "stargazers_count": 1462,
+      "forks_count": 182,
+      "pushed_at": "2026-08-02T18:52:37Z",
+      "score": 19.893
+    },
+    {
+      "full_name": "penecho/penecho",
+      "html_url": "https://github.com/penecho/penecho",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "language": "JavaScript",
+      "stargazers_count": 1853,
+      "forks_count": 213,
+      "pushed_at": "2026-08-01T09:13:33Z",
+      "score": 19.8802
     },
     {
       "full_name": "QwenAudio/qwen-audio-agent",
       "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stargazers_count": 1697,
+      "stargazers_count": 1721,
       "forks_count": 108,
-      "pushed_at": "2026-08-02T12:41:38Z",
-      "score": 19.7829
-    },
-    {
-      "full_name": "AlephAITech/WorkBuddyGuide",
-      "html_url": "https://github.com/AlephAITech/WorkBuddyGuide",
-      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-      "language": "Python",
-      "stargazers_count": 1840,
-      "forks_count": 257,
-      "pushed_at": "2026-07-31T10:44:16Z",
-      "score": 19.6496
-    },
-    {
-      "full_name": "QoderAI/better-harness",
-      "html_url": "https://github.com/QoderAI/better-harness",
-      "description": "Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
-      "language": "JavaScript",
-      "stargazers_count": 1416,
-      "forks_count": 113,
-      "pushed_at": "2026-08-02T04:33:45Z",
-      "score": 19.6244
+      "pushed_at": "2026-08-02T14:40:27Z",
+      "score": 19.7969
     },
     {
       "full_name": "simonlin1212/Vibe-Research",
       "html_url": "https://github.com/simonlin1212/Vibe-Research",
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
       "language": "TypeScript",
-      "stargazers_count": 1598,
-      "forks_count": 321,
+      "stargazers_count": 1696,
+      "forks_count": 337,
       "pushed_at": "2026-07-31T01:32:10Z",
-      "score": 19.6195
+      "score": 19.7032
+    },
+    {
+      "full_name": "QoderAI/better-harness",
+      "html_url": "https://github.com/QoderAI/better-harness",
+      "description": "Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
+      "language": "JavaScript",
+      "stargazers_count": 1440,
+      "forks_count": 117,
+      "pushed_at": "2026-08-02T04:33:45Z",
+      "score": 19.6584
+    },
+    {
+      "full_name": "AlephAITech/WorkBuddyGuide",
+      "html_url": "https://github.com/AlephAITech/WorkBuddyGuide",
+      "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+      "language": "Python",
+      "stargazers_count": 1852,
+      "forks_count": 258,
+      "pushed_at": "2026-07-31T10:44:16Z",
+      "score": 19.658
+    },
+    {
+      "full_name": "DavidHDev/canvas-ui",
+      "html_url": "https://github.com/DavidHDev/canvas-ui",
+      "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+      "language": "TypeScript",
+      "stargazers_count": 3078,
+      "forks_count": 144,
+      "pushed_at": "2026-07-30T13:53:48Z",
+      "score": 19.5691
     },
     {
       "full_name": "Vincentwei1021/video-shotcraft",
       "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "language": "TypeScript",
-      "stargazers_count": 3209,
-      "forks_count": 278,
+      "stargazers_count": 3246,
+      "forks_count": 279,
       "pushed_at": "2026-07-28T07:18:42Z",
-      "score": 19.3544
-    },
-    {
-      "full_name": "mshumer/Claude-of-Duty",
-      "html_url": "https://github.com/mshumer/Claude-of-Duty",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "language": "JavaScript",
-      "stargazers_count": 2638,
-      "forks_count": 397,
-      "pushed_at": "2026-07-25T19:38:53Z",
-      "score": 18.7903
+      "score": 19.3677
     },
     {
       "full_name": "slvDev/esp32-ai",
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
       "language": "Python",
-      "stargazers_count": 2806,
-      "forks_count": 345,
+      "stargazers_count": 2912,
+      "forks_count": 362,
       "pushed_at": "2026-07-26T08:48:52Z",
-      "score": 18.782
+      "score": 18.843
+    },
+    {
+      "full_name": "mshumer/Claude-of-Duty",
+      "html_url": "https://github.com/mshumer/Claude-of-Duty",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "language": "JavaScript",
+      "stargazers_count": 2664,
+      "forks_count": 401,
+      "pushed_at": "2026-07-25T19:38:53Z",
+      "score": 18.8051
     },
     {
       "full_name": "icebird1998/drawio-scientific-illustrator",
@@ -233,74 +243,64 @@
       "score": 18.4123
     },
     {
-      "full_name": "Subhan-code/Amicro--Micro-transitions-",
-      "html_url": "https://github.com/Subhan-code/Amicro--Micro-transitions-",
-      "description": null,
-      "language": "TypeScript",
-      "stargazers_count": 1342,
-      "forks_count": 53,
-      "pushed_at": "2026-07-27T05:17:43Z",
-      "score": 17.3845
-    },
-    {
       "full_name": "lopopolo/harness-engineering",
       "html_url": "https://github.com/lopopolo/harness-engineering",
       "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "language": "Python",
-      "stargazers_count": 2431,
+      "stargazers_count": 2436,
       "forks_count": 248,
       "pushed_at": "2026-07-18T21:55:49Z",
-      "score": 16.8261
+      "score": 16.8281
     },
     {
       "full_name": "Sahir619/fable-method",
       "html_url": "https://github.com/Sahir619/fable-method",
       "description": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
       "language": "Python",
-      "stargazers_count": 2076,
-      "forks_count": 306,
+      "stargazers_count": 2083,
+      "forks_count": 307,
       "pushed_at": "2026-07-15T15:11:12Z",
-      "score": 16.1762
-    },
-    {
-      "full_name": "withmarbleapp/os-taxonomy",
-      "html_url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": null,
-      "language": "JavaScript",
-      "stargazers_count": 3788,
-      "forks_count": 649,
-      "pushed_at": "2026-07-08T14:18:23Z",
-      "score": 15.9716
-    },
-    {
-      "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "html_url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-      "language": "Python",
-      "stargazers_count": 1544,
-      "forks_count": 161,
-      "pushed_at": "2026-07-17T16:56:59Z",
-      "score": 15.9519
+      "score": 15.9952
     },
     {
       "full_name": "tandpfun/wardrobe",
       "html_url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stargazers_count": 1743,
-      "forks_count": 256,
+      "stargazers_count": 1751,
+      "forks_count": 259,
       "pushed_at": "2026-07-16T06:35:44Z",
-      "score": 15.9126
+      "score": 15.923
+    },
+    {
+      "full_name": "withmarbleapp/os-taxonomy",
+      "html_url": "https://github.com/withmarbleapp/os-taxonomy",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 3798,
+      "forks_count": 656,
+      "pushed_at": "2026-07-08T14:18:23Z",
+      "score": 15.8323
     },
     {
       "full_name": "Shpigford/knockoff",
       "html_url": "https://github.com/Shpigford/knockoff",
       "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
       "language": "JavaScript",
-      "stargazers_count": 1980,
+      "stargazers_count": 1983,
       "forks_count": 72,
       "pushed_at": "2026-07-17T19:12:51Z",
-      "score": 15.8019
+      "score": 15.8034
+    },
+    {
+      "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "html_url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "language": "Python",
+      "stargazers_count": 1547,
+      "forks_count": 161,
+      "pushed_at": "2026-07-17T16:56:59Z",
+      "score": 15.755
     }
   ]
 }
