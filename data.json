@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:28:19Z",
+  "generated_at": "2026-08-09T01:15:25Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,270 +7,270 @@
       "html_url": "https://github.com/andrewyng/openworker",
       "description": null,
       "language": "Python",
-      "stargazers_count": 13782,
-      "forks_count": 1861,
+      "stargazers_count": 13813,
+      "forks_count": 1869,
       "pushed_at": "2026-08-08T03:37:02Z",
-      "score": 23.2959
+      "score": 23.3003
     },
     {
       "full_name": "Fei-Away/Codex-Dream-Skin",
       "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stargazers_count": 13428,
-      "forks_count": 1318,
+      "stargazers_count": 13430,
+      "forks_count": 1319,
       "pushed_at": "2026-08-08T06:15:26Z",
-      "score": 23.0975
+      "score": 23.098
     },
     {
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
       "language": "TypeScript",
-      "stargazers_count": 12496,
-      "forks_count": 1431,
+      "stargazers_count": 12548,
+      "forks_count": 1439,
       "pushed_at": "2026-08-08T01:41:56Z",
-      "score": 23.0667
+      "score": 23.0736
     },
     {
       "full_name": "img2threejs/img2threejs",
       "html_url": "https://github.com/img2threejs/img2threejs",
       "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
       "language": "Python",
-      "stargazers_count": 10237,
-      "forks_count": 767,
+      "stargazers_count": 10247,
+      "forks_count": 769,
       "pushed_at": "2026-08-08T06:00:00Z",
-      "score": 22.5558
+      "score": 22.558
     },
     {
       "full_name": "openai/codex-security",
       "html_url": "https://github.com/openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stargazers_count": 9331,
-      "forks_count": 641,
+      "stargazers_count": 9345,
+      "forks_count": 640,
       "pushed_at": "2026-08-08T15:49:11Z",
-      "score": 22.3735
+      "score": 22.3742
     },
     {
       "full_name": "trycompai/crm",
       "html_url": "https://github.com/trycompai/crm",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "language": "TypeScript",
-      "stargazers_count": 7703,
-      "forks_count": 835,
-      "pushed_at": "2026-08-08T08:08:42Z",
-      "score": 22.3138
+      "stargazers_count": 7790,
+      "forks_count": 845,
+      "pushed_at": "2026-08-08T23:51:41Z",
+      "score": 22.331
     },
     {
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 5307,
-      "forks_count": 640,
+      "stargazers_count": 5334,
+      "forks_count": 644,
       "pushed_at": "2026-08-07T04:51:34Z",
-      "score": 21.4806
+      "score": 21.4888
     },
     {
       "full_name": "slvDev/esp32-ai",
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
       "language": "Python",
-      "stargazers_count": 3792,
-      "forks_count": 487,
+      "stargazers_count": 3804,
+      "forks_count": 489,
       "pushed_at": "2026-08-08T09:54:28Z",
-      "score": 21.3361
-    },
-    {
-      "full_name": "MDX-Tom/gpt-5.6-instruct",
-      "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "description": "A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。",
-      "language": "Python",
-      "stargazers_count": 5011,
-      "forks_count": 721,
-      "pushed_at": "2026-08-06T00:39:20Z",
-      "score": 21.1657
+      "score": 21.3413
     },
     {
       "full_name": "Vincentwei1021/video-shotcraft",
       "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
       "language": "TypeScript",
-      "stargazers_count": 4179,
-      "forks_count": 368,
+      "stargazers_count": 4215,
+      "forks_count": 374,
       "pushed_at": "2026-08-07T16:52:52Z",
-      "score": 20.9656
+      "score": 20.9823
+    },
+    {
+      "full_name": "MDX-Tom/gpt-5.6-instruct",
+      "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "description": "A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。",
+      "language": "Python",
+      "stargazers_count": 5020,
+      "forks_count": 721,
+      "pushed_at": "2026-08-06T00:39:20Z",
+      "score": 20.8608
     },
     {
       "full_name": "DavidHDev/canvas-ui",
       "html_url": "https://github.com/DavidHDev/canvas-ui",
       "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
       "language": "TypeScript",
-      "stargazers_count": 3633,
-      "forks_count": 178,
+      "stargazers_count": 3637,
+      "forks_count": 180,
       "pushed_at": "2026-08-08T14:33:01Z",
-      "score": 20.7918
+      "score": 20.7984
     },
     {
       "full_name": "genspark-ai/genoffice",
       "html_url": "https://github.com/genspark-ai/genoffice",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "language": "TypeScript",
-      "stargazers_count": 2241,
-      "forks_count": 388,
-      "pushed_at": "2026-08-08T03:38:54Z",
-      "score": 20.6969
+      "stargazers_count": 2262,
+      "forks_count": 389,
+      "pushed_at": "2026-08-09T00:52:33Z",
+      "score": 20.7075
     },
     {
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
       "language": "Python",
-      "stargazers_count": 2379,
-      "forks_count": 197,
-      "pushed_at": "2026-08-08T18:21:50Z",
-      "score": 20.419
+      "stargazers_count": 2397,
+      "forks_count": 200,
+      "pushed_at": "2026-08-09T01:04:09Z",
+      "score": 20.434
     },
     {
       "full_name": "nyblnet/bento",
       "html_url": "https://github.com/nyblnet/bento",
       "description": "Bento, the office suite that fits in a file",
       "language": "TypeScript",
-      "stargazers_count": 3830,
-      "forks_count": 256,
+      "stargazers_count": 3832,
+      "forks_count": 257,
       "pushed_at": "2026-08-06T10:16:15Z",
-      "score": 20.3805
-    },
-    {
-      "full_name": "microsoft/skill-recorder",
-      "html_url": "https://github.com/microsoft/skill-recorder",
-      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "language": "TypeScript",
-      "stargazers_count": 2498,
-      "forks_count": 265,
-      "pushed_at": "2026-08-07T12:09:12Z",
-      "score": 20.2876
-    },
-    {
-      "full_name": "Kritt-ai/open-kritt",
-      "html_url": "https://github.com/Kritt-ai/open-kritt",
-      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "language": "JavaScript",
-      "stargazers_count": 1597,
-      "forks_count": 283,
-      "pushed_at": "2026-08-08T15:18:03Z",
-      "score": 20.201
-    },
-    {
-      "full_name": "vercel-labs/scriptc",
-      "html_url": "https://github.com/vercel-labs/scriptc",
-      "description": "TypeScript-to-Native Compiler",
-      "language": "TypeScript",
-      "stargazers_count": 2981,
-      "forks_count": 69,
-      "pushed_at": "2026-08-08T16:35:01Z",
-      "score": 20.1246
-    },
-    {
-      "full_name": "chuspeeism/dashi-taskboard",
-      "html_url": "https://github.com/chuspeeism/dashi-taskboard",
-      "description": null,
-      "language": "JavaScript",
-      "stargazers_count": 1259,
-      "forks_count": 190,
-      "pushed_at": "2026-08-08T18:07:13Z",
-      "score": 19.765
-    },
-    {
-      "full_name": "QwenAudio/qwen-audio-agent",
-      "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "language": "JavaScript",
-      "stargazers_count": 1990,
-      "forks_count": 142,
-      "pushed_at": "2026-08-07T12:59:06Z",
-      "score": 19.75
-    },
-    {
-      "full_name": "powerycy/goutoujunshi",
-      "html_url": "https://github.com/powerycy/goutoujunshi",
-      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-      "language": "Python",
-      "stargazers_count": 1803,
-      "forks_count": 199,
-      "pushed_at": "2026-08-06T07:55:27Z",
-      "score": 19.502
-    },
-    {
-      "full_name": "AminBlg/SimpleEnglish",
-      "html_url": "https://github.com/AminBlg/SimpleEnglish",
-      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
-      "language": "Python",
-      "stargazers_count": 1989,
-      "forks_count": 70,
-      "pushed_at": "2026-08-07T14:34:32Z",
-      "score": 19.3994
-    },
-    {
-      "full_name": "QoderAI/better-harness",
-      "html_url": "https://github.com/QoderAI/better-harness",
-      "description": "Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
-      "language": "JavaScript",
-      "stargazers_count": 1760,
-      "forks_count": 146,
-      "pushed_at": "2026-08-06T13:38:31Z",
-      "score": 19.3239
-    },
-    {
-      "full_name": "KKKKhazix/human-writing",
-      "html_url": "https://github.com/KKKKhazix/human-writing",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "language": "Python",
-      "stargazers_count": 1981,
-      "forks_count": 173,
-      "pushed_at": "2026-08-05T10:38:38Z",
-      "score": 19.2198
-    },
-    {
-      "full_name": "MiniMax-AI/MiniMax-H3",
-      "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 1647,
-      "forks_count": 92,
-      "pushed_at": "2026-08-06T09:52:53Z",
-      "score": 19.0287
-    },
-    {
-      "full_name": "Blueturboguy07/cue",
-      "html_url": "https://github.com/Blueturboguy07/cue",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "language": "JavaScript",
-      "stargazers_count": 1052,
-      "forks_count": 222,
-      "pushed_at": "2026-08-05T22:34:22Z",
-      "score": 19.0181
+      "score": 20.383
     },
     {
       "full_name": "penecho/penecho",
       "html_url": "https://github.com/penecho/penecho",
       "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
       "language": "JavaScript",
-      "stargazers_count": 1966,
+      "stargazers_count": 1967,
       "forks_count": 233,
-      "pushed_at": "2026-08-01T09:13:33Z",
-      "score": 18.2308
+      "pushed_at": "2026-08-08T22:14:49Z",
+      "score": 20.3124
+    },
+    {
+      "full_name": "microsoft/skill-recorder",
+      "html_url": "https://github.com/microsoft/skill-recorder",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "language": "TypeScript",
+      "stargazers_count": 2520,
+      "forks_count": 270,
+      "pushed_at": "2026-08-07T12:09:12Z",
+      "score": 20.3056
+    },
+    {
+      "full_name": "Kritt-ai/open-kritt",
+      "html_url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "language": "JavaScript",
+      "stargazers_count": 1598,
+      "forks_count": 284,
+      "pushed_at": "2026-08-08T15:18:03Z",
+      "score": 20.2034
+    },
+    {
+      "full_name": "vercel-labs/scriptc",
+      "html_url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stargazers_count": 3002,
+      "forks_count": 70,
+      "pushed_at": "2026-08-09T01:12:29Z",
+      "score": 20.1387
+    },
+    {
+      "full_name": "chuspeeism/dashi-taskboard",
+      "html_url": "https://github.com/chuspeeism/dashi-taskboard",
+      "description": null,
+      "language": "JavaScript",
+      "stargazers_count": 1262,
+      "forks_count": 190,
+      "pushed_at": "2026-08-08T19:59:23Z",
+      "score": 19.7674
+    },
+    {
+      "full_name": "QwenAudio/qwen-audio-agent",
+      "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "language": "JavaScript",
+      "stargazers_count": 1991,
+      "forks_count": 142,
+      "pushed_at": "2026-08-07T12:59:06Z",
+      "score": 19.7505
+    },
+    {
+      "full_name": "Blueturboguy07/cue",
+      "html_url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stargazers_count": 1060,
+      "forks_count": 223,
+      "pushed_at": "2026-08-08T21:03:48Z",
+      "score": 19.6728
+    },
+    {
+      "full_name": "powerycy/goutoujunshi",
+      "html_url": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stargazers_count": 1807,
+      "forks_count": 200,
+      "pushed_at": "2026-08-06T07:55:27Z",
+      "score": 19.5067
+    },
+    {
+      "full_name": "AminBlg/SimpleEnglish",
+      "html_url": "https://github.com/AminBlg/SimpleEnglish",
+      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "language": "Python",
+      "stargazers_count": 1995,
+      "forks_count": 70,
+      "pushed_at": "2026-08-07T14:34:32Z",
+      "score": 19.4024
+    },
+    {
+      "full_name": "QoderAI/better-harness",
+      "html_url": "https://github.com/QoderAI/better-harness",
+      "description": "Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
+      "language": "JavaScript",
+      "stargazers_count": 1761,
+      "forks_count": 146,
+      "pushed_at": "2026-08-06T13:38:31Z",
+      "score": 19.3245
+    },
+    {
+      "full_name": "KKKKhazix/human-writing",
+      "html_url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "language": "Python",
+      "stargazers_count": 1989,
+      "forks_count": 174,
+      "pushed_at": "2026-08-05T10:38:38Z",
+      "score": 19.2267
+    },
+    {
+      "full_name": "MiniMax-AI/MiniMax-H3",
+      "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 1833,
+      "forks_count": 106,
+      "pushed_at": "2026-08-06T09:52:53Z",
+      "score": 19.2057
     },
     {
       "full_name": "mshumer/Claude-of-Duty",
       "html_url": "https://github.com/mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "language": "JavaScript",
-      "stargazers_count": 2993,
-      "forks_count": 444,
+      "stargazers_count": 2999,
+      "forks_count": 448,
       "pushed_at": "2026-07-25T19:38:53Z",
-      "score": 17.5368
+      "score": 17.3308
     },
     {
       "full_name": "icebird1998/drawio-scientific-illustrator",
@@ -290,17 +290,17 @@
       "stargazers_count": 2467,
       "forks_count": 253,
       "pushed_at": "2026-07-18T21:55:49Z",
-      "score": 15.714
+      "score": 15.5457
     },
     {
       "full_name": "tandpfun/wardrobe",
       "html_url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stargazers_count": 1834,
+      "stargazers_count": 1836,
       "forks_count": 278,
       "pushed_at": "2026-07-16T06:35:44Z",
-      "score": 14.976
+      "score": 14.9771
     }
   ]
 }
