@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:59:05Z",
+  "generated_at": "2026-08-21T06:36:19Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,260 +7,270 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stargazers_count": 174561,
-      "forks_count": 18861,
-      "pushed_at": "2026-08-19T15:37:57Z",
-      "score": 26.6646
+      "stargazers_count": 176665,
+      "forks_count": 19177,
+      "pushed_at": "2026-08-21T06:35:33Z",
+      "score": 27.0128
     },
     {
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work.",
       "language": "TypeScript",
-      "stargazers_count": 14009,
-      "forks_count": 1667,
+      "stargazers_count": 14016,
+      "forks_count": 1669,
       "pushed_at": "2026-08-21T00:50:14Z",
-      "score": 23.2572
+      "score": 23.2583
     },
     {
       "full_name": "guillaumemeyer/watermarks-remover",
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stargazers_count": 16067,
-      "forks_count": 1825,
+      "stargazers_count": 16189,
+      "forks_count": 1841,
       "pushed_at": "2026-08-19T23:21:56Z",
-      "score": 23.1117
+      "score": 23.1236
     },
     {
       "full_name": "anywhere-labs/deepseek-harness-desktop",
       "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "language": "TypeScript",
-      "stargazers_count": 16472,
-      "forks_count": 782,
-      "pushed_at": "2026-08-20T21:01:35Z",
-      "score": 23.041
+      "stargazers_count": 16870,
+      "forks_count": 808,
+      "pushed_at": "2026-08-21T06:16:09Z",
+      "score": 23.0813
     },
     {
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "language": "Python",
-      "stargazers_count": 10648,
-      "forks_count": 1590,
-      "pushed_at": "2026-08-20T17:28:16Z",
-      "score": 22.9593
+      "stargazers_count": 10832,
+      "forks_count": 1628,
+      "pushed_at": "2026-08-21T06:36:14Z",
+      "score": 22.9882
     },
     {
       "full_name": "trycompai/crm",
       "html_url": "https://github.com/trycompai/crm",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "language": "TypeScript",
-      "stargazers_count": 8731,
+      "stargazers_count": 8739,
       "forks_count": 1051,
       "pushed_at": "2026-08-20T20:53:16Z",
-      "score": 22.554
+      "score": 22.5549
     },
     {
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 6198,
-      "forks_count": 754,
+      "stargazers_count": 6206,
+      "forks_count": 755,
       "pushed_at": "2026-08-20T01:22:51Z",
-      "score": 22.0455
+      "score": 21.7196
     },
     {
       "full_name": "zhu1090093659/dsh-web-ui",
       "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "language": "TypeScript",
-      "stargazers_count": 5161,
-      "forks_count": 314,
-      "pushed_at": "2026-08-20T16:23:05Z",
-      "score": 21.4254
+      "stargazers_count": 5246,
+      "forks_count": 323,
+      "pushed_at": "2026-08-21T05:58:31Z",
+      "score": 21.4558
     },
     {
       "full_name": "genspark-ai/genoffice",
       "html_url": "https://github.com/genspark-ai/genoffice",
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "language": "TypeScript",
-      "stargazers_count": 3421,
-      "forks_count": 575,
+      "stargazers_count": 3433,
+      "forks_count": 576,
       "pushed_at": "2026-08-20T16:33:20Z",
-      "score": 21.316
+      "score": 21.3204
     },
     {
       "full_name": "LaoFeng-mouse/flyingmouse-format",
       "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
       "language": "JavaScript",
-      "stargazers_count": 3984,
-      "forks_count": 363,
-      "pushed_at": "2026-08-20T14:27:33Z",
-      "score": 21.2389
+      "stargazers_count": 4028,
+      "forks_count": 368,
+      "pushed_at": "2026-08-21T06:22:56Z",
+      "score": 21.2567
     },
     {
       "full_name": "yetone/cumora",
       "html_url": "https://github.com/yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "language": "TypeScript",
-      "stargazers_count": 2775,
-      "forks_count": 328,
-      "pushed_at": "2026-08-20T15:36:47Z",
-      "score": 20.8268
+      "stargazers_count": 2793,
+      "forks_count": 334,
+      "pushed_at": "2026-08-21T06:08:25Z",
+      "score": 20.8423
     },
     {
       "full_name": "chuspeeism/dashi-taskboard",
       "html_url": "https://github.com/chuspeeism/dashi-taskboard",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 2410,
-      "forks_count": 317,
-      "pushed_at": "2026-08-20T15:25:51Z",
-      "score": 20.6688
+      "stargazers_count": 2420,
+      "forks_count": 318,
+      "pushed_at": "2026-08-21T06:03:19Z",
+      "score": 20.6745
     },
     {
       "full_name": "QwenAudio/qwen-audio-agent",
       "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stargazers_count": 2203,
-      "forks_count": 182,
+      "stargazers_count": 2209,
+      "forks_count": 183,
       "pushed_at": "2026-08-20T15:03:15Z",
-      "score": 20.3028
+      "score": 20.3082
     },
     {
       "full_name": "MiniMax-AI/MiniMax-H3",
       "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
       "description": null,
       "language": "Python",
-      "stargazers_count": 6526,
-      "forks_count": 398,
+      "stargazers_count": 6568,
+      "forks_count": 402,
       "pushed_at": "2026-08-15T08:31:17Z",
-      "score": 20.243
+      "score": 20.2544
     },
     {
       "full_name": "ShawnPana/phone-harness",
       "html_url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
       "language": "Python",
-      "stargazers_count": 1961,
+      "stargazers_count": 1969,
       "forks_count": 182,
-      "pushed_at": "2026-08-20T23:16:02Z",
-      "score": 20.1865
-    },
-    {
-      "full_name": "eternityspring/shuohao-skills",
-      "html_url": "https://github.com/eternityspring/shuohao-skills",
-      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
-      "language": "JavaScript",
-      "stargazers_count": 1828,
-      "forks_count": 227,
-      "pushed_at": "2026-08-19T03:03:35Z",
-      "score": 19.8984
+      "pushed_at": "2026-08-21T02:11:53Z",
+      "score": 20.1905
     },
     {
       "full_name": "oil-oil/oil-motion",
       "html_url": "https://github.com/oil-oil/oil-motion",
       "description": "Create smooth, responsive interactive web animations.",
       "language": "Python",
-      "stargazers_count": 1950,
-      "forks_count": 149,
-      "pushed_at": "2026-08-19T07:08:22Z",
-      "score": 19.7536
+      "stargazers_count": 1954,
+      "forks_count": 150,
+      "pushed_at": "2026-08-21T06:34:03Z",
+      "score": 20.0868
     },
     {
-      "full_name": "xiaobright/dsh-anchored-standard",
-      "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "full_name": "eternityspring/shuohao-skills",
+      "html_url": "https://github.com/eternityspring/shuohao-skills",
+      "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
       "language": "JavaScript",
-      "stargazers_count": 3684,
-      "forks_count": 110,
-      "pushed_at": "2026-08-17T06:19:58Z",
-      "score": 19.6152
+      "stargazers_count": 1846,
+      "forks_count": 231,
+      "pushed_at": "2026-08-19T03:03:35Z",
+      "score": 19.5998
     },
     {
       "full_name": "Pinvou/pinvou-agent",
       "html_url": "https://github.com/Pinvou/pinvou-agent",
       "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
       "language": "JavaScript",
-      "stargazers_count": 1053,
+      "stargazers_count": 1062,
       "forks_count": 151,
-      "pushed_at": "2026-08-20T18:43:09Z",
-      "score": 19.4723
+      "pushed_at": "2026-08-21T06:17:55Z",
+      "score": 19.4808
     },
     {
       "full_name": "dmmulroy/anti-slop",
       "html_url": "https://github.com/dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "language": "TypeScript",
-      "stargazers_count": 3144,
-      "forks_count": 59,
+      "stargazers_count": 3181,
+      "forks_count": 60,
       "pushed_at": "2026-08-18T13:21:06Z",
-      "score": 19.4558
+      "score": 19.4758
+    },
+    {
+      "full_name": "xiaobright/dsh-anchored-standard",
+      "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "language": "JavaScript",
+      "stargazers_count": 3693,
+      "forks_count": 111,
+      "pushed_at": "2026-08-17T06:19:58Z",
+      "score": 19.3254
     },
     {
       "full_name": "microsoft/skill-recorder",
       "html_url": "https://github.com/microsoft/skill-recorder",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "language": "TypeScript",
-      "stargazers_count": 3321,
-      "forks_count": 335,
+      "stargazers_count": 3333,
+      "forks_count": 337,
       "pushed_at": "2026-08-12T13:31:33Z",
-      "score": 18.6762
+      "score": 18.6827
     },
     {
       "full_name": "slvDev/esp32-ai",
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
       "language": "Python",
-      "stargazers_count": 4118,
-      "forks_count": 544,
+      "stargazers_count": 4121,
+      "forks_count": 546,
       "pushed_at": "2026-08-08T09:54:28Z",
-      "score": 18.177
+      "score": 18.1795
     },
     {
       "full_name": "KKKKhazix/human-writing",
       "html_url": "https://github.com/KKKKhazix/human-writing",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "language": "Python",
-      "stargazers_count": 2906,
-      "forks_count": 235,
+      "stargazers_count": 2929,
+      "forks_count": 237,
       "pushed_at": "2026-08-11T15:07:45Z",
-      "score": 18.115
+      "score": 18.1271
     },
     {
       "full_name": "google-gemma/gemma-translator",
       "html_url": "https://github.com/google-gemma/gemma-translator",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 1243,
+      "stargazers_count": 1246,
       "forks_count": 164,
       "pushed_at": "2026-08-14T15:47:25Z",
-      "score": 17.8664
-    },
-    {
-      "full_name": "cinderline/northcinder",
-      "html_url": "https://github.com/cinderline/northcinder",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "language": "JavaScript",
-      "stargazers_count": 1198,
-      "forks_count": 5,
-      "pushed_at": "2026-08-19T06:08:22Z",
-      "score": 17.6573
+      "score": 17.8688
     },
     {
       "full_name": "petergyang/human-review",
       "html_url": "https://github.com/petergyang/human-review",
       "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
       "language": "JavaScript",
-      "stargazers_count": 1070,
+      "stargazers_count": 1072,
       "forks_count": 78,
       "pushed_at": "2026-08-15T18:45:34Z",
-      "score": 17.6259
+      "score": 17.6278
+    },
+    {
+      "full_name": "cinderline/northcinder",
+      "html_url": "https://github.com/cinderline/northcinder",
+      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
+      "language": "JavaScript",
+      "stargazers_count": 1200,
+      "forks_count": 5,
+      "pushed_at": "2026-08-19T06:08:22Z",
+      "score": 17.3419
+    },
+    {
+      "full_name": "pathwaycom/arc-task-gen",
+      "html_url": "https://github.com/pathwaycom/arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "language": "Python",
+      "stargazers_count": 3796,
+      "forks_count": 23,
+      "pushed_at": "2026-08-11T09:52:10Z",
+      "score": 17.2392
     },
     {
       "full_name": "tsingyuai/growth-lab",
@@ -268,39 +278,29 @@
       "description": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。",
       "language": "Python",
       "stargazers_count": 1813,
-      "forks_count": 159,
+      "forks_count": 162,
       "pushed_at": "2026-08-11T04:56:57Z",
-      "score": 17.4491
-    },
-    {
-      "full_name": "pathwaycom/arc-task-gen",
-      "html_url": "https://github.com/pathwaycom/arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "language": "Python",
-      "stargazers_count": 3793,
-      "forks_count": 23,
-      "pushed_at": "2026-08-11T09:52:10Z",
-      "score": 17.2384
+      "score": 17.2155
     },
     {
       "full_name": "mshumer/Claude-of-Duty",
       "html_url": "https://github.com/mshumer/Claude-of-Duty",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "language": "JavaScript",
-      "stargazers_count": 3229,
-      "forks_count": 487,
+      "stargazers_count": 3234,
+      "forks_count": 488,
       "pushed_at": "2026-07-25T19:38:53Z",
-      "score": 15.3789
+      "score": 15.3815
     },
     {
       "full_name": "geeklee/srt-whiteboard-animation",
       "html_url": "https://github.com/geeklee/srt-whiteboard-animation",
       "description": "将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。",
       "language": "Python",
-      "stargazers_count": 2068,
-      "forks_count": 314,
+      "stargazers_count": 2106,
+      "forks_count": 316,
       "pushed_at": "2026-07-27T16:24:52Z",
-      "score": 15.0044
+      "score": 15.0258
     }
   ]
 }
