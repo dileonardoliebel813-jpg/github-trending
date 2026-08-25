@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:35:59Z",
+  "generated_at": "2026-08-25T12:36:36Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,130 +7,140 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stargazers_count": 193110,
-      "forks_count": 21696,
+      "stargazers_count": 194269,
+      "forks_count": 21861,
       "pushed_at": "2026-08-21T12:35:08Z",
-      "score": 26.2119
+      "score": 25.925
     },
     {
       "full_name": "guillaumemeyer/watermarks-remover",
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
-      "stargazers_count": 18015,
-      "forks_count": 2080,
+      "stargazers_count": 18127,
+      "forks_count": 2095,
       "pushed_at": "2026-08-25T00:10:07Z",
-      "score": 23.6193
+      "score": 23.6291
     },
     {
       "full_name": "anywhere-labs/dsh-desktop",
       "html_url": "https://github.com/anywhere-labs/dsh-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "language": "TypeScript",
-      "stargazers_count": 19893,
-      "forks_count": 966,
-      "pushed_at": "2026-08-25T05:55:29Z",
-      "score": 23.3353
+      "stargazers_count": 20068,
+      "forks_count": 972,
+      "pushed_at": "2026-08-25T11:43:25Z",
+      "score": 23.3471
     },
     {
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work.",
       "language": "TypeScript",
-      "stargazers_count": 14165,
-      "forks_count": 1696,
+      "stargazers_count": 14177,
+      "forks_count": 1698,
       "pushed_at": "2026-08-24T23:22:09Z",
-      "score": 23.2769
+      "score": 23.2783
     },
     {
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "language": "Python",
-      "stargazers_count": 12393,
-      "forks_count": 2003,
-      "pushed_at": "2026-08-25T03:56:33Z",
-      "score": 23.2264
+      "stargazers_count": 12531,
+      "forks_count": 2037,
+      "pushed_at": "2026-08-25T09:15:22Z",
+      "score": 23.2459
     },
     {
       "full_name": "zhu1090093659/dsh-web",
       "html_url": "https://github.com/zhu1090093659/dsh-web",
       "description": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发",
       "language": "TypeScript",
-      "stargazers_count": 5984,
-      "forks_count": 382,
-      "pushed_at": "2026-08-25T06:00:29Z",
-      "score": 21.671
+      "stargazers_count": 6028,
+      "forks_count": 386,
+      "pushed_at": "2026-08-25T12:34:48Z",
+      "score": 21.6835
     },
     {
       "full_name": "trycompai/crm",
       "html_url": "https://github.com/trycompai/crm",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "language": "TypeScript",
-      "stargazers_count": 8896,
-      "forks_count": 1097,
+      "stargazers_count": 8914,
+      "forks_count": 1099,
       "pushed_at": "2026-08-21T14:25:00Z",
-      "score": 21.6425
+      "score": 21.6454
+    },
+    {
+      "full_name": "LaoFeng-mouse/flyingmouse-format",
+      "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
+      "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
+      "language": "JavaScript",
+      "stargazers_count": 4508,
+      "forks_count": 396,
+      "pushed_at": "2026-08-25T07:34:38Z",
+      "score": 21.4058
     },
     {
       "full_name": "genspark-ai/genoffice",
       "html_url": "https://github.com/genspark-ai/genoffice",
       "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
       "language": "TypeScript",
-      "stargazers_count": 3604,
-      "forks_count": 605,
-      "pushed_at": "2026-08-25T03:47:15Z",
-      "score": 21.3935
+      "stargazers_count": 3631,
+      "forks_count": 609,
+      "pushed_at": "2026-08-25T07:56:27Z",
+      "score": 21.4043
     },
     {
       "full_name": "yjh051108/dsh-routing-suite",
       "html_url": "https://github.com/yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "language": "JavaScript",
-      "stargazers_count": 6770,
-      "forks_count": 132,
+      "stargazers_count": 6793,
+      "forks_count": 133,
       "pushed_at": "2026-08-24T23:56:40Z",
-      "score": 21.2656
-    },
-    {
-      "full_name": "yetone/cumora",
-      "html_url": "https://github.com/yetone/cumora",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "language": "TypeScript",
-      "stargazers_count": 3073,
-      "forks_count": 368,
-      "pushed_at": "2026-08-24T11:08:25Z",
-      "score": 20.9861
+      "score": 21.2727
     },
     {
       "full_name": "microsoft/skill-recorder",
       "html_url": "https://github.com/microsoft/skill-recorder",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "language": "TypeScript",
-      "stargazers_count": 3394,
+      "stargazers_count": 3401,
       "forks_count": 343,
       "pushed_at": "2026-08-24T04:38:41Z",
-      "score": 20.7225
+      "score": 20.7246
+    },
+    {
+      "full_name": "yetone/cumora",
+      "html_url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "language": "TypeScript",
+      "stargazers_count": 3101,
+      "forks_count": 369,
+      "pushed_at": "2026-08-24T11:08:25Z",
+      "score": 20.6687
     },
     {
       "full_name": "bashalarmistalt/decimen-optical-transfer",
       "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
       "description": null,
       "language": "TypeScript",
-      "stargazers_count": 6299,
-      "forks_count": 767,
+      "stargazers_count": 6306,
+      "forks_count": 768,
       "pushed_at": "2026-08-20T01:22:51Z",
-      "score": 20.535
+      "score": 20.5368
     },
     {
       "full_name": "QwenAudio/qwen-audio-agent",
       "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
       "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
       "language": "JavaScript",
-      "stargazers_count": 2233,
+      "stargazers_count": 2241,
       "forks_count": 189,
-      "pushed_at": "2026-08-25T06:34:48Z",
-      "score": 20.3351
+      "pushed_at": "2026-08-25T11:56:57Z",
+      "score": 20.3386
     },
     {
       "full_name": "xiaobright/dsh-anchored-standard",
@@ -147,160 +157,150 @@
       "html_url": "https://github.com/Leonxlnx/unlazy",
       "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
       "language": "JavaScript",
-      "stargazers_count": 2280,
-      "forks_count": 124,
+      "stargazers_count": 2337,
+      "forks_count": 131,
       "pushed_at": "2026-08-24T16:46:40Z",
-      "score": 20.1465
-    },
-    {
-      "full_name": "LaoFeng-mouse/flyingmouse-format",
-      "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-      "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
-      "language": "JavaScript",
-      "stargazers_count": 4463,
-      "forks_count": 393,
-      "pushed_at": "2026-08-21T06:22:56Z",
-      "score": 20.1437
+      "score": 20.1985
     },
     {
       "full_name": "eternityspring/shuohao-skills",
       "html_url": "https://github.com/eternityspring/shuohao-skills",
       "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
       "language": "JavaScript",
-      "stargazers_count": 1992,
-      "forks_count": 248,
+      "stargazers_count": 2006,
+      "forks_count": 251,
       "pushed_at": "2026-08-22T04:14:07Z",
-      "score": 19.4045
-    },
-    {
-      "full_name": "fuxicodex/Fuxi",
-      "html_url": "https://github.com/fuxicodex/Fuxi",
-      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
-      "language": "Python",
-      "stargazers_count": 2019,
-      "forks_count": 63,
-      "pushed_at": "2026-08-23T10:16:40Z",
-      "score": 19.3625
-    },
-    {
-      "full_name": "MiniMax-AI/MiniMax-H3",
-      "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 6985,
-      "forks_count": 451,
-      "pushed_at": "2026-08-15T08:31:17Z",
-      "score": 19.3167
+      "score": 19.4175
     },
     {
       "full_name": "ShawnPana/phone-harness",
       "html_url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
       "language": "Python",
-      "stargazers_count": 2013,
+      "stargazers_count": 2032,
       "forks_count": 186,
       "pushed_at": "2026-08-21T20:42:59Z",
-      "score": 19.2718
+      "score": 19.2812
+    },
+    {
+      "full_name": "MiniMax-AI/MiniMax-H3",
+      "html_url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 7029,
+      "forks_count": 454,
+      "pushed_at": "2026-08-15T08:31:17Z",
+      "score": 19.0834
     },
     {
       "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
       "html_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
       "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
       "language": "JavaScript",
-      "stargazers_count": 1275,
+      "stargazers_count": 1294,
       "forks_count": 45,
-      "pushed_at": "2026-08-25T04:30:25Z",
-      "score": 19.0658
+      "pushed_at": "2026-08-25T12:34:29Z",
+      "score": 19.0806
+    },
+    {
+      "full_name": "fuxicodex/Fuxi",
+      "html_url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+      "language": "Python",
+      "stargazers_count": 2048,
+      "forks_count": 65,
+      "pushed_at": "2026-08-23T10:16:40Z",
+      "score": 19.075
     },
     {
       "full_name": "oil-oil/oil-motion",
       "html_url": "https://github.com/oil-oil/oil-motion",
       "description": "Create smooth, responsive interactive web animations.",
       "language": "Python",
-      "stargazers_count": 2022,
+      "stargazers_count": 2025,
       "forks_count": 157,
       "pushed_at": "2026-08-21T06:34:03Z",
-      "score": 18.8954
+      "score": 18.8968
     },
     {
       "full_name": "dmmulroy/anti-slop",
       "html_url": "https://github.com/dmmulroy/anti-slop",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "language": "TypeScript",
-      "stargazers_count": 3606,
+      "stargazers_count": 3644,
       "forks_count": 75,
       "pushed_at": "2026-08-18T13:21:06Z",
-      "score": 18.5433
+      "score": 18.5538
     },
     {
       "full_name": "vvxw/deploy-vercel",
       "html_url": "https://github.com/vvxw/deploy-vercel",
       "description": "Install Command：npm install",
       "language": "JavaScript",
-      "stargazers_count": 1322,
-      "forks_count": 273,
+      "stargazers_count": 1339,
+      "forks_count": 275,
       "pushed_at": "2026-08-18T13:33:29Z",
-      "score": 18.1815
+      "score": 18.1979
     },
     {
       "full_name": "wang2122/sprix-sage-router",
       "html_url": "https://github.com/wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "language": "Python",
-      "stargazers_count": 1813,
+      "stargazers_count": 2044,
       "forks_count": 24,
       "pushed_at": "2026-08-21T08:45:27Z",
-      "score": 18.1611
+      "score": 17.9843
     },
     {
       "full_name": "KKKKhazix/human-writing",
       "html_url": "https://github.com/KKKKhazix/human-writing",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
       "language": "Python",
-      "stargazers_count": 3038,
-      "forks_count": 245,
+      "stargazers_count": 3053,
+      "forks_count": 247,
       "pushed_at": "2026-08-11T15:07:45Z",
-      "score": 17.2554
+      "score": 17.2644
     },
     {
       "full_name": "google-gemma/gemma-translator",
       "html_url": "https://github.com/google-gemma/gemma-translator",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 1319,
+      "stargazers_count": 1324,
       "forks_count": 175,
       "pushed_at": "2026-08-14T15:47:25Z",
-      "score": 16.9359
-    },
-    {
-      "full_name": "pathwaycom/arc-task-gen",
-      "html_url": "https://github.com/pathwaycom/arc-task-gen",
-      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
-      "language": "Python",
-      "stargazers_count": 5579,
-      "forks_count": 33,
-      "pushed_at": "2026-08-11T09:52:10Z",
-      "score": 16.8736
+      "score": 16.9397
     },
     {
       "full_name": "arvids-unavailable/openGym",
       "html_url": "https://github.com/arvids-unavailable/openGym",
       "description": "https://github.com/DuarteSantos8/openGym",
       "language": "JavaScript",
-      "stargazers_count": 4294,
-      "forks_count": 796,
+      "stargazers_count": 4608,
+      "forks_count": 820,
       "pushed_at": "2026-08-03T19:19:38Z",
-      "score": 16.6715
+      "score": 16.7569
+    },
+    {
+      "full_name": "pathwaycom/arc-task-gen",
+      "html_url": "https://github.com/pathwaycom/arc-task-gen",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "language": "Python",
+      "stargazers_count": 5759,
+      "forks_count": 35,
+      "pushed_at": "2026-08-11T09:52:10Z",
+      "score": 16.7213
     },
     {
       "full_name": "geeklee/srt-whiteboard-animation",
       "html_url": "https://github.com/geeklee/srt-whiteboard-animation",
       "description": "将 SRT 字幕做成暖米黄纸张底的流式笔迹白板手绘动画 skill：mask 分区遮罩编排 + stream 连续笔迹（ink→color）。",
       "language": "Python",
-      "stargazers_count": 2221,
-      "forks_count": 337,
+      "stargazers_count": 2227,
+      "forks_count": 341,
       "pushed_at": "2026-07-27T16:24:52Z",
-      "score": 14.5501
+      "score": 14.5587
     }
   ]
 }
