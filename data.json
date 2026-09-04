@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:32:23Z",
+  "generated_at": "2026-09-04T10:23:57Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,300 +7,300 @@
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stargazers_count": 211154,
-      "forks_count": 24723,
-      "pushed_at": "2026-09-03T06:23:34Z",
-      "score": 27.3181
+      "stargazers_count": 211742,
+      "forks_count": 24828,
+      "pushed_at": "2026-09-04T10:01:33Z",
+      "score": 27.323
     },
     {
       "full_name": "guillaumemeyer/watermarks-remover",
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "language": "Python",
-      "stargazers_count": 20333,
-      "forks_count": 2356,
+      "stargazers_count": 20430,
+      "forks_count": 2372,
       "pushed_at": "2026-09-04T00:48:57Z",
-      "score": 23.8026
+      "score": 23.8108
     },
     {
       "full_name": "anywhere-labs/dsh-desktop",
       "html_url": "https://github.com/anywhere-labs/dsh-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "language": "TypeScript",
-      "stargazers_count": 23380,
-      "forks_count": 1149,
-      "pushed_at": "2026-09-03T15:41:11Z",
-      "score": 23.5834
+      "stargazers_count": 23507,
+      "forks_count": 1152,
+      "pushed_at": "2026-09-04T10:07:50Z",
+      "score": 23.5902
     },
     {
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "language": "Python",
-      "stargazers_count": 14377,
-      "forks_count": 2542,
+      "stargazers_count": 14425,
+      "forks_count": 2555,
       "pushed_at": "2026-09-03T13:19:16Z",
-      "score": 23.494
+      "score": 23.4999
     },
     {
       "full_name": "sapientinc/PRAXIST",
       "html_url": "https://github.com/sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "language": "Python",
-      "stargazers_count": 6905,
-      "forks_count": 517,
+      "stargazers_count": 7024,
+      "forks_count": 528,
       "pushed_at": "2026-09-03T21:05:41Z",
-      "score": 21.9651
+      "score": 21.9927
     },
     {
       "full_name": "zhu1090093659/dsh-web",
       "html_url": "https://github.com/zhu1090093659/dsh-web",
       "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
       "language": "TypeScript",
-      "stargazers_count": 6798,
-      "forks_count": 446,
-      "pushed_at": "2026-09-04T01:57:03Z",
-      "score": 21.8758
+      "stargazers_count": 6825,
+      "forks_count": 447,
+      "pushed_at": "2026-09-04T07:42:55Z",
+      "score": 21.8809
     },
     {
       "full_name": "LaoFeng-mouse/flyingmouse-format",
       "html_url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
       "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
       "language": "JavaScript",
-      "stargazers_count": 5357,
+      "stargazers_count": 5373,
       "forks_count": 461,
-      "pushed_at": "2026-09-03T06:01:53Z",
-      "score": 21.6541
+      "pushed_at": "2026-09-04T09:36:43Z",
+      "score": 21.6571
     },
     {
       "full_name": "CopilotKit/OpenBot",
       "html_url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
-      "stargazers_count": 4143,
-      "forks_count": 503,
+      "stargazers_count": 4188,
+      "forks_count": 512,
       "pushed_at": "2026-09-03T19:08:03Z",
-      "score": 21.4407
+      "score": 21.4604
     },
     {
       "full_name": "yetone/cumora",
       "html_url": "https://github.com/yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "language": "TypeScript",
-      "stargazers_count": 3459,
-      "forks_count": 433,
+      "stargazers_count": 3468,
+      "forks_count": 432,
       "pushed_at": "2026-09-03T11:28:03Z",
-      "score": 21.1855
+      "score": 21.187
     },
     {
       "full_name": "yjh051108/dsh-routing-suite",
       "html_url": "https://github.com/yjh051108/dsh-routing-suite",
       "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "language": "JavaScript",
-      "stargazers_count": 7055,
+      "stargazers_count": 7068,
       "forks_count": 148,
       "pushed_at": "2026-09-02T17:34:41Z",
-      "score": 21.0358
+      "score": 21.0376
     },
     {
       "full_name": "dataelement/dsh-desktop",
       "html_url": "https://github.com/dataelement/dsh-desktop",
       "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
       "language": "TypeScript",
-      "stargazers_count": 4043,
-      "forks_count": 215,
-      "pushed_at": "2026-09-03T12:51:39Z",
-      "score": 20.9926
+      "stargazers_count": 4107,
+      "forks_count": 216,
+      "pushed_at": "2026-09-04T09:34:06Z",
+      "score": 21.0106
     },
     {
       "full_name": "omdsh-dev/DSH-better-sidebar",
       "html_url": "https://github.com/omdsh-dev/DSH-better-sidebar",
       "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
       "language": "TypeScript",
-      "stargazers_count": 3305,
+      "stargazers_count": 3322,
       "forks_count": 291,
-      "pushed_at": "2026-09-03T13:21:24Z",
-      "score": 20.9419
-    },
-    {
-      "full_name": "Leonxlnx/unlazy",
-      "html_url": "https://github.com/Leonxlnx/unlazy",
-      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-      "language": "JavaScript",
-      "stargazers_count": 3020,
-      "forks_count": 193,
-      "pushed_at": "2026-09-03T09:31:17Z",
-      "score": 20.6473
+      "pushed_at": "2026-09-04T09:33:43Z",
+      "score": 20.947
     },
     {
       "full_name": "dsh-market/dsh-market",
       "html_url": "https://github.com/dsh-market/dsh-market",
       "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
       "language": "TypeScript",
-      "stargazers_count": 3122,
-      "forks_count": 165,
+      "stargazers_count": 3155,
+      "forks_count": 166,
       "pushed_at": "2026-09-03T13:20:11Z",
-      "score": 20.6025
+      "score": 20.6161
     },
     {
       "full_name": "ShawnPana/phone-harness",
       "html_url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
       "language": "Python",
-      "stargazers_count": 2329,
-      "forks_count": 220,
-      "pushed_at": "2026-09-03T23:51:15Z",
-      "score": 20.4527
+      "stargazers_count": 2363,
+      "forks_count": 228,
+      "pushed_at": "2026-09-04T03:14:01Z",
+      "score": 20.485
+    },
+    {
+      "full_name": "Leonxlnx/unlazy",
+      "html_url": "https://github.com/Leonxlnx/unlazy",
+      "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+      "language": "JavaScript",
+      "stargazers_count": 3033,
+      "forks_count": 195,
+      "pushed_at": "2026-09-03T09:31:17Z",
+      "score": 20.3289
     },
     {
       "full_name": "xiaobright/dsh-anchored-standard",
       "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "language": "JavaScript",
-      "stargazers_count": 3825,
+      "stargazers_count": 3824,
       "forks_count": 118,
       "pushed_at": "2026-09-01T14:04:49Z",
-      "score": 19.9942
+      "score": 19.9939
     },
     {
       "full_name": "Nanako0129/sepia",
       "html_url": "https://github.com/Nanako0129/sepia",
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "language": "Python",
-      "stargazers_count": 1888,
-      "forks_count": 114,
-      "pushed_at": "2026-09-04T01:25:07Z",
-      "score": 19.9163
-    },
-    {
-      "full_name": "nateherkai/scroll-craft",
-      "html_url": "https://github.com/nateherkai/scroll-craft",
-      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-      "language": "JavaScript",
-      "stargazers_count": 1684,
-      "forks_count": 261,
-      "pushed_at": "2026-09-02T04:22:53Z",
-      "score": 19.8859
-    },
-    {
-      "full_name": "dmmulroy/anti-slop",
-      "html_url": "https://github.com/dmmulroy/anti-slop",
-      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "language": "TypeScript",
-      "stargazers_count": 4064,
-      "forks_count": 89,
-      "pushed_at": "2026-08-31T21:35:30Z",
-      "score": 19.6084
+      "stargazers_count": 1940,
+      "forks_count": 119,
+      "pushed_at": "2026-09-04T06:58:05Z",
+      "score": 19.9647
     },
     {
       "full_name": "anthropics/commerce-agents",
       "html_url": "https://github.com/anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "language": "Python",
-      "stargazers_count": 1597,
-      "forks_count": 257,
+      "stargazers_count": 1786,
+      "forks_count": 285,
       "pushed_at": "2026-09-01T20:41:14Z",
-      "score": 19.5081
+      "score": 19.6714
+    },
+    {
+      "full_name": "dmmulroy/anti-slop",
+      "html_url": "https://github.com/dmmulroy/anti-slop",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "language": "TypeScript",
+      "stargazers_count": 4068,
+      "forks_count": 89,
+      "pushed_at": "2026-08-31T21:35:30Z",
+      "score": 19.6094
+    },
+    {
+      "full_name": "nateherkai/scroll-craft",
+      "html_url": "https://github.com/nateherkai/scroll-craft",
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+      "language": "JavaScript",
+      "stargazers_count": 1699,
+      "forks_count": 262,
+      "pushed_at": "2026-09-02T04:22:53Z",
+      "score": 19.5795
     },
     {
       "full_name": "zouyuxuan122/DSH-Desktop-EAC",
       "html_url": "https://github.com/zouyuxuan122/DSH-Desktop-EAC",
       "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
       "language": "JavaScript",
-      "stargazers_count": 1517,
+      "stargazers_count": 1528,
       "forks_count": 52,
-      "pushed_at": "2026-09-03T14:44:42Z",
-      "score": 19.3103
-    },
-    {
-      "full_name": "wang2122/sprix-sage-router",
-      "html_url": "https://github.com/wang2122/sprix-sage-router",
-      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "language": "Python",
-      "stargazers_count": 3359,
-      "forks_count": 398,
-      "pushed_at": "2026-08-28T09:12:08Z",
-      "score": 19.3015
-    },
-    {
-      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
-      "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-      "language": "TypeScript",
-      "stargazers_count": 3478,
-      "forks_count": 3536,
-      "pushed_at": "2026-08-23T20:53:35Z",
-      "score": 19.1704
+      "pushed_at": "2026-09-04T09:22:06Z",
+      "score": 19.3175
     },
     {
       "full_name": "yanliudesign/mono-color-skill",
       "html_url": "https://github.com/yanliudesign/mono-color-skill",
       "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
       "language": "Python",
-      "stargazers_count": 2191,
-      "forks_count": 35,
+      "stargazers_count": 2245,
+      "forks_count": 40,
       "pushed_at": "2026-09-02T18:49:42Z",
-      "score": 19.1565
+      "score": 19.2459
+    },
+    {
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "language": "TypeScript",
+      "stargazers_count": 3480,
+      "forks_count": 3540,
+      "pushed_at": "2026-08-23T20:53:35Z",
+      "score": 19.1716
     },
     {
       "full_name": "lennney/stop-that-shit",
       "html_url": "https://github.com/lennney/stop-that-shit",
       "description": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
       "language": "JavaScript",
-      "stargazers_count": 1456,
+      "stargazers_count": 1509,
       "forks_count": 39,
       "pushed_at": "2026-09-03T10:50:52Z",
-      "score": 19.1286
+      "score": 19.1643
+    },
+    {
+      "full_name": "wang2122/sprix-sage-router",
+      "html_url": "https://github.com/wang2122/sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "language": "Python",
+      "stargazers_count": 3396,
+      "forks_count": 399,
+      "pushed_at": "2026-08-28T09:12:08Z",
+      "score": 19.0453
     },
     {
       "full_name": "amagine-ai/Amagine3D",
       "html_url": "https://github.com/amagine-ai/Amagine3D",
       "description": "Amagine3D: From hardware requirements to editable 3D designs",
       "language": "Python",
-      "stargazers_count": 2433,
+      "stargazers_count": 2469,
       "forks_count": 97,
       "pushed_at": "2026-08-29T12:40:40Z",
-      "score": 18.5546
+      "score": 18.5693
     },
     {
       "full_name": "eternityspring/shuohao-skills",
       "html_url": "https://github.com/eternityspring/shuohao-skills",
       "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
       "language": "JavaScript",
-      "stargazers_count": 2602,
-      "forks_count": 335,
+      "stargazers_count": 2708,
+      "forks_count": 347,
       "pushed_at": "2026-08-26T14:20:50Z",
-      "score": 18.4323
+      "score": 18.4897
     },
     {
       "full_name": "oil-oil/oil-motion",
       "html_url": "https://github.com/oil-oil/oil-motion",
       "description": "Create smooth, responsive interactive web animations.",
       "language": "Python",
-      "stargazers_count": 2160,
+      "stargazers_count": 2162,
       "forks_count": 163,
       "pushed_at": "2026-08-28T09:30:49Z",
-      "score": 18.4156
+      "score": 18.1481
     },
     {
       "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
       "language": "JavaScript",
-      "stargazers_count": 1685,
+      "stargazers_count": 1703,
       "forks_count": 63,
       "pushed_at": "2026-08-24T17:14:19Z",
-      "score": 16.6749
+      "score": 16.6855
     },
     {
       "full_name": "vvxw/deploy-vercel",
       "html_url": "https://github.com/vvxw/deploy-vercel",
       "description": "Install Command：npm install",
       "language": "JavaScript",
-      "stargazers_count": 1598,
-      "forks_count": 326,
+      "stargazers_count": 1609,
+      "forks_count": 333,
       "pushed_at": "2026-08-18T13:33:29Z",
-      "score": 16.1386
+      "score": 16.156
     }
   ]
 }
