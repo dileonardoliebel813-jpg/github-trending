@@ -1,196 +1,186 @@
 {
-  "generated_at": "2026-09-18T02:47:58Z",
+  "generated_at": "2026-09-18T10:25:16Z",
   "total_count": 30,
   "projects": [
-    {
-      "full_name": "lnkiai/m3e-canvas",
-      "html_url": "https://github.com/lnkiai/m3e-canvas",
-      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "language": "TypeScript",
-      "stargazers_count": 7330,
-      "forks_count": 763,
-      "pushed_at": "2026-09-16T10:57:11Z",
-      "score": 21.8913
-    },
     {
       "full_name": "sapientinc/PRAXIST",
       "html_url": "https://github.com/sapientinc/PRAXIST",
       "description": "Autonomous research system for measurable, computer-executable research.",
       "language": "Python",
-      "stargazers_count": 5722,
-      "forks_count": 647,
-      "pushed_at": "2026-09-17T00:14:20Z",
-      "score": 21.5614
+      "stargazers_count": 5744,
+      "forks_count": 664,
+      "pushed_at": "2026-09-18T07:48:40Z",
+      "score": 21.906
+    },
+    {
+      "full_name": "lnkiai/m3e-canvas",
+      "html_url": "https://github.com/lnkiai/m3e-canvas",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "language": "TypeScript",
+      "stargazers_count": 7371,
+      "forks_count": 766,
+      "pushed_at": "2026-09-16T10:57:11Z",
+      "score": 21.8988
     },
     {
       "full_name": "bojieli/ai-infra-book",
       "html_url": "https://github.com/bojieli/ai-infra-book",
       "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
       "language": "Python",
-      "stargazers_count": 4164,
-      "forks_count": 293,
-      "pushed_at": "2026-09-18T01:38:05Z",
-      "score": 21.1763
+      "stargazers_count": 4311,
+      "forks_count": 308,
+      "pushed_at": "2026-09-18T03:02:35Z",
+      "score": 21.2358
     },
     {
       "full_name": "totec448-spec/chat-on-steroids",
       "html_url": "https://github.com/totec448-spec/chat-on-steroids",
       "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "language": "TypeScript",
-      "stargazers_count": 3155,
-      "forks_count": 425,
-      "pushed_at": "2026-09-17T17:31:05Z",
-      "score": 21.0843
+      "stargazers_count": 3182,
+      "forks_count": 427,
+      "pushed_at": "2026-09-18T09:40:48Z",
+      "score": 21.0951
     },
     {
       "full_name": "Human-Agent-Society/reef",
       "html_url": "https://github.com/Human-Agent-Society/reef",
       "description": "Continual learning infra for self-improving agents",
       "language": "Python",
-      "stargazers_count": 3359,
-      "forks_count": 260,
-      "pushed_at": "2026-09-17T23:31:39Z",
-      "score": 20.902
+      "stargazers_count": 3506,
+      "forks_count": 281,
+      "pushed_at": "2026-09-18T08:56:32Z",
+      "score": 20.9835
+    },
+    {
+      "full_name": "browser-use/jev-ultrafast",
+      "html_url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "i. am. speed.",
+      "language": "Python",
+      "stargazers_count": 3767,
+      "forks_count": 226,
+      "pushed_at": "2026-09-18T01:17:37Z",
+      "score": 20.9468
     },
     {
       "full_name": "ApodexAI/FrontierAgent",
       "html_url": "https://github.com/ApodexAI/FrontierAgent",
       "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
       "language": "Python",
-      "stargazers_count": 3493,
+      "stargazers_count": 3645,
       "forks_count": 201,
-      "pushed_at": "2026-09-18T00:15:18Z",
-      "score": 20.8129
-    },
-    {
-      "full_name": "Nanako0129/sepia",
-      "html_url": "https://github.com/Nanako0129/sepia",
-      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "language": "Python",
-      "stargazers_count": 2671,
-      "forks_count": 174,
-      "pushed_at": "2026-09-17T18:26:36Z",
-      "score": 20.473
-    },
-    {
-      "full_name": "XiaoDuoYa/codex-with-chatgpt",
-      "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-      "language": "TypeScript",
-      "stargazers_count": 5257,
-      "forks_count": 511,
-      "pushed_at": "2026-09-13T03:22:46Z",
-      "score": 20.4384
-    },
-    {
-      "full_name": "browser-use/jev-ultrafast",
-      "html_url": "https://github.com/browser-use/jev-ultrafast",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 2471,
-      "forks_count": 141,
-      "pushed_at": "2026-09-18T01:17:37Z",
-      "score": 20.2907
-    },
-    {
-      "full_name": "NVlabs/SoL-Pi",
-      "html_url": "https://github.com/NVlabs/SoL-Pi",
-      "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
-      "language": "TypeScript",
-      "stargazers_count": 2189,
-      "forks_count": 173,
-      "pushed_at": "2026-09-18T02:36:21Z",
-      "score": 20.2712
+      "pushed_at": "2026-09-18T04:44:52Z",
+      "score": 20.8555
     },
     {
       "full_name": "wide-trace/open-higgsfield",
       "html_url": "https://github.com/wide-trace/open-higgsfield",
       "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
       "language": "TypeScript",
-      "stargazers_count": 2274,
-      "forks_count": 302,
+      "stargazers_count": 2696,
+      "forks_count": 472,
       "pushed_at": "2026-09-17T01:53:26Z",
-      "score": 20.2588
+      "score": 20.6516
+    },
+    {
+      "full_name": "Nanako0129/sepia",
+      "html_url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "language": "Python",
+      "stargazers_count": 2675,
+      "forks_count": 177,
+      "pushed_at": "2026-09-17T18:26:36Z",
+      "score": 20.483
+    },
+    {
+      "full_name": "NVlabs/SoL-Pi",
+      "html_url": "https://github.com/NVlabs/SoL-Pi",
+      "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+      "language": "TypeScript",
+      "stargazers_count": 2228,
+      "forks_count": 176,
+      "pushed_at": "2026-09-18T09:29:29Z",
+      "score": 20.2974
     },
     {
       "full_name": "kacperkapusciak/goldie",
       "html_url": "https://github.com/kacperkapusciak/goldie",
       "description": "✨ agentic app store previews and screenshots",
       "language": "TypeScript",
-      "stargazers_count": 2099,
+      "stargazers_count": 2103,
       "forks_count": 180,
       "pushed_at": "2026-09-17T11:39:46Z",
-      "score": 20.2489
+      "score": 20.2508
     },
     {
-      "full_name": "Edge0-AI/Edge0",
-      "html_url": "https://github.com/Edge0-AI/Edge0",
-      "description": null,
-      "language": "Python",
-      "stargazers_count": 1935,
-      "forks_count": 161,
-      "pushed_at": "2026-09-17T04:29:50Z",
-      "score": 20.1122
+      "full_name": "XiaoDuoYa/codex-with-chatgpt",
+      "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "language": "TypeScript",
+      "stargazers_count": 5375,
+      "forks_count": 521,
+      "pushed_at": "2026-09-13T03:22:46Z",
+      "score": 20.1834
     },
     {
       "full_name": "rakanki911/DLSS5-Swapper",
       "html_url": "https://github.com/rakanki911/DLSS5-Swapper",
       "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
       "language": "JavaScript",
-      "stargazers_count": 5575,
+      "stargazers_count": 5656,
       "forks_count": 297,
       "pushed_at": "2026-09-13T02:02:21Z",
-      "score": 19.9396
+      "score": 19.954
     },
     {
       "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
       "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "language": "Python",
-      "stargazers_count": 2404,
-      "forks_count": 2690,
+      "stargazers_count": 2417,
+      "forks_count": 2695,
       "pushed_at": "2026-09-11T18:44:51Z",
-      "score": 19.9214
+      "score": 19.9278
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
       "html_url": "https://github.com/Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "language": "TypeScript",
-      "stargazers_count": 2512,
+      "stargazers_count": 2516,
       "forks_count": 99,
       "pushed_at": "2026-09-16T19:11:03Z",
-      "score": 19.804
+      "score": 19.8056
+    },
+    {
+      "full_name": "Edge0-AI/Edge0",
+      "html_url": "https://github.com/Edge0-AI/Edge0",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 1948,
+      "forks_count": 162,
+      "pushed_at": "2026-09-17T04:29:50Z",
+      "score": 19.7941
     },
     {
       "full_name": "shadcn-ui/lint",
       "html_url": "https://github.com/shadcn-ui/lint",
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "language": "TypeScript",
-      "stargazers_count": 2073,
+      "stargazers_count": 2093,
       "forks_count": 35,
       "pushed_at": "2026-09-17T17:06:14Z",
-      "score": 19.429
-    },
-    {
-      "full_name": "anthropics/commerce-agents",
-      "html_url": "https://github.com/anthropics/commerce-agents",
-      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "language": "Python",
-      "stargazers_count": 2957,
-      "forks_count": 574,
-      "pushed_at": "2026-09-11T07:03:32Z",
-      "score": 19.3568
+      "score": 19.4386
     },
     {
       "full_name": "kunchenguid/backpass",
       "html_url": "https://github.com/kunchenguid/backpass",
       "description": "You don't write AGENTS.md. You train it with gradient descent.",
       "language": "JavaScript",
-      "stargazers_count": 1044,
+      "stargazers_count": 1045,
       "forks_count": 78,
       "pushed_at": "2026-09-17T14:13:44Z",
-      "score": 19.1365
+      "score": 19.1375
     },
     {
       "full_name": "Player-YN/PawWork_ZhuaZhua",
@@ -199,68 +189,78 @@
       "language": "JavaScript",
       "stargazers_count": 2768,
       "forks_count": 10,
-      "pushed_at": "2026-09-17T10:00:44Z",
+      "pushed_at": "2026-09-18T07:18:28Z",
       "score": 19.1252
+    },
+    {
+      "full_name": "anthropics/commerce-agents",
+      "html_url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "language": "Python",
+      "stargazers_count": 2959,
+      "forks_count": 574,
+      "pushed_at": "2026-09-11T07:03:32Z",
+      "score": 19.089
     },
     {
       "full_name": "ashemag/human-atlas",
       "html_url": "https://github.com/ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "language": "TypeScript",
-      "stargazers_count": 3612,
-      "forks_count": 872,
+      "stargazers_count": 3624,
+      "forks_count": 881,
       "pushed_at": "2026-09-06T23:35:06Z",
-      "score": 18.5087
+      "score": 18.5171
     },
     {
       "full_name": "KJGX66F/usque-custom-pro",
       "html_url": "https://github.com/KJGX66F/usque-custom-pro",
       "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
       "language": "JavaScript",
-      "stargazers_count": 1294,
-      "forks_count": 2053,
+      "stargazers_count": 1303,
+      "forks_count": 2083,
       "pushed_at": "2026-09-09T02:06:21Z",
-      "score": 18.3882
+      "score": 18.4024
     },
     {
       "full_name": "byJoey/warp-masque-actions",
       "html_url": "https://github.com/byJoey/warp-masque-actions",
       "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
       "language": "JavaScript",
-      "stargazers_count": 933,
-      "forks_count": 3126,
+      "stargazers_count": 940,
+      "forks_count": 3137,
       "pushed_at": "2026-09-07T12:35:23Z",
-      "score": 18.0287
+      "score": 18.0379
     },
     {
       "full_name": "achimala/dream-loop",
       "html_url": "https://github.com/achimala/dream-loop",
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
       "language": "JavaScript",
-      "stargazers_count": 1401,
+      "stargazers_count": 1408,
       "forks_count": 153,
       "pushed_at": "2026-09-09T22:43:38Z",
-      "score": 17.4234
+      "score": 17.4284
     },
     {
       "full_name": "nateherkai/scroll-craft",
       "html_url": "https://github.com/nateherkai/scroll-craft",
       "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
       "language": "JavaScript",
-      "stargazers_count": 2560,
+      "stargazers_count": 2564,
       "forks_count": 376,
       "pushed_at": "2026-09-04T23:33:30Z",
-      "score": 17.2977
+      "score": 17.2993
     },
     {
       "full_name": "b-nnett/grok-bot-0.18-reconstructed",
       "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
       "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "language": "TypeScript",
-      "stargazers_count": 3507,
-      "forks_count": 3642,
+      "stargazers_count": 3508,
+      "forks_count": 3643,
       "pushed_at": "2026-08-23T20:53:35Z",
-      "score": 16.6091
+      "score": 16.6095
     },
     {
       "full_name": "ahujasid/camera-to-blender",
@@ -297,10 +297,10 @@
       "html_url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
       "description": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study",
       "language": "Python",
-      "stargazers_count": 1748,
-      "forks_count": 117,
+      "stargazers_count": 1783,
+      "forks_count": 119,
       "pushed_at": "2026-08-24T06:57:13Z",
-      "score": 14.3454
+      "score": 14.2263
     }
   ]
 }
