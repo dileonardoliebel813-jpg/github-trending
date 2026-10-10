@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:48:53Z",
+  "generated_at": "2026-10-10T21:01:41Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,210 +7,210 @@
       "html_url": "https://github.com/NandhaKishorM/laya",
       "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
       "language": "Python",
-      "stargazers_count": 32116,
-      "forks_count": 2852,
+      "stargazers_count": 32146,
+      "forks_count": 2853,
       "pushed_at": "2026-10-10T16:25:32Z",
-      "score": 24.3552
+      "score": 24.3563
     },
     {
       "full_name": "zai-org/ZCode",
       "html_url": "https://github.com/zai-org/ZCode",
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "language": "TypeScript",
-      "stargazers_count": 7645,
-      "forks_count": 2331,
+      "stargazers_count": 7649,
+      "forks_count": 2332,
       "pushed_at": "2026-10-10T11:02:50Z",
-      "score": 22.8192
+      "score": 22.8199
     },
     {
       "full_name": "KKKKhazix/AIHOT",
       "html_url": "https://github.com/KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stargazers_count": 7059,
-      "forks_count": 1726,
+      "stargazers_count": 7066,
+      "forks_count": 1727,
       "pushed_at": "2026-10-10T13:32:08Z",
-      "score": 22.5893
+      "score": 22.5906
     },
     {
       "full_name": "jaredpalmer/kev",
       "html_url": "https://github.com/jaredpalmer/kev",
       "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
       "language": "Python",
-      "stargazers_count": 8889,
-      "forks_count": 585,
-      "pushed_at": "2026-10-10T11:30:24Z",
-      "score": 22.2793
+      "stargazers_count": 8895,
+      "forks_count": 586,
+      "pushed_at": "2026-10-10T17:17:56Z",
+      "score": 22.2809
     },
     {
       "full_name": "mizorewww/laya-mlx",
       "html_url": "https://github.com/mizorewww/laya-mlx",
       "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
       "language": "Python",
-      "stargazers_count": 6864,
+      "stargazers_count": 6863,
       "forks_count": 553,
       "pushed_at": "2026-10-10T01:40:05Z",
-      "score": 21.9928
+      "score": 21.9926
     },
     {
       "full_name": "rehan-remade/universal-modder",
       "html_url": "https://github.com/rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stargazers_count": 6268,
-      "forks_count": 611,
+      "stargazers_count": 6336,
+      "forks_count": 620,
       "pushed_at": "2026-10-10T12:27:35Z",
-      "score": 21.9517
+      "score": 21.9698
     },
     {
       "full_name": "CopilotKit/OpenDots",
       "html_url": "https://github.com/CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "language": "TypeScript",
-      "stargazers_count": 4785,
-      "forks_count": 676,
+      "stargazers_count": 4799,
+      "forks_count": 680,
       "pushed_at": "2026-10-10T07:39:31Z",
-      "score": 21.7323
+      "score": 21.7382
     },
     {
       "full_name": "CopilotKit/openmuse",
       "html_url": "https://github.com/CopilotKit/openmuse",
       "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
       "language": "TypeScript",
-      "stargazers_count": 4566,
-      "forks_count": 615,
-      "pushed_at": "2026-10-10T01:25:36Z",
-      "score": 21.6382
+      "stargazers_count": 4578,
+      "forks_count": 617,
+      "pushed_at": "2026-10-10T17:17:39Z",
+      "score": 21.6425
     },
     {
       "full_name": "Ebony-Vinyl/dsh-our-free-model",
       "html_url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
       "language": "JavaScript",
-      "stargazers_count": 6692,
-      "forks_count": 136,
+      "stargazers_count": 6780,
+      "forks_count": 140,
       "pushed_at": "2026-10-10T14:50:18Z",
-      "score": 21.2688
+      "score": 21.2963
     },
     {
       "full_name": "alchaincyf/huashu-art-motion",
       "html_url": "https://github.com/alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "language": "JavaScript",
-      "stargazers_count": 3163,
+      "stargazers_count": 3191,
       "forks_count": 351,
       "pushed_at": "2026-10-10T10:03:21Z",
-      "score": 20.9914
+      "score": 21.0002
     },
     {
       "full_name": "browser-use/jev-ultrafast",
       "html_url": "https://github.com/browser-use/jev-ultrafast",
       "description": "Fastest and cheapest web agent",
       "language": "Python",
-      "stargazers_count": 22548,
+      "stargazers_count": 22556,
       "forks_count": 1654,
       "pushed_at": "2026-09-30T01:24:38Z",
-      "score": 20.8945
+      "score": 20.8949
     },
     {
       "full_name": "QingYunA/answer-me-with-html",
       "html_url": "https://github.com/QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stargazers_count": 2719,
-      "forks_count": 185,
+      "stargazers_count": 2749,
+      "forks_count": 187,
       "pushed_at": "2026-10-10T06:14:23Z",
-      "score": 20.5213
+      "score": 20.5376
     },
     {
       "full_name": "shader-effects-inc/shaders",
       "html_url": "https://github.com/shader-effects-inc/shaders",
       "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
       "language": "TypeScript",
-      "stargazers_count": 3888,
-      "forks_count": 156,
+      "stargazers_count": 3966,
+      "forks_count": 161,
       "pushed_at": "2026-10-09T13:24:56Z",
-      "score": 20.4662
+      "score": 20.5017
+    },
+    {
+      "full_name": "shadany7824/playgta5",
+      "html_url": "https://github.com/shadany7824/playgta5",
+      "description": "A source code for playgta5.com.",
+      "language": "JavaScript",
+      "stargazers_count": 1189,
+      "forks_count": 609,
+      "pushed_at": "2026-10-10T14:14:55Z",
+      "score": 20.2884
     },
     {
       "full_name": "nykooi1/vibe-wise",
       "html_url": "https://github.com/nykooi1/vibe-wise",
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "language": "Python",
-      "stargazers_count": 3327,
+      "stargazers_count": 3346,
       "forks_count": 139,
       "pushed_at": "2026-10-09T09:37:21Z",
-      "score": 20.2531
+      "score": 20.2588
     },
     {
       "full_name": "lemomo-ai/lemo-opuscar",
       "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
       "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. · Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
       "language": "JavaScript",
-      "stargazers_count": 1785,
-      "forks_count": 198,
+      "stargazers_count": 1807,
+      "forks_count": 201,
       "pushed_at": "2026-10-10T11:25:21Z",
-      "score": 20.1344
+      "score": 20.1541
     },
     {
       "full_name": "omnirush-ai/omnirush-gui",
       "html_url": "https://github.com/omnirush-ai/omnirush-gui",
       "description": "A desktop coding agent with free access to frontier models.",
       "language": "TypeScript",
-      "stargazers_count": 3120,
+      "stargazers_count": 3133,
       "forks_count": 61,
-      "pushed_at": "2026-10-10T16:48:38Z",
-      "score": 20.1095
+      "pushed_at": "2026-10-10T20:06:23Z",
+      "score": 20.1136
     },
     {
       "full_name": "edenfunf/reelmimic",
       "html_url": "https://github.com/edenfunf/reelmimic",
       "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
       "language": "JavaScript",
-      "stargazers_count": 1948,
-      "forks_count": 206,
+      "stargazers_count": 1990,
+      "forks_count": 219,
       "pushed_at": "2026-10-09T15:52:56Z",
-      "score": 19.9136
+      "score": 19.9654
     },
     {
       "full_name": "Contrastive-LM/CLM",
       "html_url": "https://github.com/Contrastive-LM/CLM",
       "description": null,
       "language": "Python",
-      "stargazers_count": 2957,
+      "stargazers_count": 2959,
       "forks_count": 256,
       "pushed_at": "2026-10-05T21:13:17Z",
-      "score": 19.5185
+      "score": 19.5192
     },
     {
       "full_name": "mexicat/pdoom-video",
       "html_url": "https://github.com/mexicat/pdoom-video",
       "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
       "language": "TypeScript",
-      "stargazers_count": 2574,
+      "stargazers_count": 2580,
       "forks_count": 284,
       "pushed_at": "2026-10-05T21:26:25Z",
-      "score": 19.4316
+      "score": 19.4339
     },
     {
       "full_name": "Clearailhc/clearai-dsh",
       "html_url": "https://github.com/Clearailhc/clearai-dsh",
       "description": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
       "language": "JavaScript",
-      "stargazers_count": 1410,
+      "stargazers_count": 1414,
       "forks_count": 49,
       "pushed_at": "2026-10-10T11:04:48Z",
-      "score": 19.2081
-    },
-    {
-      "full_name": "dzhng/jevgrep",
-      "html_url": "https://github.com/dzhng/jevgrep",
-      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-      "language": "TypeScript",
-      "stargazers_count": 2540,
-      "forks_count": 187,
-      "pushed_at": "2026-10-02T19:02:26Z",
-      "score": 18.3774
+      "score": 19.2109
     },
     {
       "full_name": "mcncarl/jianying-headless",
@@ -223,14 +223,24 @@
       "score": 18.2885
     },
     {
+      "full_name": "dzhng/jevgrep",
+      "html_url": "https://github.com/dzhng/jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "language": "TypeScript",
+      "stargazers_count": 2544,
+      "forks_count": 187,
+      "pushed_at": "2026-10-02T19:02:26Z",
+      "score": 18.1194
+    },
+    {
       "full_name": "ntfargo/Relapse-Exploit",
       "html_url": "https://github.com/ntfargo/Relapse-Exploit",
       "description": "Exploit chain for PS5 7.00 - 13.60",
       "language": "JavaScript",
-      "stargazers_count": 1856,
+      "stargazers_count": 1867,
       "forks_count": 489,
       "pushed_at": "2026-09-30T19:28:05Z",
-      "score": 18.0321
+      "score": 17.7951
     },
     {
       "full_name": "newliver666/apk-reverse",
@@ -238,69 +248,59 @@
       "description": "Suitable for Android APK reverse engineering analysis",
       "language": "Python",
       "stargazers_count": 3409,
-      "forks_count": 699,
+      "forks_count": 701,
       "pushed_at": "2026-09-24T09:22:21Z",
-      "score": 17.2765
+      "score": 17.2779
     },
     {
       "full_name": "TheoLeeCJ/SemIf-OpenJev",
       "html_url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
       "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
       "language": "Python",
-      "stargazers_count": 4771,
+      "stargazers_count": 4772,
       "forks_count": 347,
       "pushed_at": "2026-09-23T18:48:22Z",
-      "score": 17.2631
+      "score": 17.071
     },
     {
       "full_name": "tamaratran/fast-jev-compaction",
       "html_url": "https://github.com/tamaratran/fast-jev-compaction",
       "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
       "language": "TypeScript",
-      "stargazers_count": 7568,
+      "stargazers_count": 7570,
       "forks_count": 535,
       "pushed_at": "2026-09-18T04:45:31Z",
-      "score": 16.8769
-    },
-    {
-      "full_name": "theoephraim/awesome-cloudflare-selfhosted",
-      "html_url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
-      "description": "🍊☁️ Open-source* apps that replace SaaS product + tools, running in your own Cloudflare account",
-      "language": "JavaScript",
-      "stargazers_count": 1159,
-      "forks_count": 61,
-      "pushed_at": "2026-10-01T18:08:43Z",
-      "score": 16.779
+      "score": 16.8772
     },
     {
       "full_name": "JohnHeibel/PDoomVideo",
       "html_url": "https://github.com/JohnHeibel/PDoomVideo",
       "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
       "language": "JavaScript",
-      "stargazers_count": 1988,
+      "stargazers_count": 1995,
       "forks_count": 211,
       "pushed_at": "2026-09-25T15:11:03Z",
-      "score": 16.339
+      "score": 16.3425
     },
     {
       "full_name": "dgreenheck/tidewater",
       "html_url": "https://github.com/dgreenheck/tidewater",
       "description": "Coastal town built with Opus 5.5",
       "language": "JavaScript",
-      "stargazers_count": 1203,
-      "forks_count": 267,
+      "stargazers_count": 1206,
+      "forks_count": 268,
       "pushed_at": "2026-09-25T04:02:40Z",
-      "score": 15.9542
+      "score": 15.9586
     },
     {
       "full_name": "jarrodwatts/jev-trader",
       "html_url": "https://github.com/jarrodwatts/jev-trader",
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "language": "TypeScript",
-      "stargazers_count": 2927,
+      "stargazers_count": 2929,
       "forks_count": 553,
       "pushed_at": "2026-09-17T02:48:22Z",
-      "score": 15.7862
+      "score": 15.7869
     }
   ]
 }
