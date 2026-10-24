@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:57:39Z",
+  "generated_at": "2026-10-24T10:08:01Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,270 +7,270 @@
       "html_url": "https://github.com/deepseek-ai/DeepInfer",
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "language": "Python",
-      "stargazers_count": 21201,
-      "forks_count": 2356,
+      "stargazers_count": 21461,
+      "forks_count": 2417,
       "pushed_at": "2026-10-21T04:55:44Z",
-      "score": 23.1995
+      "score": 22.9178
     },
     {
       "full_name": "KKKKhazix/AIHOT",
       "html_url": "https://github.com/KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
       "language": "TypeScript",
-      "stargazers_count": 8513,
-      "forks_count": 2035,
+      "stargazers_count": 8523,
+      "forks_count": 2036,
       "pushed_at": "2026-10-22T10:44:35Z",
-      "score": 22.531
+      "score": 22.5324
     },
     {
       "full_name": "rehan-remade/universal-modder",
       "html_url": "https://github.com/rehan-remade/universal-modder",
       "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
       "language": "Python",
-      "stargazers_count": 8818,
-      "forks_count": 968,
-      "pushed_at": "2026-10-23T21:22:22Z",
-      "score": 22.5228
+      "stargazers_count": 8832,
+      "forks_count": 970,
+      "pushed_at": "2026-10-24T04:32:33Z",
+      "score": 22.5254
     },
     {
       "full_name": "wheresryan22/anatomy",
       "html_url": "https://github.com/wheresryan22/anatomy",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
       "language": "JavaScript",
-      "stargazers_count": 19715,
-      "forks_count": 1545,
+      "stargazers_count": 19858,
+      "forks_count": 1556,
       "pushed_at": "2026-10-18T20:20:24Z",
-      "score": 22.0257
-    },
-    {
-      "full_name": "CopilotKit/OpenDots",
-      "html_url": "https://github.com/CopilotKit/OpenDots",
-      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-      "language": "TypeScript",
-      "stargazers_count": 5936,
-      "forks_count": 857,
-      "pushed_at": "2026-10-22T15:15:00Z",
-      "score": 21.7384
+      "score": 22.0365
     },
     {
       "full_name": "lemomo-ai/lemo-opuscar",
       "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
       "description": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的",
       "language": "JavaScript",
-      "stargazers_count": 6165,
-      "forks_count": 696,
-      "pushed_at": "2026-10-22T07:07:05Z",
-      "score": 21.6724
+      "stargazers_count": 6304,
+      "forks_count": 707,
+      "pushed_at": "2026-10-24T09:36:32Z",
+      "score": 22.0303
+    },
+    {
+      "full_name": "CopilotKit/OpenDots",
+      "html_url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "language": "TypeScript",
+      "stargazers_count": 5948,
+      "forks_count": 861,
+      "pushed_at": "2026-10-22T15:15:00Z",
+      "score": 21.7428
     },
     {
       "full_name": "HeyPuter/everything",
       "html_url": "https://github.com/HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "language": "JavaScript",
-      "stargazers_count": 3742,
-      "forks_count": 470,
+      "stargazers_count": 3768,
+      "forks_count": 472,
       "pushed_at": "2026-10-24T01:17:59Z",
-      "score": 21.3051
+      "score": 21.3141
     },
     {
       "full_name": "xiaoyang111222/cn-math-taxonomy",
       "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "language": "Python",
-      "stargazers_count": 2856,
-      "forks_count": 655,
-      "pushed_at": "2026-10-24T02:57:19Z",
-      "score": 21.2006
+      "stargazers_count": 2976,
+      "forks_count": 680,
+      "pushed_at": "2026-10-24T08:33:07Z",
+      "score": 21.2605
     },
     {
       "full_name": "zhongerxin/iPhone-use",
       "html_url": "https://github.com/zhongerxin/iPhone-use",
       "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "language": "Python",
-      "stargazers_count": 4564,
-      "forks_count": 454,
+      "stargazers_count": 4575,
+      "forks_count": 457,
       "pushed_at": "2026-10-22T13:45:15Z",
-      "score": 21.1585
+      "score": 21.1642
     },
     {
       "full_name": "Fei2411/DeepSeek-Bot",
       "html_url": "https://github.com/Fei2411/DeepSeek-Bot",
       "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
       "language": "JavaScript",
-      "stargazers_count": 3496,
-      "forks_count": 327,
-      "pushed_at": "2026-10-24T02:52:33Z",
-      "score": 21.0562
-    },
-    {
-      "full_name": "QingYunA/answer-me-with-html",
-      "html_url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "language": "JavaScript",
-      "stargazers_count": 4317,
-      "forks_count": 288,
-      "pushed_at": "2026-10-22T08:23:28Z",
-      "score": 20.8759
+      "stargazers_count": 3624,
+      "forks_count": 335,
+      "pushed_at": "2026-10-24T09:10:27Z",
+      "score": 21.1042
     },
     {
       "full_name": "google-research/harness2",
       "html_url": "https://github.com/google-research/harness2",
       "description": null,
       "language": "Python",
-      "stargazers_count": 18618,
-      "forks_count": 1810,
+      "stargazers_count": 18760,
+      "forks_count": 1824,
       "pushed_at": "2026-10-14T02:22:51Z",
-      "score": 20.7481
+      "score": 20.7595
     },
     {
       "full_name": "shader-effects-inc/shaders",
       "html_url": "https://github.com/shader-effects-inc/shaders",
       "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
       "language": "TypeScript",
-      "stargazers_count": 5373,
-      "forks_count": 245,
+      "stargazers_count": 5385,
+      "forks_count": 246,
       "pushed_at": "2026-10-21T17:33:36Z",
-      "score": 20.6971
-    },
-    {
-      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "language": "Python",
-      "stargazers_count": 3679,
-      "forks_count": 652,
-      "pushed_at": "2026-10-20T07:03:30Z",
-      "score": 20.4998
-    },
-    {
-      "full_name": "openfilm/openfilm",
-      "html_url": "https://github.com/openfilm/openfilm",
-      "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
-      "language": "TypeScript",
-      "stargazers_count": 2350,
-      "forks_count": 227,
-      "pushed_at": "2026-10-23T15:51:11Z",
-      "score": 20.4773
-    },
-    {
-      "full_name": "sganggs/Stronghold-Protocol",
-      "html_url": "https://github.com/sganggs/Stronghold-Protocol",
-      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-      "language": "JavaScript",
-      "stargazers_count": 1734,
-      "forks_count": 386,
-      "pushed_at": "2026-10-23T21:56:37Z",
-      "score": 20.438
-    },
-    {
-      "full_name": "feitangyuan/onetake",
-      "html_url": "https://github.com/feitangyuan/onetake",
-      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.",
-      "language": "Python",
-      "stargazers_count": 3108,
-      "forks_count": 209,
-      "pushed_at": "2026-10-21T17:58:00Z",
-      "score": 20.0707
-    },
-    {
-      "full_name": "obsidianmd/pele",
-      "html_url": "https://github.com/obsidianmd/pele",
-      "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
-      "language": "TypeScript",
-      "stargazers_count": 3267,
-      "forks_count": 99,
-      "pushed_at": "2026-10-22T22:41:25Z",
-      "score": 20.0667
+      "score": 20.7013
     },
     {
       "full_name": "T-Auto/dsh-ops",
       "html_url": "https://github.com/T-Auto/dsh-ops",
       "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
       "language": "JavaScript",
-      "stargazers_count": 4014,
-      "forks_count": 114,
-      "pushed_at": "2026-10-21T15:22:47Z",
-      "score": 20.0253
+      "stargazers_count": 4067,
+      "forks_count": 118,
+      "pushed_at": "2026-10-24T04:34:04Z",
+      "score": 20.7005
+    },
+    {
+      "full_name": "QingYunA/answer-me-with-html",
+      "html_url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "language": "JavaScript",
+      "stargazers_count": 4332,
+      "forks_count": 288,
+      "pushed_at": "2026-10-22T08:23:28Z",
+      "score": 20.5623
+    },
+    {
+      "full_name": "openfilm/openfilm",
+      "html_url": "https://github.com/openfilm/openfilm",
+      "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+      "language": "TypeScript",
+      "stargazers_count": 2442,
+      "forks_count": 235,
+      "pushed_at": "2026-10-23T15:51:11Z",
+      "score": 20.5329
+    },
+    {
+      "full_name": "sganggs/Stronghold-Protocol",
+      "html_url": "https://github.com/sganggs/Stronghold-Protocol",
+      "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "language": "JavaScript",
+      "stargazers_count": 1745,
+      "forks_count": 387,
+      "pushed_at": "2026-10-23T21:56:37Z",
+      "score": 20.4456
+    },
+    {
+      "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "language": "Python",
+      "stargazers_count": 3693,
+      "forks_count": 655,
+      "pushed_at": "2026-10-20T07:03:30Z",
+      "score": 20.2093
+    },
+    {
+      "full_name": "feitangyuan/onetake",
+      "html_url": "https://github.com/feitangyuan/onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.",
+      "language": "Python",
+      "stargazers_count": 3132,
+      "forks_count": 210,
+      "pushed_at": "2026-10-21T17:58:00Z",
+      "score": 20.0807
+    },
+    {
+      "full_name": "obsidianmd/pele",
+      "html_url": "https://github.com/obsidianmd/pele",
+      "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
+      "language": "TypeScript",
+      "stargazers_count": 3308,
+      "forks_count": 99,
+      "pushed_at": "2026-10-22T22:41:25Z",
+      "score": 20.0791
     },
     {
       "full_name": "dzhng/jevgrep",
       "html_url": "https://github.com/dzhng/jevgrep",
       "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
       "language": "TypeScript",
-      "stargazers_count": 2882,
-      "forks_count": 215,
+      "stargazers_count": 2886,
+      "forks_count": 216,
       "pushed_at": "2026-10-21T19:35:15Z",
-      "score": 20.0093
+      "score": 20.013
     },
     {
       "full_name": "shaongitbd/doory",
       "html_url": "https://github.com/shaongitbd/doory",
       "description": "Open source canva alternative",
       "language": "TypeScript",
-      "stargazers_count": 1799,
-      "forks_count": 137,
+      "stargazers_count": 1808,
+      "forks_count": 140,
       "pushed_at": "2026-10-23T09:10:55Z",
-      "score": 19.9592
+      "score": 19.6471
     },
     {
       "full_name": "alchaincyf/huashu-art-motion",
       "html_url": "https://github.com/alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "language": "JavaScript",
-      "stargazers_count": 5026,
-      "forks_count": 529,
+      "stargazers_count": 5058,
+      "forks_count": 531,
       "pushed_at": "2026-10-16T17:03:31Z",
-      "score": 19.5779
+      "score": 19.5861
     },
     {
       "full_name": "KingKongRobotics/jumper",
       "html_url": "https://github.com/KingKongRobotics/jumper",
       "description": "🦀 Jumper — an crab robot.",
       "language": "Python",
-      "stargazers_count": 2861,
-      "forks_count": 307,
+      "stargazers_count": 2864,
+      "forks_count": 308,
       "pushed_at": "2026-10-19T02:03:02Z",
-      "score": 19.2891
+      "score": 19.2918
     },
     {
       "full_name": "deeplethe/solid-glass",
       "html_url": "https://github.com/deeplethe/solid-glass",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "language": "TypeScript",
-      "stargazers_count": 2190,
+      "stargazers_count": 2192,
       "forks_count": 35,
       "pushed_at": "2026-10-22T18:35:56Z",
-      "score": 19.156
+      "score": 19.1569
     },
     {
       "full_name": "mmparko/dsh-purge",
       "html_url": "https://github.com/mmparko/dsh-purge",
       "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
       "language": "JavaScript",
-      "stargazers_count": 2027,
-      "forks_count": 2688,
+      "stargazers_count": 2094,
+      "forks_count": 2719,
       "pushed_at": "2026-10-13T05:50:46Z",
-      "score": 18.7286
+      "score": 18.5319
     },
     {
       "full_name": "chenglou/handwired",
       "html_url": "https://github.com/chenglou/handwired",
       "description": "Turn your regular JavaScript code into a neural net.",
       "language": "TypeScript",
-      "stargazers_count": 1971,
+      "stargazers_count": 1978,
       "forks_count": 157,
       "pushed_at": "2026-10-17T01:12:12Z",
-      "score": 18.037
+      "score": 18.0405
     },
     {
       "full_name": "lucasmarkes/hairline",
       "html_url": "https://github.com/lucasmarkes/hairline",
       "description": "Isometric line figures that answer the pointer. For React and for anything with a DOM.",
       "language": "TypeScript",
-      "stargazers_count": 2740,
-      "forks_count": 170,
+      "stargazers_count": 2774,
+      "forks_count": 171,
       "pushed_at": "2026-10-14T20:33:03Z",
-      "score": 17.8951
+      "score": 17.9103
     },
     {
       "full_name": "shadany7824/playgta5",
@@ -287,20 +287,20 @@
       "html_url": "https://github.com/Jakeschincariol/replica-skill",
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stargazers_count": 5042,
-      "forks_count": 895,
+      "stargazers_count": 5098,
+      "forks_count": 903,
       "pushed_at": "2026-10-03T12:07:53Z",
-      "score": 17.0589
+      "score": 17.0744
     },
     {
       "full_name": "nykooi1/vibe-wise",
       "html_url": "https://github.com/nykooi1/vibe-wise",
       "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
       "language": "Python",
-      "stargazers_count": 3883,
+      "stargazers_count": 3886,
       "forks_count": 154,
       "pushed_at": "2026-10-09T09:37:21Z",
-      "score": 17.0572
+      "score": 16.8524
     }
   ]
 }
