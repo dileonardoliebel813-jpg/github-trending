@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:54:12Z",
+  "generated_at": "2026-10-30T21:52:28Z",
   "total_count": 30,
   "projects": [
     {
@@ -7,210 +7,210 @@
       "html_url": "https://github.com/Gathin23/cleanyourtv",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "language": "Python",
-      "stargazers_count": 46429,
-      "forks_count": 5719,
-      "pushed_at": "2026-10-30T17:14:15Z",
-      "score": 25.0716
+      "stargazers_count": 46630,
+      "forks_count": 5755,
+      "pushed_at": "2026-10-30T18:31:57Z",
+      "score": 25.079
     },
     {
       "full_name": "seedds/nxnative",
       "html_url": "https://github.com/seedds/nxnative",
       "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
       "language": "Python",
-      "stargazers_count": 10112,
-      "forks_count": 1625,
+      "stargazers_count": 10185,
+      "forks_count": 1634,
       "pushed_at": "2026-10-30T17:06:32Z",
-      "score": 22.9185
+      "score": 22.9285
     },
     {
       "full_name": "deepseek-ai/DeepInfer",
       "html_url": "https://github.com/deepseek-ai/DeepInfer",
       "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "language": "Python",
-      "stargazers_count": 24470,
-      "forks_count": 2949,
+      "stargazers_count": 24484,
+      "forks_count": 2952,
       "pushed_at": "2026-10-26T05:30:52Z",
-      "score": 22.8518
+      "score": 22.8528
     },
     {
       "full_name": "xiaoyang111222/cn-math-taxonomy",
       "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "language": "Python",
-      "stargazers_count": 5480,
-      "forks_count": 1388,
+      "stargazers_count": 5483,
+      "forks_count": 1389,
       "pushed_at": "2026-10-30T10:25:17Z",
-      "score": 22.2272
+      "score": 22.2281
     },
     {
       "full_name": "kingcharleslzy-ai/dsh-purge",
       "html_url": "https://github.com/kingcharleslzy-ai/dsh-purge",
       "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
       "language": "JavaScript",
-      "stargazers_count": 3605,
-      "forks_count": 1888,
+      "stargazers_count": 3630,
+      "forks_count": 1896,
       "pushed_at": "2026-10-30T15:26:26Z",
-      "score": 21.9623
+      "score": 21.9713
     },
     {
       "full_name": "HeyPuter/everything",
       "html_url": "https://github.com/HeyPuter/everything",
       "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "language": "JavaScript",
-      "stargazers_count": 5908,
-      "forks_count": 641,
+      "stargazers_count": 5926,
+      "forks_count": 644,
       "pushed_at": "2026-10-30T15:00:05Z",
-      "score": 21.9165
+      "score": 21.9219
     },
     {
       "full_name": "rddmwmddr/android-ad-cleaner",
       "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "language": "Python",
-      "stargazers_count": 5026,
-      "forks_count": 457,
-      "pushed_at": "2026-10-30T17:29:39Z",
-      "score": 21.586
+      "stargazers_count": 5041,
+      "forks_count": 458,
+      "pushed_at": "2026-10-30T18:16:33Z",
+      "score": 21.5901
     },
     {
       "full_name": "Fei2411/DS-Bot",
       "html_url": "https://github.com/Fei2411/DS-Bot",
       "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
       "language": "JavaScript",
-      "stargazers_count": 4631,
-      "forks_count": 413,
-      "pushed_at": "2026-10-30T17:21:08Z",
-      "score": 21.4537
-    },
-    {
-      "full_name": "AienTech/dossier",
-      "html_url": "https://github.com/AienTech/dossier",
-      "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-      "language": "TypeScript",
-      "stargazers_count": 3354,
-      "forks_count": 713,
-      "pushed_at": "2026-10-29T18:11:20Z",
-      "score": 21.4036
+      "stargazers_count": 4636,
+      "forks_count": 415,
+      "pushed_at": "2026-10-30T17:56:35Z",
+      "score": 21.4572
     },
     {
       "full_name": "QingYunA/answer-me-with-html",
       "html_url": "https://github.com/QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
       "language": "JavaScript",
-      "stargazers_count": 4885,
-      "forks_count": 330,
+      "stargazers_count": 4897,
+      "forks_count": 332,
       "pushed_at": "2026-10-30T08:48:27Z",
-      "score": 21.3952
+      "score": 21.4007
     },
     {
       "full_name": "amosblomqvist/learnharness",
       "html_url": "https://github.com/amosblomqvist/learnharness",
       "description": "Agent harness for learning difficult things.",
       "language": "TypeScript",
-      "stargazers_count": 4218,
-      "forks_count": 653,
+      "stargazers_count": 4275,
+      "forks_count": 660,
       "pushed_at": "2026-10-29T04:35:56Z",
-      "score": 21.2611
+      "score": 21.2798
     },
     {
       "full_name": "interplains/Zero-Breach-Toolkit",
       "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "language": "Python",
-      "stargazers_count": 3814,
-      "forks_count": 410,
+      "stargazers_count": 3845,
+      "forks_count": 414,
       "pushed_at": "2026-10-30T14:24:40Z",
-      "score": 21.256
+      "score": 21.2689
     },
     {
       "full_name": "openfilm/openfilm",
       "html_url": "https://github.com/openfilm/openfilm",
       "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
       "language": "TypeScript",
-      "stargazers_count": 3741,
-      "forks_count": 346,
+      "stargazers_count": 3760,
+      "forks_count": 347,
       "pushed_at": "2026-10-30T08:47:54Z",
-      "score": 21.152
+      "score": 21.1585
+    },
+    {
+      "full_name": "AienTech/dossier",
+      "html_url": "https://github.com/AienTech/dossier",
+      "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
+      "language": "TypeScript",
+      "stargazers_count": 3383,
+      "forks_count": 716,
+      "pushed_at": "2026-10-29T18:11:20Z",
+      "score": 21.0865
     },
     {
       "full_name": "T-Auto/dsh-ops",
       "html_url": "https://github.com/T-Auto/dsh-ops",
       "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
       "language": "JavaScript",
-      "stargazers_count": 4858,
+      "stargazers_count": 4863,
       "forks_count": 154,
       "pushed_at": "2026-10-30T16:13:53Z",
-      "score": 21.0103
-    },
-    {
-      "full_name": "wheresryan22/anatomy",
-      "html_url": "https://github.com/wheresryan22/anatomy",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "language": "JavaScript",
-      "stargazers_count": 22941,
-      "forks_count": 1886,
-      "pushed_at": "2026-10-18T20:20:24Z",
-      "score": 20.7425
+      "score": 21.0113
     },
     {
       "full_name": "obsidianmd/pele",
       "html_url": "https://github.com/obsidianmd/pele",
       "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
       "language": "TypeScript",
-      "stargazers_count": 3931,
-      "forks_count": 118,
+      "stargazers_count": 3937,
+      "forks_count": 119,
       "pushed_at": "2026-10-30T16:36:52Z",
-      "score": 20.6665
+      "score": 20.6722
+    },
+    {
+      "full_name": "wheresryan22/anatomy",
+      "html_url": "https://github.com/wheresryan22/anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "language": "JavaScript",
+      "stargazers_count": 22992,
+      "forks_count": 1892,
+      "pushed_at": "2026-10-18T20:20:24Z",
+      "score": 20.5191
     },
     {
       "full_name": "designfuchen/word-atlas",
       "html_url": "https://github.com/designfuchen/word-atlas",
       "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "language": "TypeScript",
-      "stargazers_count": 3351,
-      "forks_count": 731,
+      "stargazers_count": 3353,
+      "forks_count": 732,
       "pushed_at": "2026-10-27T10:55:44Z",
-      "score": 20.4636
+      "score": 20.4649
     },
     {
       "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
       "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "language": "Python",
-      "stargazers_count": 3847,
+      "stargazers_count": 3850,
       "forks_count": 674,
       "pushed_at": "2026-10-26T16:43:07Z",
-      "score": 20.2644
+      "score": 20.2652
     },
     {
       "full_name": "shaongitbd/doory",
       "html_url": "https://github.com/shaongitbd/doory",
       "description": "Open source canva alternative",
       "language": "TypeScript",
-      "stargazers_count": 1921,
+      "stargazers_count": 1922,
       "forks_count": 154,
       "pushed_at": "2026-10-29T04:59:44Z",
-      "score": 19.755
+      "score": 19.7555
     },
     {
       "full_name": "google-research/harness2",
       "html_url": "https://github.com/google-research/harness2",
       "description": null,
       "language": "Python",
-      "stargazers_count": 21475,
-      "forks_count": 2129,
+      "stargazers_count": 21499,
+      "forks_count": 2133,
       "pushed_at": "2026-10-14T02:22:51Z",
-      "score": 19.6731
+      "score": 19.6751
     },
     {
       "full_name": "zhongerxin/iPhone-use",
       "html_url": "https://github.com/zhongerxin/iPhone-use",
       "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
       "language": "Python",
-      "stargazers_count": 4788,
+      "stargazers_count": 4789,
       "forks_count": 478,
       "pushed_at": "2026-10-22T13:45:15Z",
-      "score": 19.2192
+      "score": 19.2194
     },
     {
       "full_name": "deeplethe/solid-glass",
@@ -227,10 +227,10 @@
       "html_url": "https://github.com/sourcepro5/WeChatAgent",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 2158,
+      "stargazers_count": 2160,
       "forks_count": 35,
       "pushed_at": "2026-10-29T00:31:15Z",
-      "score": 19.1413
+      "score": 19.1422
     },
     {
       "full_name": "darrenprx/lolPing",
@@ -247,60 +247,60 @@
       "html_url": "https://github.com/alchaincyf/huashu-art-motion",
       "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
       "language": "JavaScript",
-      "stargazers_count": 5816,
+      "stargazers_count": 5823,
       "forks_count": 588,
       "pushed_at": "2026-10-16T17:03:31Z",
-      "score": 18.1286
+      "score": 18.1298
     },
     {
       "full_name": "alchaincyf/huashu-motion",
       "html_url": "https://github.com/alchaincyf/huashu-motion",
       "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "language": "JavaScript",
-      "stargazers_count": 1922,
+      "stargazers_count": 1923,
       "forks_count": 183,
       "pushed_at": "2026-10-22T12:19:37Z",
-      "score": 17.8284
+      "score": 17.8289
     },
     {
       "full_name": "mmparko/dsh-purge",
       "html_url": "https://github.com/mmparko/dsh-purge",
       "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
       "language": "JavaScript",
-      "stargazers_count": 2743,
-      "forks_count": 3221,
+      "stargazers_count": 2746,
+      "forks_count": 3223,
       "pushed_at": "2026-10-13T05:50:46Z",
-      "score": 17.6302
-    },
-    {
-      "full_name": "lucasmarkes/hairline",
-      "html_url": "https://github.com/lucasmarkes/hairline",
-      "description": "Isometric line figures that answer the pointer. For React and for anything with a DOM.",
-      "language": "TypeScript",
-      "stargazers_count": 3150,
-      "forks_count": 202,
-      "pushed_at": "2026-10-14T20:33:03Z",
-      "score": 16.7774
+      "score": 17.6316
     },
     {
       "full_name": "chenglou/handwired",
       "html_url": "https://github.com/chenglou/handwired",
       "description": "Turn your regular JavaScript code into a neural net.",
       "language": "TypeScript",
-      "stargazers_count": 2074,
+      "stargazers_count": 2075,
       "forks_count": 160,
       "pushed_at": "2026-10-17T01:12:12Z",
-      "score": 16.6619
+      "score": 16.6623
+    },
+    {
+      "full_name": "lucasmarkes/hairline",
+      "html_url": "https://github.com/lucasmarkes/hairline",
+      "description": "Isometric line figures that answer the pointer. For React and for anything with a DOM.",
+      "language": "TypeScript",
+      "stargazers_count": 3154,
+      "forks_count": 202,
+      "pushed_at": "2026-10-14T20:33:03Z",
+      "score": 16.5798
     },
     {
       "full_name": "Jakeschincariol/replica-skill",
       "html_url": "https://github.com/Jakeschincariol/replica-skill",
       "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
       "language": "Python",
-      "stargazers_count": 6621,
-      "forks_count": 1172,
+      "stargazers_count": 6652,
+      "forks_count": 1179,
       "pushed_at": "2026-10-03T12:07:53Z",
-      "score": 16.3975
+      "score": 16.4052
     }
   ]
 }
