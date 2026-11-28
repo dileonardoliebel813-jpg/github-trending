@@ -1,306 +1,306 @@
 {
-  "generated_at": "2026-11-27T15:58:45Z",
+  "generated_at": "2026-11-28T00:57:49Z",
   "total_count": 30,
   "projects": [
-    {
-      "full_name": "JuneYaooo/rea-video",
-      "html_url": "https://github.com/JuneYaooo/rea-video",
-      "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
-      "language": "Python",
-      "stargazers_count": 13891,
-      "forks_count": 2016,
-      "pushed_at": "2026-11-26T12:39:13Z",
-      "score": 23.0159
-    },
-    {
-      "full_name": "mdiri-ai/SoduWork",
-      "html_url": "https://github.com/mdiri-ai/SoduWork",
-      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-      "language": "JavaScript",
-      "stargazers_count": 8694,
-      "forks_count": 857,
-      "pushed_at": "2026-11-27T12:01:09Z",
-      "score": 22.4478
-    },
     {
       "full_name": "KKKKhazix/agent-autoloop",
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stargazers_count": 6708,
+      "stargazers_count": 6717,
       "forks_count": 1247,
       "pushed_at": "2026-11-27T01:22:19Z",
-      "score": 22.3759
-    },
-    {
-      "full_name": "RoutineMiku/apkstart",
-      "html_url": "https://github.com/RoutineMiku/apkstart",
-      "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
-      "language": "JavaScript",
-      "stargazers_count": 10073,
-      "forks_count": 984,
-      "pushed_at": "2026-11-26T10:17:24Z",
-      "score": 22.3362
+      "score": 22.3772
     },
     {
       "full_name": "ersinkoc/phonebox",
       "html_url": "https://github.com/ersinkoc/phonebox",
       "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
       "language": "JavaScript",
-      "stargazers_count": 7551,
-      "forks_count": 853,
-      "pushed_at": "2026-11-27T15:50:19Z",
-      "score": 22.3045
+      "stargazers_count": 7708,
+      "forks_count": 869,
+      "pushed_at": "2026-11-28T00:51:29Z",
+      "score": 22.3344
     },
     {
       "full_name": "simplexai-labs/linger",
       "html_url": "https://github.com/simplexai-labs/linger",
       "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
       "language": "TypeScript",
-      "stargazers_count": 5062,
-      "forks_count": 475,
-      "pushed_at": "2026-11-27T15:42:52Z",
-      "score": 21.6124
-    },
-    {
-      "full_name": "XinaTian/MROffice",
-      "html_url": "https://github.com/XinaTian/MROffice",
-      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-      "language": "TypeScript",
-      "stargazers_count": 4873,
-      "forks_count": 421,
-      "pushed_at": "2026-11-26T23:12:00Z",
-      "score": 21.5142
+      "stargazers_count": 5106,
+      "forks_count": 479,
+      "pushed_at": "2026-11-27T20:19:02Z",
+      "score": 21.6253
     },
     {
       "full_name": "4lwayz/portwatch-vi",
       "html_url": "https://github.com/4lwayz/portwatch-vi",
       "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "language": "JavaScript",
-      "stargazers_count": 6416,
-      "forks_count": 182,
-      "pushed_at": "2026-11-27T14:47:43Z",
-      "score": 21.3714
+      "stargazers_count": 6749,
+      "forks_count": 200,
+      "pushed_at": "2026-11-27T22:11:07Z",
+      "score": 21.469
     },
     {
       "full_name": "deepseek-ai/chat-demo",
       "html_url": "https://github.com/deepseek-ai/chat-demo",
       "description": "Chat Demo",
       "language": "TypeScript",
-      "stargazers_count": 5514,
-      "forks_count": 1327,
+      "stargazers_count": 5520,
+      "forks_count": 1331,
       "pushed_at": "2026-11-24T11:20:28Z",
-      "score": 21.2593
+      "score": 21.2619
     },
     {
-      "full_name": "BryceYuuu/RUN",
-      "html_url": "https://github.com/BryceYuuu/RUN",
-      "description": "RUN · 润：中国护照持有人的海外移居手册。欧洲 36 国 110 条移民路线 + 13 个主要移民地区：数字游民签证、欧盟蓝卡、技术移民、留学转工作、创业自雇、投资居留，每条附官方来源，持续更新。",
+      "full_name": "XinaTian/MROffice",
+      "html_url": "https://github.com/XinaTian/MROffice",
+      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "language": "TypeScript",
+      "stargazers_count": 5056,
+      "forks_count": 423,
+      "pushed_at": "2026-11-26T23:12:00Z",
+      "score": 21.2256
+    },
+    {
+      "full_name": "ProjectLeonida/mandy",
+      "html_url": "https://github.com/ProjectLeonida/mandy",
+      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "language": "Python",
-      "stargazers_count": 5091,
-      "forks_count": 351,
-      "pushed_at": "2026-11-26T12:07:03Z",
-      "score": 21.1394
+      "stargazers_count": 2835,
+      "forks_count": 617,
+      "pushed_at": "2026-11-28T00:21:45Z",
+      "score": 21.1634
     },
     {
       "full_name": "FrigadeHQ/yogurt",
       "html_url": "https://github.com/FrigadeHQ/yogurt",
       "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
       "language": "TypeScript",
-      "stargazers_count": 3725,
-      "forks_count": 331,
-      "pushed_at": "2026-11-27T04:08:01Z",
-      "score": 21.1257
+      "stargazers_count": 3754,
+      "forks_count": 332,
+      "pushed_at": "2026-11-27T21:15:54Z",
+      "score": 21.1349
     },
     {
       "full_name": "ZiChuanLan/freebie-radar",
       "html_url": "https://github.com/ZiChuanLan/freebie-radar",
       "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
       "language": "TypeScript",
-      "stargazers_count": 3003,
-      "forks_count": 493,
+      "stargazers_count": 3028,
+      "forks_count": 494,
       "pushed_at": "2026-11-27T09:41:16Z",
-      "score": 21.109
-    },
-    {
-      "full_name": "ubiquitarianism/leonida",
-      "html_url": "https://github.com/ubiquitarianism/leonida",
-      "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-      "language": "Python",
-      "stargazers_count": 2605,
-      "forks_count": 590,
-      "pushed_at": "2026-11-27T13:19:01Z",
-      "score": 21.0565
+      "score": 21.1183
     },
     {
       "full_name": "elvarofficial/teardown",
       "html_url": "https://github.com/elvarofficial/teardown",
       "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "language": "JavaScript",
-      "stargazers_count": 4318,
-      "forks_count": 637,
+      "stargazers_count": 4327,
+      "forks_count": 639,
       "pushed_at": "2026-11-25T11:39:22Z",
-      "score": 20.955
+      "score": 20.9587
+    },
+    {
+      "full_name": "CzzzzzzJ/mdldm-maitian",
+      "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+      "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+      "language": "JavaScript",
+      "stargazers_count": 2332,
+      "forks_count": 602,
+      "pushed_at": "2026-11-28T00:14:03Z",
+      "score": 20.9559
     },
     {
       "full_name": "shanselman/gputaskman",
       "html_url": "https://github.com/shanselman/gputaskman",
       "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights for NVIDIA, AMD, and Intel GPUs (plus Huawei Ascend on Linux).",
       "language": "Python",
-      "stargazers_count": 3882,
+      "stargazers_count": 3886,
       "forks_count": 196,
       "pushed_at": "2026-11-27T01:42:34Z",
-      "score": 20.906
+      "score": 20.907
+    },
+    {
+      "full_name": "atuizz/posewear",
+      "html_url": "https://github.com/atuizz/posewear",
+      "description": "姿势、服装、人像参考图库，附中英文提示词，可在浏览器里 AI 试穿 · Pose, outfit & portrait reference library with bilingual prompts and in-browser AI try-on",
+      "language": "JavaScript",
+      "stargazers_count": 2227,
+      "forks_count": 497,
+      "pushed_at": "2026-11-27T07:53:47Z",
+      "score": 20.8142
     },
     {
       "full_name": "Hut-hzf/ung220z-tool",
       "html_url": "https://github.com/Hut-hzf/ung220z-tool",
       "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
       "language": "Python",
-      "stargazers_count": 5834,
-      "forks_count": 1266,
+      "stargazers_count": 5878,
+      "forks_count": 1276,
       "pushed_at": "2026-11-22T07:06:43Z",
-      "score": 20.7087
+      "score": 20.7201
     },
     {
-      "full_name": "Immortal-Protocols/lastbook",
-      "html_url": "https://github.com/Immortal-Protocols/lastbook",
-      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
-      "language": "Python",
-      "stargazers_count": 3097,
-      "forks_count": 387,
-      "pushed_at": "2026-11-25T20:45:48Z",
-      "score": 20.6912
-    },
-    {
-      "full_name": "agentes-chat/agentes-chat",
-      "html_url": "https://github.com/agentes-chat/agentes-chat",
-      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "full_name": "nexu-io/opengame",
+      "html_url": "https://github.com/nexu-io/opengame",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
       "language": "TypeScript",
-      "stargazers_count": 2080,
-      "forks_count": 426,
-      "pushed_at": "2026-11-27T15:54:50Z",
-      "score": 20.669
+      "stargazers_count": 2251,
+      "forks_count": 367,
+      "pushed_at": "2026-11-27T21:15:04Z",
+      "score": 20.6736
+    },
+    {
+      "full_name": "pierridotite/mobile-agent-testers",
+      "html_url": "https://github.com/pierridotite/mobile-agent-testers",
+      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "language": "Python",
+      "stargazers_count": 2613,
+      "forks_count": 267,
+      "pushed_at": "2026-11-27T20:03:00Z",
+      "score": 20.6641
     },
     {
       "full_name": "RMvdesi/obsidian-prism",
       "html_url": "https://github.com/RMvdesi/obsidian-prism",
       "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
       "language": "JavaScript",
-      "stargazers_count": 2855,
-      "forks_count": 122,
+      "stargazers_count": 2935,
+      "forks_count": 131,
       "pushed_at": "2026-11-27T12:08:29Z",
-      "score": 20.3633
+      "score": 20.4262
     },
     {
-      "full_name": "heydamir/unslop",
-      "html_url": "https://github.com/heydamir/unslop",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "full_name": "opensetlabs/openset-llm",
+      "html_url": "https://github.com/opensetlabs/openset-llm",
+      "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+      "language": "Python",
+      "stargazers_count": 2211,
+      "forks_count": 212,
+      "pushed_at": "2026-11-27T21:44:57Z",
+      "score": 20.3823
+    },
+    {
+      "full_name": "Immortal-Protocols/lastbook",
+      "html_url": "https://github.com/Immortal-Protocols/lastbook",
+      "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+      "language": "Python",
+      "stargazers_count": 3102,
+      "forks_count": 388,
+      "pushed_at": "2026-11-25T20:45:48Z",
+      "score": 20.377
+    },
+    {
+      "full_name": "WhiteBr1ck/agy-powertools",
+      "html_url": "https://github.com/WhiteBr1ck/agy-powertools",
+      "description": "Antigravity 2.0 原生界面增强插件：界面汉化、类 Codex 紧凑排版与阶段汇报、上下文与缓存监控、会话分支及本地用量面板",
       "language": "JavaScript",
-      "stargazers_count": 22496,
-      "forks_count": 1411,
-      "pushed_at": "2026-11-15T00:55:20Z",
-      "score": 20.3507
+      "stargazers_count": 1903,
+      "forks_count": 81,
+      "pushed_at": "2026-11-27T19:35:35Z",
+      "score": 19.7551
     },
     {
       "full_name": "iamajmeena/neonclipping",
       "html_url": "https://github.com/iamajmeena/neonclipping",
       "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "language": "Python",
-      "stargazers_count": 2870,
-      "forks_count": 192,
+      "stargazers_count": 2927,
+      "forks_count": 194,
       "pushed_at": "2026-11-24T13:27:46Z",
-      "score": 19.6421
+      "score": 19.6669
     },
     {
       "full_name": "caru-ini/stack-diagram",
       "html_url": "https://github.com/caru-ini/stack-diagram",
       "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "language": "TypeScript",
-      "stargazers_count": 2971,
+      "stargazers_count": 2977,
       "forks_count": 166,
       "pushed_at": "2026-11-24T05:26:39Z",
-      "score": 19.6044
+      "score": 19.6064
     },
     {
       "full_name": "patch-gg/pixelfx",
       "html_url": "https://github.com/patch-gg/pixelfx",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "language": "JavaScript",
-      "stargazers_count": 9615,
-      "forks_count": 1238,
+      "stargazers_count": 9644,
+      "forks_count": 1241,
       "pushed_at": "2026-11-13T08:43:39Z",
-      "score": 19.0031
+      "score": 19.0073
     },
     {
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
       "language": "TypeScript",
-      "stargazers_count": 24731,
-      "forks_count": 3109,
+      "stargazers_count": 24739,
+      "forks_count": 3111,
       "pushed_at": "2026-11-03T09:29:14Z",
-      "score": 18.6303
+      "score": 18.631
     },
     {
       "full_name": "sybil-solutions/inference-optimisation-skill",
       "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "language": "Python",
-      "stargazers_count": 2865,
-      "forks_count": 262,
+      "stargazers_count": 2884,
+      "forks_count": 265,
       "pushed_at": "2026-11-16T18:40:08Z",
-      "score": 17.9121
+      "score": 17.6894
     },
     {
       "full_name": "Noniv/abyssal-garden",
       "html_url": "https://github.com/Noniv/abyssal-garden",
       "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
       "language": "JavaScript",
-      "stargazers_count": 3051,
-      "forks_count": 451,
+      "stargazers_count": 3062,
+      "forks_count": 453,
       "pushed_at": "2026-11-14T17:41:33Z",
-      "score": 17.7836
-    },
-    {
-      "full_name": "sarpstar/cinecode",
-      "html_url": "https://github.com/sarpstar/cinecode",
-      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "language": "Python",
-      "stargazers_count": 3110,
-      "forks_count": 521,
-      "pushed_at": "2026-11-12T21:40:34Z",
-      "score": 17.4424
+      "score": 17.5696
     },
     {
       "full_name": "N1nEmAn/sapper-v2",
       "html_url": "https://github.com/N1nEmAn/sapper-v2",
       "description": "The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h unattended, 1B tokens beat 4.5B). Not just a tool: evolvable by design. Grow your own fruit on the Nüwa Foundation (Create/Language/History).",
       "language": "Python",
-      "stargazers_count": 2678,
-      "forks_count": 1294,
+      "stargazers_count": 2682,
+      "forks_count": 1295,
       "pushed_at": "2026-11-11T12:18:45Z",
-      "score": 17.3428
+      "score": 17.3447
+    },
+    {
+      "full_name": "sarpstar/cinecode",
+      "html_url": "https://github.com/sarpstar/cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "language": "Python",
+      "stargazers_count": 3131,
+      "forks_count": 522,
+      "pushed_at": "2026-11-12T21:40:34Z",
+      "score": 17.2445
     },
     {
       "full_name": "JenkinWoo/sheeridVerify",
       "html_url": "https://github.com/JenkinWoo/sheeridVerify",
       "description": null,
       "language": "JavaScript",
-      "stargazers_count": 4563,
-      "forks_count": 1931,
+      "stargazers_count": 4578,
+      "forks_count": 1933,
       "pushed_at": "2026-11-06T09:54:37Z",
-      "score": 17.175
+      "score": 17.1788
     },
     {
       "full_name": "mromidev/claude-animated-shorts",
       "html_url": "https://github.com/mromidev/claude-animated-shorts",
       "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "language": "TypeScript",
-      "stargazers_count": 5181,
-      "forks_count": 1057,
+      "stargazers_count": 5220,
+      "forks_count": 1062,
       "pushed_at": "2026-11-01T05:57:14Z",
-      "score": 16.2385
+      "score": 16.2484
     }
   ]
 }
